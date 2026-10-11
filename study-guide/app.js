@@ -52,7 +52,7 @@ function render() {
     if (activeTier === 'all' && previousTier !== q.tier) {
       const heading = document.createElement('div');
       heading.className = 'tier-heading';
-      heading.textContent = ({1:'01 · Start here — high value',2:'02 · Next — useful depth',3:'03 · Optional — niche or legacy'})[q.tier];
+      heading.textContent = ({1:'01 · Core — recurring concepts and common coding patterns',2:'02 · Next — useful depth and practical role-specific topics',3:'03 · Optional — narrower, legacy, or puzzle-focused questions'})[q.tier];
       list.append(heading);
       previousTier = q.tier;
     }
@@ -80,7 +80,7 @@ function render() {
     details.className = 'question-details';
     const number = document.createElement('span');
     number.className = 'question-number';
-    number.textContent = `#${q.id}`;
+    number.textContent = `Rank ${q.globalRank} · source #${q.id}`;
     const section = document.createElement('span');
     section.className = 'section-tag';
     section.textContent = q.section;
@@ -120,7 +120,7 @@ Promise.all([fetch('./questions.json'), fetch('./answers.json')]).then(async ([q
   if (!questionResponse.ok || !answerResponse.ok) throw new Error('Could not load the study guide.');
   return Promise.all([questionResponse.json(), answerResponse.json()]);
 }).then(([questionData, answerData]) => {
-  questions = questionData.sort((a,b) => a.tier - b.tier || (a.rank ?? 1000 + a.id) - (b.rank ?? 1000 + b.id));
+  questions = questionData.sort((a,b) => a.globalRank - b.globalRank);
   answers = answerData;
   updateProgress(); render();
 }).catch(() => {

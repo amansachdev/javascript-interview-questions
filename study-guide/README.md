@@ -1,6 +1,20 @@
 # JavaScript Interview Study Guide
 
-A static, locally runnable study checklist for the 518 questions in the main README. It ranks a curated 100-question core first, keeps the other questions available by priority, and expands each answer inline from the README. Checked items are saved in browser local storage.
+A static study checklist for the 518 numbered questions and answers in the repository README. It expands answer content in place, searches by question or topic, and saves checked items in browser local storage.
+
+## How the ranking was reviewed
+
+I reviewed the full question list and assigned every item a position and tier using three editorial factors:
+
+1. **Breadth:** how central the concept is to JavaScript across frontend and general application work.
+2. **Interview and coding relevance:** whether current JavaScript interview preparation guides repeatedly emphasize it, or use it in common implementation exercises.
+3. **Transferability and currency:** whether it applies broadly today, is mainly role/runtime-specific, depends on an older practice, or is mostly a one-off output puzzle.
+
+“Core” starts with closures and scope, `this` and function behavior, promises and event-loop ordering, data types, objects and arrays, common coding patterns, and browser event handling. “Next” contains useful supporting concepts and deeper or role-specific topics. “Optional” contains narrower APIs, legacy details, highly specialized runtime topics, and isolated output puzzles. Repeated questions on the same concept are lower than the clearest representative where possible.
+
+The current cut is **100 Core**, **267 Next**, and **151 Optional**. The displayed numbers put Core first, followed by Next and Optional; within each tier, related topics are grouped and the order reflects broad usefulness before narrower detail. Treat nearby positions as a study sequence, not as a meaningful difference in measured odds.
+
+The order draws on overlap between current frontend interview prep material such as [GreatFrontEnd’s JavaScript interview checklist](https://www.greatfrontend.com/front-end-interview-playbook/javascript) and [BFE.dev’s JavaScript interview task list](https://bigfrontend.dev/list/rzit2j8m6s7g3z6bnus). Those sources are preparation guides, not a representative dataset of actual interviews. The ranking is therefore a reasoned study order, not a claim of measured interview frequency; role, seniority, and company can change what matters.
 
 ## Run locally
 
@@ -10,12 +24,8 @@ From the repository root:
 python3 -m http.server 8000
 ```
 
-Then open <http://localhost:8000/study-guide/>. Progress is saved in this browser on this device and does not sync to another browser or device.
+Then open <http://localhost:8000/study-guide/>. Progress stays in this browser on this device and does not sync to other browsers or devices.
 
 ## GitHub Pages
 
 The repository includes a GitHub Actions workflow that publishes this folder as the Pages site whenever `study-guide/` changes on `master`. Enable **Settings → Pages → Build and deployment → GitHub Actions** if needed. The site URL on your fork is `https://<your-github-username>.github.io/javascript-interview-questions/`.
-
-## Ranking notes
-
-“Start here” prioritizes concepts that transfer across modern JavaScript interviews: functions and scope, values and objects, arrays, async behavior, modules, browser events, and core modern syntax. “Next” adds useful depth. “Optional” contains narrower APIs, niche browser or runtime details, legacy practices, and output puzzles. This is an editorial study order, not a prediction of what a specific interviewer will ask.
