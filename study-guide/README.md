@@ -1,6 +1,10 @@
 # JavaScript Interview Study Guide
 
-A static study checklist for the 518 numbered questions and answers in the repository README. It expands answer content in place, searches by question or topic, and saves checked items in browser local storage.
+A static study checklist for the 518 numbered questions and answers in the repository README. It expands answer content in place, searches by question or topic, and syncs checked items through Cloud Firestore.
+
+## Progress sync
+
+Progress is stored in the shared Firestore document `progress/shared` in the same Firebase project used by `personal-notes`. It syncs across devices without an account. As with the shared note, anyone who opens the public site can see and change the same checklist; do not use this pattern for private progress. Firestore rules limit writes to the 518 question IDs and preserve the existing shared-note rules. If Firebase is unavailable or not configured during local development, the checklist falls back to this browser's local storage.
 
 ## How the ranking was reviewed
 
@@ -18,14 +22,19 @@ The order draws on overlap between current frontend interview prep material such
 
 ## Run locally
 
-From the repository root:
+From this directory:
 
 ```sh
-python3 -m http.server 8000
+npm ci
+cp .env.example .env
+# Fill in the Firebase web app values in .env, then:
+npm run dev
 ```
 
-Then open <http://localhost:8000/study-guide/>. Progress stays in this browser on this device and does not sync to other browsers or devices.
+Without Firebase values, the guide still works and stores progress locally. The Firebase web config is public by design; access is controlled by Firestore rules.
 
 ## GitHub Pages
 
-The repository includes a GitHub Actions workflow that publishes this folder as the Pages site whenever `study-guide/` changes on `master`. Enable **Settings → Pages → Build and deployment → GitHub Actions** if needed. The site URL on your fork is `https://<your-github-username>.github.io/javascript-interview-questions/`.
+The GitHub Actions workflow builds and publishes this folder whenever `study-guide/` changes on `master`. It uses the repository secrets `VITE_FIREBASE_API_KEY`, `VITE_FIREBASE_PROJECT_ID`, and `VITE_FIREBASE_APP_ID`. Enable **Settings → Pages → Build and deployment → GitHub Actions** if needed. The site URL on your fork is `https://<your-github-username>.github.io/javascript-interview-questions/`.
+
+To deploy Firestore rules from this directory, use `firebase deploy --only firestore:rules --project note-taker-692b8`. The rules file includes both the study progress rule and the existing `notes/shared` rule.

@@ -1,0 +1,17 @@
+{
+  "name": "javascript-interview-study-guide",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && cp questions.json answers.json dist/ && cp -R images dist/images",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^12.4.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  }
+}

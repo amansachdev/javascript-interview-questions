@@ -6,8 +6,7 @@
     <meta name="theme-color" content="#f5f4ef" />
     <meta name="description" content="A ranked, bookmarkable JavaScript interview question study guide." />
     <title>JavaScript Interview Study Guide</title>
-    <link rel="stylesheet" href="./styles.css" />
-    <script src="./app.js" defer></script>
+    <script type="module" src="./app.js"></script>
   </head>
   <body>
     <main class="shell">
@@ -23,6 +22,7 @@
         <div class="progress-wrap" aria-live="polite">
           <div class="progress-top"><span id="progress-label">Your progress</span><strong id="progress-count">0 / 518 done</strong></div>
           <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+          <div id="sync-status" class="sync-status" role="status">Loading progress…</div>
         </div>
       </header>
 
@@ -43,7 +43,7 @@
         <div id="question-list" class="question-list" aria-live="polite"></div>
         <div id="empty-state" class="empty-state" hidden><span class="empty-mark">⌕</span><strong>No questions found</strong><p>Try another search or choose a different priority.</p></div>
       </section>
-      <footer><span>Priorities are an editorial guide, not measured interview odds. Answers expand here; progress stays in this browser.</span></footer>
+      <footer><span>Priorities are an editorial guide, not measured interview odds. Answers expand here. The checklist is shared with everyone using this link.</span></footer>
     </main>
   </body>
 </html>

@@ -1,21 +1,79 @@
+import './styles.css';
+import { arrayRemove, arrayUnion, doc, onSnapshot, serverTimestamp, setDoc, updateDoc } from 'firebase/firestore';
+import { configured, db } from './firebase.js';
+
 const PROGRESS_KEY = 'javascript-interview-study-progress-v1';
+const progressRef = configured ? doc(db, 'progress', 'shared') : null;
 const list = document.querySelector('#question-list');
 const query = document.querySelector('#search');
 const hideDone = document.querySelector('#hide-done');
 const empty = document.querySelector('#empty-state');
+const syncStatus = document.querySelector('#sync-status');
 let questions = [];
 let answers = {};
 let activeTier = 'all';
 let completed = readProgress();
+let syncReady = !configured;
 
 function readProgress() {
   try {
     const value = JSON.parse(localStorage.getItem(PROGRESS_KEY) || '[]');
-    return new Set(Array.isArray(value) ? value : []);
+    return new Set(validIds(value));
   } catch { return new Set(); }
 }
 function saveProgress() {
   try { localStorage.setItem(PROGRESS_KEY, JSON.stringify([...completed])); } catch { /* Storage may be disabled. */ }
+}
+function setSyncStatus(message, state = '') {
+  syncStatus.textContent = message;
+  syncStatus.dataset.state = state;
+}
+function validIds(value) {
+  return Array.isArray(value) ? value.filter(id => Number.isInteger(id) && id > 0 && id <= 518) : [];
+}
+function syncSharedProgress() {
+  if (!configured) {
+    setSyncStatus('Cloud sync is not configured · saved in this browser', 'local');
+    return;
+  }
+
+  setSyncStatus('Connecting to shared progress…');
+  let firstSnapshot = true;
+  onSnapshot(progressRef, async snapshot => {
+    if (firstSnapshot) {
+      firstSnapshot = false;
+      const remoteIds = new Set(validIds(snapshot.exists() ? snapshot.data().completed : []));
+      const needsWrite = !snapshot.exists();
+      if (needsWrite) for (const id of completed) remoteIds.add(id);
+      completed = remoteIds;
+      saveProgress();
+      updateProgress();
+      render();
+
+      try {
+        if (needsWrite) await setDoc(progressRef, { completed: [...completed], updatedAt: serverTimestamp() });
+        syncReady = true;
+        setSyncStatus('Synced · shared with everyone using this link', 'online');
+      } catch (error) {
+        syncReady = true;
+        setSyncStatus('Cloud sync unavailable · saved in this browser', 'local');
+        console.error('Could not initialize shared progress:', error);
+      }
+      render();
+      return;
+    }
+
+    completed = new Set(validIds(snapshot.exists() ? snapshot.data().completed : []));
+    saveProgress();
+    updateProgress();
+    render();
+    setSyncStatus('Synced · shared with everyone using this link', 'online');
+  }, error => {
+    syncReady = true;
+    setSyncStatus('Cloud sync unavailable · saved in this browser', 'local');
+    render();
+    console.error('Could not sync shared progress:', error);
+  });
 }
 function updateProgress() {
   const count = completed.size;
@@ -65,10 +123,23 @@ function render() {
     check.type = 'checkbox';
     check.className = 'question-check';
     check.checked = completed.has(q.id);
+    check.disabled = configured && !syncReady;
     check.setAttribute('aria-label', `Mark “${q.title}” as done`);
     check.addEventListener('change', () => {
-      if (check.checked) completed.add(q.id); else completed.delete(q.id);
+      const isDone = check.checked;
+      if (isDone) completed.add(q.id); else completed.delete(q.id);
       saveProgress(); updateProgress(); render();
+      if (configured) {
+        setSyncStatus('Saving shared progress…');
+        updateDoc(progressRef, {
+          completed: isDone ? arrayUnion(q.id) : arrayRemove(q.id),
+          updatedAt: serverTimestamp(),
+        }).then(() => setSyncStatus('Synced · shared with everyone using this link', 'online'))
+          .catch(error => {
+            setSyncStatus('Cloud sync unavailable · saved in this browser', 'local');
+            console.error('Could not save shared progress:', error);
+          });
+      }
     });
     checkLabel.append(check);
     const main = document.createElement('div');
@@ -123,6 +194,7 @@ Promise.all([fetch('./questions.json'), fetch('./answers.json')]).then(async ([q
   questions = questionData.sort((a,b) => a.globalRank - b.globalRank);
   answers = answerData;
   updateProgress(); render();
+  syncSharedProgress();
 }).catch(() => {
   document.querySelector('#list-meta').textContent = 'Could not load the study guide. Run the local server from the repository root.';
 });
