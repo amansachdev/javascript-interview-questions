@@ -1,0 +1,4146 @@
+[
+  {
+    "id": 28,
+    "title": "What are closures",
+    "slug": "what-are-closures",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 1
+  },
+  {
+    "id": 31,
+    "title": "What is scope in javascript",
+    "slug": "what-is-scope-in-javascript",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 2
+  },
+  {
+    "id": 26,
+    "title": "What is Hoisting",
+    "slug": "what-is-hoisting",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 3
+  },
+  {
+    "id": 22,
+    "title": "What is the Temporal Dead Zone",
+    "slug": "what-is-the-temporal-dead-zone",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 4
+  },
+  {
+    "id": 19,
+    "title": "What is the difference between let and var",
+    "slug": "what-is-the-difference-between-let-and-var",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 5
+  },
+  {
+    "id": 10,
+    "title": "What are lambda expressions or arrow functions",
+    "slug": "what-are-lambda-expressions-or-arrow-functions",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 6
+  },
+  {
+    "id": 453,
+    "title": "What is the purpose of the this keyword in JavaScript?",
+    "slug": "what-is-the-purpose-of-the-this-keyword-in-javascript",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 7
+  },
+  {
+    "id": 3,
+    "title": "What is the Difference Between `call`, `apply`, and `bind`",
+    "slug": "what-is-the-difference-between-call-apply-and-bind",
+    "section": "JavaScript",
+    "tier": 1,
+    "rank": 8
+  },
+  {
+    "id": 410,
+    "title": "What is the difference between function and class declarations",
+    "slug": "what-is-the-difference-between-function-and-class-declarations",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 9
+  },
+  {
+    "id": 11,
+    "title": "What is a first class function",
+    "slug": "what-is-a-first-class-function",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 10
+  },
+  {
+    "id": 13,
+    "title": "What is a higher order function",
+    "slug": "what-is-a-higher-order-function",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 11
+  },
+  {
+    "id": 16,
+    "title": "What is a pure function",
+    "slug": "what-is-a-pure-function",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 12
+  },
+  {
+    "id": 130,
+    "title": "What is an arguments object",
+    "slug": "what-is-an-arguments-object",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 13
+  },
+  {
+    "id": 227,
+    "title": "What are the function parameter rules",
+    "slug": "what-are-the-function-parameter-rules",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 14
+  },
+  {
+    "id": 225,
+    "title": "What are primitive data types",
+    "slug": "what-are-primitive-data-types",
+    "section": "Values and Types",
+    "tier": 1,
+    "rank": 15
+  },
+  {
+    "id": 76,
+    "title": "What is the difference between null and undefined",
+    "slug": "what-is-the-difference-between-null-and-undefined",
+    "section": "Values and Types",
+    "tier": 1,
+    "rank": 16
+  },
+  {
+    "id": 73,
+    "title": "What is typeof operator",
+    "slug": "what-is-typeof-operator",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 17
+  },
+  {
+    "id": 81,
+    "title": "What is isNaN",
+    "slug": "what-is-isnan",
+    "section": "Values and Types",
+    "tier": 1,
+    "rank": 18
+  },
+  {
+    "id": 424,
+    "title": "What is the difference between isNaN and Number.isNaN?",
+    "slug": "what-is-the-difference-between-isnan-and-numberisnan",
+    "section": "Values and Types",
+    "tier": 1,
+    "rank": 19
+  },
+  {
+    "id": 9,
+    "title": "What is the difference between == and === operators",
+    "slug": "what-is-the-difference-between--and--operators",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 20
+  },
+  {
+    "id": 443,
+    "title": "What is pass by value and pass by reference?",
+    "slug": "what-is-pass-by-value-and-pass-by-reference",
+    "section": "Values and Types",
+    "tier": 1,
+    "rank": 21
+  },
+  {
+    "id": 444,
+    "title": "What are the differences between primitives and non-primitives?",
+    "slug": "what-are-the-differences-between-primitives-and-non-primitives",
+    "section": "Values and Types",
+    "tier": 1,
+    "rank": 22
+  },
+  {
+    "id": 139,
+    "title": "How do you assign default values to variables",
+    "slug": "how-do-you-assign-default-values-to-variables",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 23
+  },
+  {
+    "id": 1,
+    "title": "What are the possible ways to create objects in JavaScript",
+    "slug": "what-are-the-possible-ways-to-create-objects-in-javascript",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 24
+  },
+  {
+    "id": 2,
+    "title": "What is a prototype chain",
+    "slug": "what-is-a-prototype-chain",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 25
+  },
+  {
+    "id": 178,
+    "title": "What is the difference between proto and prototype",
+    "slug": "what-is-the-difference-between-proto-and-prototype",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 26
+  },
+  {
+    "id": 260,
+    "title": "How do you get the prototype of an object",
+    "slug": "how-do-you-get-the-prototype-of-an-object",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 27
+  },
+  {
+    "id": 343,
+    "title": "Do all objects have prototypes",
+    "slug": "do-all-objects-have-prototypes",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 28
+  },
+  {
+    "id": 8,
+    "title": "How do you compare Object and Map",
+    "slug": "how-do-you-compare-object-and-map",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 29
+  },
+  {
+    "id": 498,
+    "title": "What are the differences between Map and Object for storing key-value pairs?",
+    "slug": "what-are-the-differences-between-map-and-object-for-storing-key-value-pairs",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 30
+  },
+  {
+    "id": 490,
+    "title": "What is the difference between Object.create() and Object.assign()?",
+    "slug": "what-is-the-difference-between-objectcreate-and-objectassign",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 31
+  },
+  {
+    "id": 495,
+    "title": "What is the difference between Object.keys(), Object.values(), and Object.entries()?",
+    "slug": "what-is-the-difference-between-objectkeys-objectvalues-and-objectentries",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 32
+  },
+  {
+    "id": 127,
+    "title": "How do you check if a key exists in an object",
+    "slug": "how-do-you-check-if-a-key-exists-in-an-object",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 33
+  },
+  {
+    "id": 202,
+    "title": "What is the main difference between Object.values and Object.entries method",
+    "slug": "what-is-the-main-difference-between-objectvalues-and-objectentries-method",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 34
+  },
+  {
+    "id": 194,
+    "title": "How do you copy properties from one object to other",
+    "slug": "how-do-you-copy-properties-from-one-object-to-other",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 35
+  },
+  {
+    "id": 347,
+    "title": "What is the difference between Shallow and Deep copy",
+    "slug": "what-is-the-difference-between-shallow-and-deep-copy",
+    "section": "JavaScript",
+    "tier": 1,
+    "rank": 36
+  },
+  {
+    "id": 478,
+    "title": "What is structuredClone and how is it used for deep copying objects?",
+    "slug": "what-is-structuredclone-and-how-is-it-used-for-deep-copying-objects",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 37
+  },
+  {
+    "id": 244,
+    "title": "How do you sort elements in an array",
+    "slug": "how-do-you-sort-elements-in-an-array",
+    "section": "Arrays and Iteration",
+    "tier": 1,
+    "rank": 38
+  },
+  {
+    "id": 346,
+    "title": "How do you combine two or more arrays",
+    "slug": "how-do-you-combine-two-or-more-arrays",
+    "section": "Arrays and Iteration",
+    "tier": 1,
+    "rank": 39
+  },
+  {
+    "id": 365,
+    "title": "How do you get unique values of an array",
+    "slug": "how-do-you-get-unique-values-of-an-array",
+    "section": "Arrays and Iteration",
+    "tier": 1,
+    "rank": 40
+  },
+  {
+    "id": 380,
+    "title": "How do you flattening multi dimensional arrays",
+    "slug": "how-do-you-flattening-multi-dimensional-arrays",
+    "section": "Arrays and Iteration",
+    "tier": 1,
+    "rank": 41
+  },
+  {
+    "id": 434,
+    "title": "How do you reverse an array without modifying original array?",
+    "slug": "how-do-you-reverse-an-array-without-modifying-original-array",
+    "section": "Arrays and Iteration",
+    "tier": 1,
+    "rank": 42
+  },
+  {
+    "id": 461,
+    "title": "What is the difference between map and forEach functions?",
+    "slug": "what-is-the-difference-between-map-and-foreach-functions",
+    "section": "Arrays and Iteration",
+    "tier": 1,
+    "rank": 43
+  },
+  {
+    "id": 488,
+    "title": "What is the difference between for loop and forEach",
+    "slug": "what-is-the-difference-between-for-loop-and-foreach",
+    "section": "Arrays and Iteration",
+    "tier": 1,
+    "rank": 44
+  },
+  {
+    "id": 474,
+    "title": "What are the array mutation methods?",
+    "slug": "what-are-the-array-mutation-methods",
+    "section": "Arrays and Iteration",
+    "tier": 1,
+    "rank": 45
+  },
+  {
+    "id": 287,
+    "title": "How do you check whether or not an array includes a particular value",
+    "slug": "how-do-you-check-whether-or-not-an-array-includes-a-particular-value",
+    "section": "Arrays and Iteration",
+    "tier": 1,
+    "rank": 46
+  },
+  {
+    "id": 55,
+    "title": "What is a callback function",
+    "slug": "what-is-a-callback-function",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 47
+  },
+  {
+    "id": 57,
+    "title": "What is a callback hell",
+    "slug": "what-is-a-callback-hell",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 48
+  },
+  {
+    "id": 52,
+    "title": "What is a promise",
+    "slug": "what-is-a-promise",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 49
+  },
+  {
+    "id": 54,
+    "title": "Explain the three states of promise",
+    "slug": "explain-the-three-states-of-promise",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 50
+  },
+  {
+    "id": 64,
+    "title": "What is promise chaining",
+    "slug": "what-is-promise-chaining",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 51
+  },
+  {
+    "id": 65,
+    "title": "What is promise.all",
+    "slug": "what-is-promiseall",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 52
+  },
+  {
+    "id": 480,
+    "title": "What is Promise.any and when should it be used?",
+    "slug": "what-is-promiseany-and-when-should-it-be-used",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 53
+  },
+  {
+    "id": 503,
+    "title": "How does Promise.allSettled() differ from Promise.all()?",
+    "slug": "how-does-promiseallsettled-differ-from-promiseall",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 54
+  },
+  {
+    "id": 411,
+    "title": "What is an async function",
+    "slug": "what-is-an-async-function",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 55
+  },
+  {
+    "id": 412,
+    "title": "How do you prevent promises swallowing errors",
+    "slug": "how-do-you-prevent-promises-swallowing-errors",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 56
+  },
+  {
+    "id": 95,
+    "title": "What are the pros and cons of promises over callbacks",
+    "slug": "what-are-the-pros-and-cons-of-promises-over-callbacks",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 57
+  },
+  {
+    "id": 238,
+    "title": "What is the event loop",
+    "slug": "what-is-the-event-loop",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 58
+  },
+  {
+    "id": 239,
+    "title": "What is the call stack",
+    "slug": "what-is-the-call-stack",
+    "section": "JavaScript",
+    "tier": 1,
+    "rank": 59
+  },
+  {
+    "id": 240,
+    "title": "What is the event queue",
+    "slug": "what-is-the-event-queue",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 60
+  },
+  {
+    "id": 391,
+    "title": "What are tasks in event loop",
+    "slug": "what-are-tasks-in-event-loop",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 61
+  },
+  {
+    "id": 392,
+    "title": "What is microtask",
+    "slug": "what-is-microtask",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 62
+  },
+  {
+    "id": 399,
+    "title": "What is a microTask queue",
+    "slug": "what-is-a-microtask-queue",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 63
+  },
+  {
+    "id": 394,
+    "title": "What is the purpose of queueMicrotask",
+    "slug": "what-is-the-purpose-of-queuemicrotask",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 64
+  },
+  {
+    "id": 110,
+    "title": "Why is JavaScript treated as Single threaded",
+    "slug": "why-is-javascript-treated-as-single-threaded",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 65
+  },
+  {
+    "id": 29,
+    "title": "What are modules",
+    "slug": "what-are-modules",
+    "section": "Modules and Tooling",
+    "tier": 1,
+    "rank": 66
+  },
+  {
+    "id": 30,
+    "title": "Why do you need modules",
+    "slug": "why-do-you-need-modules",
+    "section": "Modules and Tooling",
+    "tier": 1,
+    "rank": 67
+  },
+  {
+    "id": 320,
+    "title": "What are dynamic imports",
+    "slug": "what-are-dynamic-imports",
+    "section": "Modules and Tooling",
+    "tier": 1,
+    "rank": 68
+  },
+  {
+    "id": 153,
+    "title": "What is tree shaking",
+    "slug": "what-is-tree-shaking",
+    "section": "Modules and Tooling",
+    "tier": 1,
+    "rank": 69
+  },
+  {
+    "id": 475,
+    "title": "What is module scope in JavaScript?",
+    "slug": "what-is-module-scope-in-javascript",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 70
+  },
+  {
+    "id": 518,
+    "title": "What are the best practices for optimizing JavaScript bundle size?",
+    "slug": "what-are-the-best-practices-for-optimizing-javascript-bundle-size",
+    "section": "Modules and Tooling",
+    "tier": 1,
+    "rank": 71
+  },
+  {
+    "id": 87,
+    "title": "What is an event flow",
+    "slug": "what-is-an-event-flow",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 72
+  },
+  {
+    "id": 88,
+    "title": "What is event capturing",
+    "slug": "what-is-event-capturing",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 73
+  },
+  {
+    "id": 89,
+    "title": "What is event bubbling",
+    "slug": "what-is-event-bubbling",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 74
+  },
+  {
+    "id": 111,
+    "title": "What is an event delegation",
+    "slug": "what-is-an-event-delegation",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 75
+  },
+  {
+    "id": 104,
+    "title": "What is the use of preventDefault method",
+    "slug": "what-is-the-use-of-preventdefault-method",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 76
+  },
+  {
+    "id": 105,
+    "title": "What is the use of stopPropagation method",
+    "slug": "what-is-the-use-of-stoppropagation-method",
+    "section": "JavaScript",
+    "tier": 1,
+    "rank": 77
+  },
+  {
+    "id": 463,
+    "title": "What are the event phases of a browser?",
+    "slug": "what-are-the-event-phases-of-a-browser",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 78
+  },
+  {
+    "id": 477,
+    "title": "Why is it important to remove event listeners after use?",
+    "slug": "why-is-it-important-to-remove-event-listeners-after-use",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 79
+  },
+  {
+    "id": 438,
+    "title": "What is debouncing?",
+    "slug": "what-is-debouncing",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 80
+  },
+  {
+    "id": 439,
+    "title": "What is throttling?",
+    "slug": "what-is-throttling",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 81
+  },
+  {
+    "id": 387,
+    "title": "How to cancel a fetch request",
+    "slug": "how-to-cancel-a-fetch-request",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 82
+  },
+  {
+    "id": 505,
+    "title": "What is the AbortController API and how is it used?",
+    "slug": "what-is-the-abortcontroller-api-and-how-is-it-used",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 83
+  },
+  {
+    "id": 456,
+    "title": "What are the possible reasons for memory leaks?",
+    "slug": "what-are-the-possible-reasons-for-memory-leaks",
+    "section": "JavaScript",
+    "tier": 1,
+    "rank": 84
+  },
+  {
+    "id": 448,
+    "title": "What are the possible side-effects in javascript?",
+    "slug": "what-are-the-possible-side-effects-in-javascript",
+    "section": "JavaScript",
+    "tier": 1,
+    "rank": 85
+  },
+  {
+    "id": 515,
+    "title": "How do you prevent prototype pollution attacks in JavaScript?",
+    "slug": "how-do-you-prevent-prototype-pollution-attacks-in-javascript",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 86
+  },
+  {
+    "id": 97,
+    "title": "What is same-origin policy",
+    "slug": "what-is-same-origin-policy",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 87
+  },
+  {
+    "id": 481,
+    "title": "What is BigInt and how is it different from Number?",
+    "slug": "what-is-bigint-and-how-is-it-different-from-number",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 88
+  },
+  {
+    "id": 489,
+    "title": "What are Symbols and what are their use cases?",
+    "slug": "what-are-symbols-and-what-are-their-use-cases",
+    "section": "Objects and Prototypes",
+    "tier": 1,
+    "rank": 89
+  },
+  {
+    "id": 482,
+    "title": "What are private class fields in JavaScript?",
+    "slug": "what-are-private-class-fields-in-javascript",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 90
+  },
+  {
+    "id": 484,
+    "title": "What is top-level await in JavaScript modules?",
+    "slug": "what-is-top-level-await-in-javascript-modules",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 91
+  },
+  {
+    "id": 473,
+    "title": "What is globalThis, and what is the importance of it?",
+    "slug": "what-is-globalthis-and-what-is-the-importance-of-it",
+    "section": "Modules and Tooling",
+    "tier": 1,
+    "rank": 92
+  },
+  {
+    "id": 429,
+    "title": "What is nullish coalescing operator (??)?",
+    "slug": "what-is-nullish-coalescing-operator-",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 93
+  },
+  {
+    "id": 440,
+    "title": "What is optional chaining?",
+    "slug": "what-is-optional-chaining",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 94
+  },
+  {
+    "id": 486,
+    "title": "What are logical assignment operators?",
+    "slug": "what-are-logical-assignment-operators",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 95
+  },
+  {
+    "id": 316,
+    "title": "What is destructuring assignment",
+    "slug": "what-is-destructuring-assignment",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 96
+  },
+  {
+    "id": 317,
+    "title": "What are default values in destructuring assignment",
+    "slug": "what-are-default-values-in-destructuring-assignment",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 97
+  },
+  {
+    "id": 187,
+    "title": "What is a rest parameter",
+    "slug": "what-is-a-rest-parameter",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 98
+  },
+  {
+    "id": 190,
+    "title": "What is a spread operator",
+    "slug": "what-is-a-spread-operator",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 99
+  },
+  {
+    "id": 419,
+    "title": "What are the differences between spread operator and rest parameter",
+    "slug": "what-are-the-differences-between-spread-operator-and-rest-parameter",
+    "section": "Modern JavaScript",
+    "tier": 1,
+    "rank": 100
+  },
+  {
+    "id": 4,
+    "title": "What is JSON and its common operations",
+    "slug": "what-is-json-and-its-common-operations",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 5,
+    "title": "What is the purpose of the array slice method",
+    "slug": "what-is-the-purpose-of-the-array-slice-method",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 6,
+    "title": "What is the purpose of the array splice method",
+    "slug": "what-is-the-purpose-of-the-array-splice-method",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 7,
+    "title": "What is the difference between slice and splice",
+    "slug": "what-is-the-difference-between-slice-and-splice",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 12,
+    "title": "What is a first order function",
+    "slug": "what-is-a-first-order-function",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 14,
+    "title": "What is a unary function",
+    "slug": "what-is-a-unary-function",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 15,
+    "title": "What is the currying function",
+    "slug": "what-is-the-currying-function",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 17,
+    "title": "What are the benefits of pure functions",
+    "slug": "what-are-the-benefits-of-pure-functions",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 18,
+    "title": "What is the purpose of the let keyword",
+    "slug": "what-is-the-purpose-of-the-let-keyword",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 23,
+    "title": "What is an IIFE (Immediately Invoked Function Expression)",
+    "slug": "what-is-an-iife-immediately-invoked-function-expression",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 24,
+    "title": "How do you decode or encode a URL in JavaScript?",
+    "slug": "how-do-you-decode-or-encode-a-url-in-javascript",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 25,
+    "title": "What is memoization",
+    "slug": "what-is-memoization",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 27,
+    "title": "What are classes in ES6",
+    "slug": "what-are-classes-in-es6",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 36,
+    "title": "What is web storage",
+    "slug": "what-is-web-storage",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 42,
+    "title": "What are the differences between cookie, local storage and session storage",
+    "slug": "what-are-the-differences-between-cookie-local-storage-and-session-storage",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 43,
+    "title": "What is the main difference between localStorage and sessionStorage",
+    "slug": "what-is-the-main-difference-between-localstorage-and-sessionstorage",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 44,
+    "title": "How do you access web storage",
+    "slug": "how-do-you-access-web-storage",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 53,
+    "title": "Why do you need a promise",
+    "slug": "why-do-you-need-a-promise",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 56,
+    "title": "Why do we need callbacks",
+    "slug": "why-do-we-need-callbacks",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 62,
+    "title": "What are the main rules of promise",
+    "slug": "what-are-the-main-rules-of-promise",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 63,
+    "title": "What is callback in callback",
+    "slug": "what-is-callback-in-callback",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 66,
+    "title": "Does Promise.all() cancel the other Promises?",
+    "slug": "does-promiseall-cancel-the-other-promises",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 67,
+    "title": "What is the purpose of the race method in promise",
+    "slug": "what-is-the-purpose-of-the-race-method-in-promise",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 68,
+    "title": "What is a strict mode in javascript",
+    "slug": "what-is-a-strict-mode-in-javascript",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 69,
+    "title": "Why do you need strict mode",
+    "slug": "why-do-you-need-strict-mode",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 70,
+    "title": "How do you declare strict mode",
+    "slug": "how-do-you-declare-strict-mode",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 71,
+    "title": "What is the purpose of double exclamation",
+    "slug": "what-is-the-purpose-of-double-exclamation",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 72,
+    "title": "What is the purpose of the delete operator",
+    "slug": "what-is-the-purpose-of-the-delete-operator",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 74,
+    "title": "What is undefined property",
+    "slug": "what-is-undefined-property",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 75,
+    "title": "What is null value",
+    "slug": "what-is-null-value",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 82,
+    "title": "What are the differences between undeclared and undefined variables",
+    "slug": "what-are-the-differences-between-undeclared-and-undefined-variables",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 83,
+    "title": "What are global variables",
+    "slug": "what-are-global-variables",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 84,
+    "title": "What are the problems with global variables",
+    "slug": "what-are-the-problems-with-global-variables",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 85,
+    "title": "What is NaN property",
+    "slug": "what-is-nan-property",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 86,
+    "title": "What is the purpose of isFinite function",
+    "slug": "what-is-the-purpose-of-isfinite-function",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 92,
+    "title": "What is the difference between document load and DOMContentLoaded events",
+    "slug": "what-is-the-difference-between-document-load-and-domcontentloaded-events",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 94,
+    "title": "What are the tools or techniques used for debugging JavaScript code",
+    "slug": "what-are-the-tools-or-techniques-used-for-debugging-javascript-code",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 96,
+    "title": "What is the difference between an attribute and a property",
+    "slug": "what-is-the-difference-between-an-attribute-and-a-property",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 99,
+    "title": "Is JavaScript a compiled or interpreted language",
+    "slug": "is-javascript-a-compiled-or-interpreted-language",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 100,
+    "title": "Is JavaScript a case-sensitive language",
+    "slug": "is-javascript-a-case-sensitive-language",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 102,
+    "title": "What are events",
+    "slug": "what-are-events",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 108,
+    "title": "What is the use of setTimeout",
+    "slug": "what-is-the-use-of-settimeout",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 109,
+    "title": "What is the use of setInterval",
+    "slug": "what-is-the-use-of-setinterval",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 112,
+    "title": "What is ECMAScript",
+    "slug": "what-is-ecmascript",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 113,
+    "title": "What is JSON",
+    "slug": "what-is-json",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 114,
+    "title": "What are the syntax rules of JSON",
+    "slug": "what-are-the-syntax-rules-of-json",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 115,
+    "title": "What is the purpose JSON stringify",
+    "slug": "what-is-the-purpose-json-stringify",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 116,
+    "title": "How do you parse JSON string",
+    "slug": "how-do-you-parse-json-string",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 117,
+    "title": "Why do you need JSON",
+    "slug": "why-do-you-need-json",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 119,
+    "title": "What is the purpose of clearTimeout method",
+    "slug": "what-is-the-purpose-of-cleartimeout-method",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 120,
+    "title": "What is the purpose of clearInterval method",
+    "slug": "what-is-the-purpose-of-clearinterval-method",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 122,
+    "title": "How do you check whether a string contains a substring",
+    "slug": "how-do-you-check-whether-a-string-contains-a-substring",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 124,
+    "title": "How do you get the current url with javascript",
+    "slug": "how-do-you-get-the-current-url-with-javascript",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 125,
+    "title": "What are the various url properties of location object",
+    "slug": "what-are-the-various-url-properties-of-location-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 126,
+    "title": "How do you get query string values in javascript",
+    "slug": "how-do-you-get-query-string-values-in-javascript",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 128,
+    "title": "How do you loop through or enumerate javascript object",
+    "slug": "how-do-you-loop-through-or-enumerate-javascript-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 129,
+    "title": "How do you test for an empty object",
+    "slug": "how-do-you-test-for-an-empty-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 131,
+    "title": "How do you make first letter of the string in an uppercase",
+    "slug": "how-do-you-make-first-letter-of-the-string-in-an-uppercase",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 132,
+    "title": "What are the pros and cons of for loops",
+    "slug": "what-are-the-pros-and-cons-of-for-loops",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 133,
+    "title": "How do you display the current date in javascript",
+    "slug": "how-do-you-display-the-current-date-in-javascript",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 134,
+    "title": "How do you compare two date objects",
+    "slug": "how-do-you-compare-two-date-objects",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 135,
+    "title": "How do you check if a string starts with another string",
+    "slug": "how-do-you-check-if-a-string-starts-with-another-string",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 136,
+    "title": "How do you trim a string in javascript",
+    "slug": "how-do-you-trim-a-string-in-javascript",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 137,
+    "title": "How do you add a key value pair in javascript",
+    "slug": "how-do-you-add-a-key-value-pair-in-javascript",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 140,
+    "title": "How do you define multiline strings",
+    "slug": "how-do-you-define-multiline-strings",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 142,
+    "title": "Can we define properties for functions",
+    "slug": "can-we-define-properties-for-functions",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 143,
+    "title": "What is the way to find the number of parameters expected by a function",
+    "slug": "what-is-the-way-to-find-the-number-of-parameters-expected-by-a-function",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 145,
+    "title": "What are break and continue statements",
+    "slug": "what-are-break-and-continue-statements",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 148,
+    "title": "What are the benefits of initializing variables",
+    "slug": "what-are-the-benefits-of-initializing-variables",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 149,
+    "title": "What are the recommendations to create new object",
+    "slug": "what-are-the-recommendations-to-create-new-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 150,
+    "title": "How do you define JSON arrays",
+    "slug": "how-do-you-define-json-arrays",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 151,
+    "title": "How do you generate random integers",
+    "slug": "how-do-you-generate-random-integers",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 152,
+    "title": "Can you write a random integers function to print integers within a range",
+    "slug": "can-you-write-a-random-integers-function-to-print-integers-within-a-range",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 154,
+    "title": "What is the need of tree shaking",
+    "slug": "what-is-the-need-of-tree-shaking",
+    "section": "Modules and Tooling",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 156,
+    "title": "What is a Regular Expression",
+    "slug": "what-is-a-regular-expression",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 157,
+    "title": "What are the string methods that accept Regular expression",
+    "slug": "what-are-the-string-methods-that-accept-regular-expression",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 158,
+    "title": "What are modifiers in regular expression",
+    "slug": "what-are-modifiers-in-regular-expression",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 159,
+    "title": "What are regular expression patterns",
+    "slug": "what-are-regular-expression-patterns",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 160,
+    "title": "What is a RegExp object",
+    "slug": "what-is-a-regexp-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 161,
+    "title": "How do you search a string for a pattern",
+    "slug": "how-do-you-search-a-string-for-a-pattern",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 162,
+    "title": "What is the purpose of exec method",
+    "slug": "what-is-the-purpose-of-exec-method",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 163,
+    "title": "How do you change the style of a HTML element",
+    "slug": "how-do-you-change-the-style-of-a-html-element",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 164,
+    "title": "What would be the result of 1+2+'3'",
+    "slug": "what-would-be-the-result-of-123",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 165,
+    "title": "What is a debugger statement",
+    "slug": "what-is-a-debugger-statement",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 166,
+    "title": "What is the purpose of breakpoints in debugging",
+    "slug": "what-is-the-purpose-of-breakpoints-in-debugging",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 167,
+    "title": "Can I use reserved words as identifiers",
+    "slug": "can-i-use-reserved-words-as-identifiers",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 172,
+    "title": "How do you make asynchronous HTTP request",
+    "slug": "how-do-you-make-asynchronous-http-request",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 174,
+    "title": "What are the properties used to get size of window",
+    "slug": "what-are-the-properties-used-to-get-size-of-window",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 175,
+    "title": "What is a conditional operator in javascript",
+    "slug": "what-is-a-conditional-operator-in-javascript",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 176,
+    "title": "Can you apply chaining on conditional operator",
+    "slug": "can-you-apply-chaining-on-conditional-operator",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 179,
+    "title": "Can you give an example of when you really need a semicolon",
+    "slug": "can-you-give-an-example-of-when-you-really-need-a-semicolon",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 180,
+    "title": "What is the freeze method",
+    "slug": "what-is-the-freeze-method",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 181,
+    "title": "What is the purpose of the freeze method",
+    "slug": "what-is-the-purpose-of-the-freeze-method",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 182,
+    "title": "Why do I need to use the freeze method",
+    "slug": "why-do-i-need-to-use-the-freeze-method",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 186,
+    "title": "What are various operators supported by javascript",
+    "slug": "what-are-various-operators-supported-by-javascript",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 188,
+    "title": "What happens if you do not use rest parameter as a last argument",
+    "slug": "what-happens-if-you-do-not-use-rest-parameter-as-a-last-argument",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 191,
+    "title": "How do you determine whether object is frozen or not",
+    "slug": "how-do-you-determine-whether-object-is-frozen-or-not",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 192,
+    "title": "How do you determine two values same or not using object",
+    "slug": "how-do-you-determine-two-values-same-or-not-using-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 193,
+    "title": "What is the purpose of using object is method",
+    "slug": "what-is-the-purpose-of-using-object-is-method",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 195,
+    "title": "What are the applications of the assign method",
+    "slug": "what-are-the-applications-of-the-assign-method",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 196,
+    "title": "What is a proxy object",
+    "slug": "what-is-a-proxy-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 197,
+    "title": "What is the purpose of the seal method",
+    "slug": "what-is-the-purpose-of-the-seal-method",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 198,
+    "title": "What are the applications of the seal method",
+    "slug": "what-are-the-applications-of-the-seal-method",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 199,
+    "title": "What are the differences between the freeze and seal methods",
+    "slug": "what-are-the-differences-between-the-freeze-and-seal-methods",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 200,
+    "title": "How do you determine if an object is sealed or not",
+    "slug": "how-do-you-determine-if-an-object-is-sealed-or-not",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 201,
+    "title": "How do you get enumerable key and value pairs",
+    "slug": "how-do-you-get-enumerable-key-and-value-pairs",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 203,
+    "title": "How can you get the list of keys of any object",
+    "slug": "how-can-you-get-the-list-of-keys-of-any-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 204,
+    "title": "How do you create an object with a prototype",
+    "slug": "how-do-you-create-an-object-with-a-prototype",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 205,
+    "title": "What is a WeakSet",
+    "slug": "what-is-a-weakset",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 206,
+    "title": "What are the differences between WeakSet and Set",
+    "slug": "what-are-the-differences-between-weakset-and-set",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 207,
+    "title": "List down the collection of methods available on WeakSet",
+    "slug": "list-down-the-collection-of-methods-available-on-weakset",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 208,
+    "title": "What is a WeakMap",
+    "slug": "what-is-a-weakmap",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 209,
+    "title": "What are the differences between WeakMap and Map",
+    "slug": "what-are-the-differences-between-weakmap-and-map",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 210,
+    "title": "List down the collection of methods available on WeakMap",
+    "slug": "list-down-the-collection-of-methods-available-on-weakmap",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 212,
+    "title": "How do you encode an URL",
+    "slug": "how-do-you-encode-an-url",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 213,
+    "title": "How do you decode an URL",
+    "slug": "how-do-you-decode-an-url",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 216,
+    "title": "What is an anonymous function",
+    "slug": "what-is-an-anonymous-function",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 217,
+    "title": "What is the precedence order between local and global variables",
+    "slug": "what-is-the-precedence-order-between-local-and-global-variables",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 218,
+    "title": "What are javascript accessors",
+    "slug": "what-are-javascript-accessors",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 219,
+    "title": "How do you define property on Object constructor",
+    "slug": "how-do-you-define-property-on-object-constructor",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 220,
+    "title": "What is the difference between get and defineProperty",
+    "slug": "what-is-the-difference-between-get-and-defineproperty",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 221,
+    "title": "What are the advantages of Getters and Setters",
+    "slug": "what-are-the-advantages-of-getters-and-setters",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 222,
+    "title": "Can I add getters and setters using defineProperty method",
+    "slug": "can-i-add-getters-and-setters-using-defineproperty-method",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 223,
+    "title": "What is the purpose of switch-case",
+    "slug": "what-is-the-purpose-of-switch-case",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 224,
+    "title": "What are the conventions to be followed for the usage of switch case",
+    "slug": "what-are-the-conventions-to-be-followed-for-the-usage-of-switch-case",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 226,
+    "title": "What are the different ways to access object properties",
+    "slug": "what-are-the-different-ways-to-access-object-properties",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 228,
+    "title": "What is an error object",
+    "slug": "what-is-an-error-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 229,
+    "title": "When do you get a syntax error",
+    "slug": "when-do-you-get-a-syntax-error",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 230,
+    "title": "What are the different error names from error object",
+    "slug": "what-are-the-different-error-names-from-error-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 231,
+    "title": "What are the various statements in error handling",
+    "slug": "what-are-the-various-statements-in-error-handling",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 232,
+    "title": "What are the two types of loops in javascript",
+    "slug": "what-are-the-two-types-of-loops-in-javascript",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 233,
+    "title": "What is nodejs",
+    "slug": "what-is-nodejs",
+    "section": "Modules and Tooling",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 234,
+    "title": "What is the Intl object",
+    "slug": "what-is-the-intl-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 235,
+    "title": "How do you perform language specific date and time formatting",
+    "slug": "how-do-you-perform-language-specific-date-and-time-formatting",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 236,
+    "title": "What is an Iterator",
+    "slug": "what-is-an-iterator",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 237,
+    "title": "How does synchronous iteration works",
+    "slug": "how-does-synchronous-iteration-works",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 245,
+    "title": "What is the purpose of compareFunction while sorting arrays",
+    "slug": "what-is-the-purpose-of-comparefunction-while-sorting-arrays",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 246,
+    "title": "How do you reverse an array",
+    "slug": "how-do-you-reverse-an-array",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 247,
+    "title": "How do you find the min and max values in an array",
+    "slug": "how-do-you-find-the-min-and-max-values-in-an-array",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 248,
+    "title": "How do you find the min and max values without Math functions",
+    "slug": "how-do-you-find-the-min-and-max-values-without-math-functions",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 250,
+    "title": "How do you get the metadata of a module",
+    "slug": "how-do-you-get-the-metadata-of-a-module",
+    "section": "Modules and Tooling",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 256,
+    "title": "What is an object initializer",
+    "slug": "what-is-an-object-initializer",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 257,
+    "title": "What is a constructor method",
+    "slug": "what-is-a-constructor-method",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 258,
+    "title": "What happens if you write constructor more than once in a class",
+    "slug": "what-happens-if-you-write-constructor-more-than-once-in-a-class",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 259,
+    "title": "How do you call the constructor of a parent class",
+    "slug": "how-do-you-call-the-constructor-of-a-parent-class",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 261,
+    "title": "What happens If I pass string type for getPrototype method",
+    "slug": "what-happens-if-i-pass-string-type-for-getprototype-method",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 262,
+    "title": "How do you set the prototype of one object to another",
+    "slug": "how-do-you-set-the-prototype-of-one-object-to-another",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 263,
+    "title": "How do you check whether an object can be extended or not",
+    "slug": "how-do-you-check-whether-an-object-can-be-extended-or-not",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 264,
+    "title": "How do you prevent an object from being extend",
+    "slug": "how-do-you-prevent-an-object-from-being-extend",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 265,
+    "title": "What are the different ways to make an object non-extensible",
+    "slug": "what-are-the-different-ways-to-make-an-object-non-extensible",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 266,
+    "title": "How do you define multiple properties on an object",
+    "slug": "how-do-you-define-multiple-properties-on-an-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 282,
+    "title": "How do you list all properties of an object",
+    "slug": "how-do-you-list-all-properties-of-an-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 283,
+    "title": "How do you get property descriptors of an object",
+    "slug": "how-do-you-get-property-descriptors-of-an-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 284,
+    "title": "What are the attributes provided by a property descriptor",
+    "slug": "what-are-the-attributes-provided-by-a-property-descriptor",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 285,
+    "title": "How do you extend classes",
+    "slug": "how-do-you-extend-classes",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 288,
+    "title": "How do you compare scalar arrays",
+    "slug": "how-do-you-compare-scalar-arrays",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 295,
+    "title": "How do you get the timezone offset of a date object",
+    "slug": "how-do-you-get-the-timezone-offset-of-a-date-object",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 297,
+    "title": "What are the different methods to find HTML elements in DOM",
+    "slug": "what-are-the-different-methods-to-find-html-elements-in-dom",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 299,
+    "title": "What is V8 JavaScript engine",
+    "slug": "what-is-v8-javascript-engine",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 300,
+    "title": "Why do we call javascript as dynamic language",
+    "slug": "why-do-we-call-javascript-as-dynamic-language",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 306,
+    "title": "List down some of the features of ES6",
+    "slug": "list-down-some-of-the-features-of-es6",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 308,
+    "title": "Can I redeclare let and const variables",
+    "slug": "can-i-redeclare-let-and-const-variables",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 309,
+    "title": "Does the `const` variable make the value immutable",
+    "slug": "does-the-const-variable-make-the-value-immutable",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 310,
+    "title": "What are default parameters",
+    "slug": "what-are-default-parameters",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 311,
+    "title": "What are template literals",
+    "slug": "what-are-template-literals",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 312,
+    "title": "How do you write multi-line strings in template literals",
+    "slug": "how-do-you-write-multi-line-strings-in-template-literals",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 313,
+    "title": "What are nesting templates",
+    "slug": "what-are-nesting-templates",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 314,
+    "title": "What are tagged templates",
+    "slug": "what-are-tagged-templates",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 315,
+    "title": "What are raw strings",
+    "slug": "what-are-raw-strings",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 318,
+    "title": "How do you swap variables in destructuring assignment",
+    "slug": "how-do-you-swap-variables-in-destructuring-assignment",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 319,
+    "title": "What are enhanced object literals",
+    "slug": "what-are-enhanced-object-literals",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 321,
+    "title": "What are the use cases for dynamic imports",
+    "slug": "what-are-the-use-cases-for-dynamic-imports",
+    "section": "Modules and Tooling",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 322,
+    "title": "What are typed arrays",
+    "slug": "what-are-typed-arrays",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 325,
+    "title": "What is for...of statement",
+    "slug": "what-is-forof-statement",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 326,
+    "title": "What is the output of below spread operator array",
+    "slug": "what-is-the-output-of-below-spread-operator-array",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 329,
+    "title": "How do you avoid receiving postMessages from attackers",
+    "slug": "how-do-you-avoid-receiving-postmessages-from-attackers",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 338,
+    "title": "What is ArrayBuffer",
+    "slug": "what-is-arraybuffer",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 344,
+    "title": "What is the difference between a parameter and an argument",
+    "slug": "what-is-the-difference-between-a-parameter-and-an-argument",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 345,
+    "title": "What is the purpose of some method in arrays",
+    "slug": "what-is-the-purpose-of-some-method-in-arrays",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 348,
+    "title": "How do you create specific number of copies of a string",
+    "slug": "how-do-you-create-specific-number-of-copies-of-a-string",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 349,
+    "title": "How do you return all matching strings against a regular expression",
+    "slug": "how-do-you-return-all-matching-strings-against-a-regular-expression",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 350,
+    "title": "How do you trim a string at the beginning or ending",
+    "slug": "how-do-you-trim-a-string-at-the-beginning-or-ending",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 351,
+    "title": "What is the output of below console statement with unary operator",
+    "slug": "what-is-the-output-of-below-console-statement-with-unary-operator",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 358,
+    "title": "How to remove all line breaks from a string",
+    "slug": "how-to-remove-all-line-breaks-from-a-string",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 364,
+    "title": "How do you remove falsy values from an array",
+    "slug": "how-do-you-remove-falsy-values-from-an-array",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 366,
+    "title": "What is destructuring aliases",
+    "slug": "what-is-destructuring-aliases",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 367,
+    "title": "How do you map the array values without using map method",
+    "slug": "how-do-you-map-the-array-values-without-using-map-method",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 368,
+    "title": "How do you empty an array",
+    "slug": "how-do-you-empty-an-array",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 369,
+    "title": "How do you round numbers to certain decimals",
+    "slug": "how-do-you-round-numbers-to-certain-decimals",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 377,
+    "title": "How do you verify that an argument is a Number or not",
+    "slug": "how-do-you-verify-that-an-argument-is-a-number-or-not",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 381,
+    "title": "What is the easiest multi condition checking",
+    "slug": "what-is-the-easiest-multi-condition-checking",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 386,
+    "title": "What are the different ways to deal with Asynchronous Code",
+    "slug": "what-are-the-different-ways-to-deal-with-asynchronous-code",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 401,
+    "title": "How do you detect primitive or non primitive value type",
+    "slug": "how-do-you-detect-primitive-or-non-primitive-value-type",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 406,
+    "title": "What is the difference between Function constructor and function declaration",
+    "slug": "what-is-the-difference-between-function-constructor-and-function-declaration",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 407,
+    "title": "What is a Short circuit condition",
+    "slug": "what-is-a-short-circuit-condition",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 408,
+    "title": "What is the easiest way to resize an array",
+    "slug": "what-is-the-easiest-way-to-resize-an-array",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 409,
+    "title": "What is an observable",
+    "slug": "what-is-an-observable",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 414,
+    "title": "How do you make an object iterable in javascript",
+    "slug": "how-do-you-make-an-object-iterable-in-javascript",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 416,
+    "title": "How do you check an object is a promise or not",
+    "slug": "how-do-you-check-an-object-is-a-promise-or-not",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 418,
+    "title": "What are the differences between arguments object and rest parameter",
+    "slug": "what-are-the-differences-between-arguments-object-and-rest-parameter",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 422,
+    "title": "What are the differences between for...of and for...in statements",
+    "slug": "what-are-the-differences-between-forof-and-forin-statements",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 431,
+    "title": "What is the difference between dense and sparse arrays?",
+    "slug": "what-is-the-difference-between-dense-and-sparse-arrays",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 436,
+    "title": "What is global execution context?",
+    "slug": "what-is-global-execution-context",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 437,
+    "title": "What is function execution context?",
+    "slug": "what-is-function-execution-context",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 441,
+    "title": "What is an environment record?",
+    "slug": "what-is-an-environment-record",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 442,
+    "title": "How to verify if a variable is an array?",
+    "slug": "how-to-verify-if-a-variable-is-an-array",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 445,
+    "title": "How do you create your own bind method using either call or apply method?",
+    "slug": "how-do-you-create-your-own-bind-method-using-either-call-or-apply-method",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 446,
+    "title": "What are the differences between pure and impure functions?",
+    "slug": "what-are-the-differences-between-pure-and-impure-functions",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 447,
+    "title": "What is referential transparency?",
+    "slug": "what-is-referential-transparency",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 449,
+    "title": "What are compose and pipe functions?",
+    "slug": "what-are-compose-and-pipe-functions",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 450,
+    "title": "What is module pattern?",
+    "slug": "what-is-module-pattern",
+    "section": "Modules and Tooling",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 451,
+    "title": "What is Function Composition?",
+    "slug": "what-is-function-composition",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 452,
+    "title": "How to use await outside of async function prior to ES2022?",
+    "slug": "how-to-use-await-outside-of-async-function-prior-to-es2022",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 454,
+    "title": "What are the uses of closures?",
+    "slug": "what-are-the-uses-of-closures",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 455,
+    "title": "What are the phases of execution context?",
+    "slug": "what-are-the-phases-of-execution-context",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 458,
+    "title": "What are the examples of built-in higher order functions?",
+    "slug": "what-are-the-examples-of-built-in-higher-order-functions",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 459,
+    "title": "What are the benefits higher order functions?",
+    "slug": "what-are-the-benefits-higher-order-functions",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 460,
+    "title": "How do you create polyfills for map, filter and reduce methods?",
+    "slug": "how-do-you-create-polyfills-for-map-filter-and-reduce-methods",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 462,
+    "title": "Give an example of statements affected by automatic semicolon insertion?",
+    "slug": "give-an-example-of-statements-affected-by-automatic-semicolon-insertion",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 464,
+    "title": "What are the real world use cases of proxy?",
+    "slug": "what-are-the-real-world-use-cases-of-proxy",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 468,
+    "title": "What is Lexical Scope?",
+    "slug": "what-is-lexical-scope",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 472,
+    "title": "How to find the number of parameters expected by a function?",
+    "slug": "how-to-find-the-number-of-parameters-expected-by-a-function",
+    "section": "Functions and Scope",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 476,
+    "title": "What are shadowing and illegal shadowing?",
+    "slug": "what-are-shadowing-and-illegal-shadowing",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 479,
+    "title": "What is the difference between const and Object.freeze",
+    "slug": "what-is-the-difference-between-const-and-objectfreeze",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 483,
+    "title": "What is the Array.prototype.at() method and why is it useful?",
+    "slug": "what-is-the-arrayprototypeat-method-and-why-is-it-useful",
+    "section": "Arrays and Iteration",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 493,
+    "title": "How does JavaScript handle floating point precision issues?",
+    "slug": "how-does-javascript-handle-floating-point-precision-issues",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 494,
+    "title": "What are tagged template literals and their practical uses?",
+    "slug": "what-are-tagged-template-literals-and-their-practical-uses",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 497,
+    "title": "How do you implement method chaining in JavaScript?",
+    "slug": "how-do-you-implement-method-chaining-in-javascript",
+    "section": "JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 499,
+    "title": "What is the purpose of Symbol.iterator and how do you use it?",
+    "slug": "what-is-the-purpose-of-symboliterator-and-how-do-you-use-it",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 501,
+    "title": "What are async iterators and how are they different from regular iterators?",
+    "slug": "what-are-async-iterators-and-how-are-they-different-from-regular-iterators",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 502,
+    "title": "What is the purpose of Object.getOwnPropertyDescriptors()?",
+    "slug": "what-is-the-purpose-of-objectgetownpropertydescriptors",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 504,
+    "title": "What are the performance implications of using try-catch in JavaScript?",
+    "slug": "what-are-the-performance-implications-of-using-try-catch-in-javascript",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 506,
+    "title": "How do you implement a custom error class in JavaScript?",
+    "slug": "how-do-you-implement-a-custom-error-class-in-javascript",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 511,
+    "title": "What are the different ways to handle circular references in JSON?",
+    "slug": "what-are-the-different-ways-to-handle-circular-references-in-json",
+    "section": "Values and Types",
+    "tier": 2,
+    "rank": null
+  },
+  {
+    "id": 20,
+    "title": "What is the reason to choose the name let as a keyword",
+    "slug": "what-is-the-reason-to-choose-the-name-let-as-a-keyword",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 21,
+    "title": "How do you redeclare variables in a switch block without an error",
+    "slug": "how-do-you-redeclare-variables-in-a-switch-block-without-an-error",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 32,
+    "title": "What is a service worker",
+    "slug": "what-is-a-service-worker",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 33,
+    "title": "How do you manipulate DOM using a service worker",
+    "slug": "how-do-you-manipulate-dom-using-a-service-worker",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 34,
+    "title": "How do you reuse information across service worker restarts",
+    "slug": "how-do-you-reuse-information-across-service-worker-restarts",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 35,
+    "title": "What is IndexedDB",
+    "slug": "what-is-indexeddb",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 37,
+    "title": "What is a post message",
+    "slug": "what-is-a-post-message",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 38,
+    "title": "What is a Cookie",
+    "slug": "what-is-a-cookie",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 39,
+    "title": "Why do you need a Cookie",
+    "slug": "why-do-you-need-a-cookie",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 40,
+    "title": "What are the options in a cookie",
+    "slug": "what-are-the-options-in-a-cookie",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 41,
+    "title": "How do you delete a cookie",
+    "slug": "how-do-you-delete-a-cookie",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 45,
+    "title": "What are the methods available on session storage",
+    "slug": "what-are-the-methods-available-on-session-storage",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 46,
+    "title": "What is a storage event and its event handler",
+    "slug": "what-is-a-storage-event-and-its-event-handler",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 47,
+    "title": "Why do you need web storage",
+    "slug": "why-do-you-need-web-storage",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 48,
+    "title": "How do you check web storage browser support",
+    "slug": "how-do-you-check-web-storage-browser-support",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 49,
+    "title": "How do you check web workers browser support",
+    "slug": "how-do-you-check-web-workers-browser-support",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 50,
+    "title": "Give an example of a web worker",
+    "slug": "give-an-example-of-a-web-worker",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 51,
+    "title": "What are the restrictions of web workers on DOM",
+    "slug": "what-are-the-restrictions-of-web-workers-on-dom",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 58,
+    "title": "What are server-sent events",
+    "slug": "what-are-server-sent-events",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 59,
+    "title": "How do you receive server-sent event notifications",
+    "slug": "how-do-you-receive-server-sent-event-notifications",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 60,
+    "title": "How do you check browser support for server-sent events",
+    "slug": "how-do-you-check-browser-support-for-server-sent-events",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 61,
+    "title": "What are the events available for server sent events",
+    "slug": "what-are-the-events-available-for-server-sent-events",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 77,
+    "title": "What is eval",
+    "slug": "what-is-eval",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 78,
+    "title": "What is the difference between window and document",
+    "slug": "what-is-the-difference-between-window-and-document",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 79,
+    "title": "How do you access history in javascript",
+    "slug": "how-do-you-access-history-in-javascript",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 80,
+    "title": "How do you detect caps lock key turned on or not",
+    "slug": "how-do-you-detect-caps-lock-key-turned-on-or-not",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 90,
+    "title": "How do you submit a form using JavaScript",
+    "slug": "how-do-you-submit-a-form-using-javascript",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 91,
+    "title": "How do you find operating system details",
+    "slug": "how-do-you-find-operating-system-details",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 93,
+    "title": "What is the difference between native, host and user objects",
+    "slug": "what-is-the-difference-between-native-host-and-user-objects",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 98,
+    "title": "What is the purpose of void 0",
+    "slug": "what-is-the-purpose-of-void-0",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 101,
+    "title": "Is there any relation between Java and JavaScript",
+    "slug": "is-there-any-relation-between-java-and-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 103,
+    "title": "Who created javascript",
+    "slug": "who-created-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 106,
+    "title": "What are the steps involved in return false usage",
+    "slug": "what-are-the-steps-involved-in-return-false-usage",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 107,
+    "title": "What is BOM",
+    "slug": "what-is-bom",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 118,
+    "title": "What are PWAs",
+    "slug": "what-are-pwas",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 121,
+    "title": "How do you redirect new page in javascript",
+    "slug": "how-do-you-redirect-new-page-in-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 123,
+    "title": "How do you validate an email in javascript",
+    "slug": "how-do-you-validate-an-email-in-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 138,
+    "title": "Is the !-- notation represents a special operator",
+    "slug": "is-the----notation-represents-a-special-operator",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 141,
+    "title": "What is an app shell model",
+    "slug": "what-is-an-app-shell-model",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 144,
+    "title": "What is a polyfill",
+    "slug": "what-is-a-polyfill",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 146,
+    "title": "What are js labels",
+    "slug": "what-are-js-labels",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 147,
+    "title": "What are the benefits of keeping declarations at the top",
+    "slug": "what-are-the-benefits-of-keeping-declarations-at-the-top",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 155,
+    "title": "Is it recommended to use eval",
+    "slug": "is-it-recommended-to-use-eval",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 168,
+    "title": "How do you detect a mobile browser",
+    "slug": "how-do-you-detect-a-mobile-browser",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 169,
+    "title": "How do you detect a mobile browser without regexp",
+    "slug": "how-do-you-detect-a-mobile-browser-without-regexp",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 170,
+    "title": "How do you get the image width and height using JS",
+    "slug": "how-do-you-get-the-image-width-and-height-using-js",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 171,
+    "title": "How do you make synchronous HTTP request",
+    "slug": "how-do-you-make-synchronous-http-request",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 173,
+    "title": "How do you convert date to another timezone in javascript",
+    "slug": "how-do-you-convert-date-to-another-timezone-in-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 177,
+    "title": "What are the ways to execute javascript after a page load",
+    "slug": "what-are-the-ways-to-execute-javascript-after-a-page-load",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 183,
+    "title": "How do you detect a browser language preference",
+    "slug": "how-do-you-detect-a-browser-language-preference",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 184,
+    "title": "How to convert a string to title case with javascript",
+    "slug": "how-to-convert-a-string-to-title-case-with-javascript",
+    "section": "Values and Types",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 185,
+    "title": "How do you detect if javascript is disabled on the page",
+    "slug": "how-do-you-detect-if-javascript-is-disabled-on-the-page",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 189,
+    "title": "What are the bitwise operators available in javascript",
+    "slug": "what-are-the-bitwise-operators-available-in-javascript",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 211,
+    "title": "What is the purpose of uneval",
+    "slug": "what-is-the-purpose-of-uneval",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 214,
+    "title": "How do you print the contents of web page",
+    "slug": "how-do-you-print-the-contents-of-web-page",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 215,
+    "title": "What is the difference between uneval and eval",
+    "slug": "what-is-the-difference-between-uneval-and-eval",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 241,
+    "title": "What is a decorator",
+    "slug": "what-is-a-decorator",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 242,
+    "title": "What are the properties of the Intl object",
+    "slug": "what-are-the-properties-of-the-intl-object",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 243,
+    "title": "What is an Unary operator",
+    "slug": "what-is-an-unary-operator",
+    "section": "Functions and Scope",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 249,
+    "title": "What is an empty statement and purpose of it",
+    "slug": "what-is-an-empty-statement-and-purpose-of-it",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 251,
+    "title": "What is the comma operator",
+    "slug": "what-is-the-comma-operator",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 252,
+    "title": "What is the advantage of the comma operator",
+    "slug": "what-is-the-advantage-of-the-comma-operator",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 253,
+    "title": "What is typescript",
+    "slug": "what-is-typescript",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 254,
+    "title": "What are the differences between javascript and typescript",
+    "slug": "what-are-the-differences-between-javascript-and-typescript",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 255,
+    "title": "What are the advantages of typescript over javascript",
+    "slug": "what-are-the-advantages-of-typescript-over-javascript",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 267,
+    "title": "What is the MEAN stack",
+    "slug": "what-is-the-mean-stack",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 268,
+    "title": "What is obfuscation in javascript",
+    "slug": "what-is-obfuscation-in-javascript",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 269,
+    "title": "Why do you need Obfuscation",
+    "slug": "why-do-you-need-obfuscation",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 270,
+    "title": "What is Minification",
+    "slug": "what-is-minification",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 271,
+    "title": "What are the advantages of minification",
+    "slug": "what-are-the-advantages-of-minification",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 272,
+    "title": "What are the differences between obfuscation and Encryption",
+    "slug": "what-are-the-differences-between-obfuscation-and-encryption",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 273,
+    "title": "What are the common tools used for minification",
+    "slug": "what-are-the-common-tools-used-for-minification",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 274,
+    "title": "How do you perform form validation using javascript",
+    "slug": "how-do-you-perform-form-validation-using-javascript",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 275,
+    "title": "How do you perform form validation without javascript",
+    "slug": "how-do-you-perform-form-validation-without-javascript",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 276,
+    "title": "What are the DOM methods available for constraint validation",
+    "slug": "what-are-the-dom-methods-available-for-constraint-validation",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 277,
+    "title": "What are the available constraint validation DOM properties",
+    "slug": "what-are-the-available-constraint-validation-dom-properties",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 278,
+    "title": "What are the validity properties",
+    "slug": "what-are-the-validity-properties",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 279,
+    "title": "Give an example usage of the rangeOverflow property",
+    "slug": "give-an-example-usage-of-the-rangeoverflow-property",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 280,
+    "title": "Are enums available in javascript",
+    "slug": "are-enums-available-in-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 281,
+    "title": "What is an enum",
+    "slug": "what-is-an-enum",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 286,
+    "title": "How do I modify the url without reloading the page",
+    "slug": "how-do-i-modify-the-url-without-reloading-the-page",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 289,
+    "title": "How to get the value from get parameters",
+    "slug": "how-to-get-the-value-from-get-parameters",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 290,
+    "title": "How do you print numbers with commas as thousand separators",
+    "slug": "how-do-you-print-numbers-with-commas-as-thousand-separators",
+    "section": "Values and Types",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 291,
+    "title": "What is the difference between java and javascript",
+    "slug": "what-is-the-difference-between-java-and-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 292,
+    "title": "Does JavaScript support namespaces",
+    "slug": "does-javascript-support-namespaces",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 293,
+    "title": "How do you declare a namespace",
+    "slug": "how-do-you-declare-a-namespace",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 294,
+    "title": "How do you invoke javascript code in an iframe from the parent page",
+    "slug": "how-do-you-invoke-javascript-code-in-an-iframe-from-the-parent-page",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 296,
+    "title": "How do you load CSS and JS files dynamically",
+    "slug": "how-do-you-load-css-and-js-files-dynamically",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 298,
+    "title": "What is jQuery",
+    "slug": "what-is-jquery",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 301,
+    "title": "What is a void operator",
+    "slug": "what-is-a-void-operator",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 302,
+    "title": "How to set the cursor to wait",
+    "slug": "how-to-set-the-cursor-to-wait",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 303,
+    "title": "How do you create an infinite loop",
+    "slug": "how-do-you-create-an-infinite-loop",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 304,
+    "title": "Why do you need to avoid with statement",
+    "slug": "why-do-you-need-to-avoid-with-statement",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 305,
+    "title": "What is the output of the following for loops",
+    "slug": "what-is-the-output-of-the-following-for-loops",
+    "section": "Arrays and Iteration",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 307,
+    "title": "What is ES6",
+    "slug": "what-is-es6",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 323,
+    "title": "What are the advantages of module loaders",
+    "slug": "what-are-the-advantages-of-module-loaders",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 324,
+    "title": "What is collation",
+    "slug": "what-is-collation",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 327,
+    "title": "Is PostMessage secure",
+    "slug": "is-postmessage-secure",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 328,
+    "title": "What are the problems with postmessage target origin as wildcard",
+    "slug": "what-are-the-problems-with-postmessage-target-origin-as-wildcard",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 330,
+    "title": "Can I avoid using postMessages completely",
+    "slug": "can-i-avoid-using-postmessages-completely",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 331,
+    "title": "Is postMessages synchronous",
+    "slug": "is-postmessages-synchronous",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 332,
+    "title": "What paradigm is Javascript",
+    "slug": "what-paradigm-is-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 333,
+    "title": "What is the difference between internal and external javascript",
+    "slug": "what-is-the-difference-between-internal-and-external-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 334,
+    "title": "Is JavaScript faster than server side script",
+    "slug": "is-javascript-faster-than-server-side-script",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 335,
+    "title": "How do you get the status of a checkbox",
+    "slug": "how-do-you-get-the-status-of-a-checkbox",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 336,
+    "title": "What is the purpose of double tilde operator",
+    "slug": "what-is-the-purpose-of-double-tilde-operator",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 337,
+    "title": "How do you convert character to ASCII code",
+    "slug": "how-do-you-convert-character-to-ascii-code",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 339,
+    "title": "What is the output of below string expression",
+    "slug": "what-is-the-output-of-below-string-expression",
+    "section": "Values and Types",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 340,
+    "title": "What is the purpose of Error object",
+    "slug": "what-is-the-purpose-of-error-object",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 341,
+    "title": "What is the purpose of EvalError object",
+    "slug": "what-is-the-purpose-of-evalerror-object",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 342,
+    "title": "What are the list of cases error thrown from non-strict mode to strict mode",
+    "slug": "what-are-the-list-of-cases-error-thrown-from-non-strict-mode-to-strict-mode",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 352,
+    "title": "Does javascript uses mixins",
+    "slug": "does-javascript-uses-mixins",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 353,
+    "title": "Mixin Example using Object composition",
+    "slug": "mixin-example-using-object-composition",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 354,
+    "title": "Benefits",
+    "slug": "benefits",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 355,
+    "title": "What is a thunk function",
+    "slug": "what-is-a-thunk-function",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 356,
+    "title": "What are asynchronous thunks",
+    "slug": "what-are-asynchronous-thunks",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 357,
+    "title": "What is the output of below function calls",
+    "slug": "what-is-the-output-of-below-function-calls",
+    "section": "Functions and Scope",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 359,
+    "title": "What is the difference between reflow and repaint",
+    "slug": "what-is-the-difference-between-reflow-and-repaint",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 360,
+    "title": "What happens with negating an array",
+    "slug": "what-happens-with-negating-an-array",
+    "section": "Arrays and Iteration",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 361,
+    "title": "What happens if we add two arrays",
+    "slug": "what-happens-if-we-add-two-arrays",
+    "section": "Arrays and Iteration",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 362,
+    "title": "What is the output of prepend additive operator on falsy values",
+    "slug": "what-is-the-output-of-prepend-additive-operator-on-falsy-values",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 363,
+    "title": "How do you create self string using special characters",
+    "slug": "how-do-you-create-self-string-using-special-characters",
+    "section": "Values and Types",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 370,
+    "title": "What is the easiest way to convert an array to an object",
+    "slug": "what-is-the-easiest-way-to-convert-an-array-to-an-object",
+    "section": "Arrays and Iteration",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 371,
+    "title": "How do you create an array with some data",
+    "slug": "how-do-you-create-an-array-with-some-data",
+    "section": "Arrays and Iteration",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 372,
+    "title": "What are the placeholders from console object",
+    "slug": "what-are-the-placeholders-from-console-object",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 373,
+    "title": "Is it possible to add CSS to console messages",
+    "slug": "is-it-possible-to-add-css-to-console-messages",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 374,
+    "title": "What is the purpose of dir method of console object",
+    "slug": "what-is-the-purpose-of-dir-method-of-console-object",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 375,
+    "title": "Is it possible to debug HTML elements in console",
+    "slug": "is-it-possible-to-debug-html-elements-in-console",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 376,
+    "title": "How do you display data in a tabular format using console object",
+    "slug": "how-do-you-display-data-in-a-tabular-format-using-console-object",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 378,
+    "title": "How do you create copy to clipboard button",
+    "slug": "how-do-you-create-copy-to-clipboard-button",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 379,
+    "title": "What is the shortcut to get timestamp",
+    "slug": "what-is-the-shortcut-to-get-timestamp",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 382,
+    "title": "How do you capture browser back button",
+    "slug": "how-do-you-capture-browser-back-button",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 383,
+    "title": "How do you disable right click in the web page",
+    "slug": "how-do-you-disable-right-click-in-the-web-page",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 384,
+    "title": "What are wrapper objects",
+    "slug": "what-are-wrapper-objects",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 385,
+    "title": "What is AJAX",
+    "slug": "what-is-ajax",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 388,
+    "title": "What is web speech API",
+    "slug": "what-is-web-speech-api",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 389,
+    "title": "What is minimum timeout throttling",
+    "slug": "what-is-minimum-timeout-throttling",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 390,
+    "title": "How do you implement zero timeout in modern browsers",
+    "slug": "how-do-you-implement-zero-timeout-in-modern-browsers",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 393,
+    "title": "What are different event loops",
+    "slug": "what-are-different-event-loops",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 395,
+    "title": "How do you use javascript libraries in typescript file",
+    "slug": "how-do-you-use-javascript-libraries-in-typescript-file",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 396,
+    "title": "What are the differences between promises and observables",
+    "slug": "what-are-the-differences-between-promises-and-observables",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 397,
+    "title": "What is heap",
+    "slug": "what-is-heap",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 398,
+    "title": "What is an event table",
+    "slug": "what-is-an-event-table",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 400,
+    "title": "What is the difference between shim and polyfill",
+    "slug": "what-is-the-difference-between-shim-and-polyfill",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 402,
+    "title": "What is babel",
+    "slug": "what-is-babel",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 403,
+    "title": "Is Node.js completely single threaded",
+    "slug": "is-nodejs-completely-single-threaded",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 404,
+    "title": "What are the common use cases of observables",
+    "slug": "what-are-the-common-use-cases-of-observables",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 405,
+    "title": "What is RxJS",
+    "slug": "what-is-rxjs",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 413,
+    "title": "What is deno",
+    "slug": "what-is-deno",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 415,
+    "title": "What is a Proper Tail Call",
+    "slug": "what-is-a-proper-tail-call",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 417,
+    "title": "How to detect if a function is called as constructor",
+    "slug": "how-to-detect-if-a-function-is-called-as-constructor",
+    "section": "Functions and Scope",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 420,
+    "title": "What are the different kinds of generators",
+    "slug": "what-are-the-different-kinds-of-generators",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 421,
+    "title": "What are the built-in iterables",
+    "slug": "what-are-the-built-in-iterables",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 423,
+    "title": "How do you define instance and non-instance properties",
+    "slug": "how-do-you-define-instance-and-non-instance-properties",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 425,
+    "title": "How to invoke an IIFE without any extra brackets?",
+    "slug": "how-to-invoke-an-iife-without-any-extra-brackets",
+    "section": "Functions and Scope",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 426,
+    "title": "Is that possible to use expressions in switch cases?",
+    "slug": "is-that-possible-to-use-expressions-in-switch-cases",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 427,
+    "title": "What is the easiest way to ignore promise errors?",
+    "slug": "what-is-the-easiest-way-to-ignore-promise-errors",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 428,
+    "title": "How do style the console output using CSS?",
+    "slug": "how-do-style-the-console-output-using-css",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 430,
+    "title": "How do you group and nest console output?",
+    "slug": "how-do-you-group-and-nest-console-output",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 432,
+    "title": "What are the different ways to create sparse arrays?",
+    "slug": "what-are-the-different-ways-to-create-sparse-arrays",
+    "section": "Arrays and Iteration",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 433,
+    "title": "What is the difference between setTimeout, setImmediate and process.nextTick?",
+    "slug": "what-is-the-difference-between-settimeout-setimmediate-and-processnexttick",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 435,
+    "title": "How do you create custom HTML element?",
+    "slug": "how-do-you-create-custom-html-element",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 457,
+    "title": "What are the optimization techniques of V8 engine?",
+    "slug": "what-are-the-optimization-techniques-of-v8-engine",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 465,
+    "title": "What are hidden classes?",
+    "slug": "what-are-hidden-classes",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 466,
+    "title": "What is inline caching?",
+    "slug": "what-is-inline-caching",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 467,
+    "title": "What are the different ways to execute external scripts?",
+    "slug": "what-are-the-different-ways-to-execute-external-scripts",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 469,
+    "title": "How to detect system dark mode in javascript?",
+    "slug": "how-to-detect-system-dark-mode-in-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 470,
+    "title": "What is the purpose of requestAnimationFrame method?",
+    "slug": "what-is-the-purpose-of-requestanimationframe-method",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 471,
+    "title": "What is the difference between substring and substr methods?",
+    "slug": "what-is-the-difference-between-substring-and-substr-methods",
+    "section": "Values and Types",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 485,
+    "title": "What are WeakRef and FinalizationRegistry used for?",
+    "slug": "what-are-weakref-and-finalizationregistry-used-for",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 487,
+    "title": "What is the Temporal API and why is it proposed as a replacement for Date?",
+    "slug": "what-is-the-temporal-api-and-why-is-it-proposed-as-a-replacement-for-date",
+    "section": "Modern JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 491,
+    "title": "What are generator functions and how do they work?",
+    "slug": "what-are-generator-functions-and-how-do-they-work",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 492,
+    "title": "What is the Reflect API and when should you use it?",
+    "slug": "what-is-the-reflect-api-and-when-should-you-use-it",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 496,
+    "title": "What is the Intl.NumberFormat API and how is it used?",
+    "slug": "what-is-the-intlnumberformat-api-and-how-is-it-used",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 500,
+    "title": "How does the Intersection Observer API work?",
+    "slug": "how-does-the-intersection-observer-api-work",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 507,
+    "title": "What is the difference between synchronous and asynchronous generators?",
+    "slug": "what-is-the-difference-between-synchronous-and-asynchronous-generators",
+    "section": "Async JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 508,
+    "title": "What are Proxy traps and what operations can they intercept?",
+    "slug": "what-are-proxy-traps-and-what-operations-can-they-intercept",
+    "section": "Objects and Prototypes",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 509,
+    "title": "How does the Mutation Observer API work?",
+    "slug": "how-does-the-mutation-observer-api-work",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 510,
+    "title": "What is tail call optimization and does JavaScript support it?",
+    "slug": "what-is-tail-call-optimization-and-does-javascript-support-it",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 512,
+    "title": "How do you implement a singleton pattern in JavaScript?",
+    "slug": "how-do-you-implement-a-singleton-pattern-in-javascript",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 513,
+    "title": "What is the Performance API and how is it used for measuring performance?",
+    "slug": "what-is-the-performance-api-and-how-is-it-used-for-measuring-performance",
+    "section": "Browser and DOM",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 514,
+    "title": "What are the differences between SharedArrayBuffer and ArrayBuffer?",
+    "slug": "what-are-the-differences-between-sharedarraybuffer-and-arraybuffer",
+    "section": "Arrays and Iteration",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 516,
+    "title": "What is the Atomics API and when should it be used?",
+    "slug": "what-is-the-atomics-api-and-when-should-it-be-used",
+    "section": "JavaScript",
+    "tier": 3,
+    "rank": null
+  },
+  {
+    "id": 517,
+    "title": "How do you implement a lazy loading pattern for modules?",
+    "slug": "how-do-you-implement-a-lazy-loading-pattern-for-modules",
+    "section": "Modules and Tooling",
+    "tier": 3,
+    "rank": null
+  }
+]

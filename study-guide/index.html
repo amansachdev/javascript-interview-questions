@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f5f4ef" />
+    <meta name="description" content="A ranked, bookmarkable JavaScript interview question study guide." />
+    <title>JavaScript Interview Study Guide</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <div class="eyebrow"><span class="spark"></span> A focused JavaScript prep list</div>
+        <h1>Study the questions<br /><em>that matter first.</em></h1>
+        <p class="intro">518 questions, ranked by practical interview value. Check off what you’ve covered and pick up where you left off.</p>
+        <div class="progress-wrap" aria-live="polite">
+          <div class="progress-top"><span id="progress-label">Your progress</span><strong id="progress-count">0 / 518 done</strong></div>
+          <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+        </div>
+      </header>
+
+      <section class="workspace" aria-label="Question list">
+        <div class="toolbar">
+          <label class="search-box"><span class="search-icon" aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find a question or topic…" autocomplete="off" /><kbd>/</kbd></label>
+          <label class="done-filter"><input id="hide-done" type="checkbox" /><span class="custom-check"></span> Hide completed</label>
+        </div>
+        <div class="filter-row" role="group" aria-label="Filter by priority">
+          <button class="filter active" data-tier="all">All <span id="count-all"></span></button>
+          <button class="filter" data-tier="1"><span class="dot dot-high"></span> Start here <span id="count-1"></span></button>
+          <button class="filter" data-tier="2"><span class="dot dot-mid"></span> Next <span id="count-2"></span></button>
+          <button class="filter" data-tier="3"><span class="dot dot-low"></span> Optional <span id="count-3"></span></button>
+          <span class="filter-spacer"></span>
+          <span class="sort-note">Ranked for interview prep</span>
+        </div>
+        <div id="list-meta" class="list-meta"></div>
+        <div id="question-list" class="question-list" aria-live="polite"></div>
+        <div id="empty-state" class="empty-state" hidden><span class="empty-mark">⌕</span><strong>No questions found</strong><p>Try another search or choose a different priority.</p></div>
+      </section>
+      <footer><span>Answers expand here from the repository README · progress stays in this browser.</span></footer>
+    </main>
+  </body>
+</html>

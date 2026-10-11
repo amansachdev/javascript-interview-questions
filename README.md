@@ -1,5 +1,15 @@
 # JavaScript Interview Questions & Answers
 
+## Interactive JavaScript Interview Study Guide
+
+**[Open the study guide](https://amansachdev.github.io/javascript-interview-questions/)** — work through a prioritized set of JavaScript interview questions, search by topic, expand answers on the page, and check off what you have studied. It includes the answers from this README, so you can prepare without jumping between pages.
+
+Your checklist is saved in this browser on this device. It does not sync across browsers or devices. The ranking is an editorial study order, not a prediction of what a particular interviewer will ask.
+
+The [study guide source](./study-guide/) and [local run instructions](./study-guide/README.md) are available in this repository.
+
+---
+
 > Click :star:if you like the project and follow [@SudheerJonna](https://twitter.com/SudheerJonna) for more updates. Coding questions available [here](#coding-exercise). Check [DataStructures and Algorithms](https://github.com/sudheerj/datastructures-algorithms) for DSA related questions and [ECMAScript](https://github.com/sudheerj/ECMAScript-features) for all ES features.)
 
 ---
