@@ -30,23 +30,13 @@
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
-    "id": 476,
-    "title": "What are shadowing and illegal shadowing?",
-    "slug": "what-are-shadowing-and-illegal-shadowing",
-    "section": "JavaScript",
-    "tier": 1,
-    "rank": 4,
-    "globalRank": 4,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
     "id": 26,
     "title": "What is Hoisting",
     "slug": "what-is-hoisting",
     "section": "Functions and Scope",
     "tier": 1,
-    "rank": 5,
-    "globalRank": 5,
+    "rank": 4,
+    "globalRank": 4,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -55,8 +45,8 @@
     "slug": "what-is-the-difference-between-let-and-var",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 6,
-    "globalRank": 6,
+    "rank": 5,
+    "globalRank": 5,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -65,8 +55,8 @@
     "slug": "does-the-const-variable-make-the-value-immutable",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 7,
-    "globalRank": 7,
+    "rank": 6,
+    "globalRank": 6,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -75,8 +65,8 @@
     "slug": "what-is-the-temporal-dead-zone",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 8,
-    "globalRank": 8,
+    "rank": 7,
+    "globalRank": 7,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -85,188 +75,18 @@
     "slug": "what-is-the-purpose-of-the-this-keyword-in-javascript",
     "section": "Functions and Scope",
     "tier": 1,
-    "rank": 9,
-    "globalRank": 9,
+    "rank": 8,
+    "globalRank": 8,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
     "id": 3,
     "title": "What is the Difference Between `call`, `apply`, and `bind`",
     "slug": "what-is-the-difference-between-call-apply-and-bind",
-    "section": "JavaScript",
-    "tier": 1,
-    "rank": 10,
-    "globalRank": 10,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 445,
-    "title": "How do you create your own bind method using either call or apply method?",
-    "slug": "how-do-you-create-your-own-bind-method-using-either-call-or-apply-method",
     "section": "Functions and Scope",
     "tier": 1,
-    "rank": 11,
-    "globalRank": 11,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 10,
-    "title": "What are lambda expressions or arrow functions",
-    "slug": "what-are-lambda-expressions-or-arrow-functions",
-    "section": "Functions and Scope",
-    "tier": 1,
-    "rank": 12,
-    "globalRank": 12,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 410,
-    "title": "What is the difference between function and class declarations",
-    "slug": "what-is-the-difference-between-function-and-class-declarations",
-    "section": "Functions and Scope",
-    "tier": 1,
-    "rank": 13,
-    "globalRank": 13,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 13,
-    "title": "What is a higher order function",
-    "slug": "what-is-a-higher-order-function",
-    "section": "Functions and Scope",
-    "tier": 1,
-    "rank": 14,
-    "globalRank": 14,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 11,
-    "title": "What is a first class function",
-    "slug": "what-is-a-first-class-function",
-    "section": "Functions and Scope",
-    "tier": 1,
-    "rank": 15,
-    "globalRank": 15,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 15,
-    "title": "What is the currying function",
-    "slug": "what-is-the-currying-function",
-    "section": "Functions and Scope",
-    "tier": 1,
-    "rank": 16,
-    "globalRank": 16,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 25,
-    "title": "What is memoization",
-    "slug": "what-is-memoization",
-    "section": "Functions and Scope",
-    "tier": 1,
-    "rank": 17,
-    "globalRank": 17,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 16,
-    "title": "What is a pure function",
-    "slug": "what-is-a-pure-function",
-    "section": "Functions and Scope",
-    "tier": 1,
-    "rank": 18,
-    "globalRank": 18,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 52,
-    "title": "What is a promise",
-    "slug": "what-is-a-promise",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 19,
-    "globalRank": 19,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 54,
-    "title": "Explain the three states of promise",
-    "slug": "explain-the-three-states-of-promise",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 20,
-    "globalRank": 20,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 64,
-    "title": "What is promise chaining",
-    "slug": "what-is-promise-chaining",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 21,
-    "globalRank": 21,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 65,
-    "title": "What is promise.all",
-    "slug": "what-is-promiseall",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 22,
-    "globalRank": 22,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 480,
-    "title": "What is Promise.any and when should it be used?",
-    "slug": "what-is-promiseany-and-when-should-it-be-used",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 23,
-    "globalRank": 23,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 503,
-    "title": "How does Promise.allSettled() differ from Promise.all()?",
-    "slug": "how-does-promiseallsettled-differ-from-promiseall",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 24,
-    "globalRank": 24,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 67,
-    "title": "What is the purpose of the race method in promise",
-    "slug": "what-is-the-purpose-of-the-race-method-in-promise",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 25,
-    "globalRank": 25,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 411,
-    "title": "What is an async function",
-    "slug": "what-is-an-async-function",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 26,
-    "globalRank": 26,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 412,
-    "title": "How do you prevent promises swallowing errors",
-    "slug": "how-do-you-prevent-promises-swallowing-errors",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 27,
-    "globalRank": 27,
+    "rank": 9,
+    "globalRank": 9,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -275,8 +95,8 @@
     "slug": "what-is-the-event-loop",
     "section": "Async JavaScript",
     "tier": 1,
-    "rank": 28,
-    "globalRank": 28,
+    "rank": 10,
+    "globalRank": 10,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -285,8 +105,8 @@
     "slug": "what-is-microtask",
     "section": "Async JavaScript",
     "tier": 1,
-    "rank": 29,
-    "globalRank": 29,
+    "rank": 11,
+    "globalRank": 11,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -295,88 +115,8 @@
     "slug": "what-are-tasks-in-event-loop",
     "section": "Async JavaScript",
     "tier": 1,
-    "rank": 30,
-    "globalRank": 30,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 239,
-    "title": "What is the call stack",
-    "slug": "what-is-the-call-stack",
-    "section": "JavaScript",
-    "tier": 1,
-    "rank": 31,
-    "globalRank": 31,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 240,
-    "title": "What is the event queue",
-    "slug": "what-is-the-event-queue",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 32,
-    "globalRank": 32,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 55,
-    "title": "What is a callback function",
-    "slug": "what-is-a-callback-function",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 33,
-    "globalRank": 33,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 57,
-    "title": "What is a callback hell",
-    "slug": "what-is-a-callback-hell",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 34,
-    "globalRank": 34,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 95,
-    "title": "What are the pros and cons of promises over callbacks",
-    "slug": "what-are-the-pros-and-cons-of-promises-over-callbacks",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 35,
-    "globalRank": 35,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 386,
-    "title": "What are the different ways to deal with Asynchronous Code",
-    "slug": "what-are-the-different-ways-to-deal-with-asynchronous-code",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 36,
-    "globalRank": 36,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 438,
-    "title": "What is debouncing?",
-    "slug": "what-is-debouncing",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 37,
-    "globalRank": 37,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 439,
-    "title": "What is throttling?",
-    "slug": "what-is-throttling",
-    "section": "Async JavaScript",
-    "tier": 1,
-    "rank": 38,
-    "globalRank": 38,
+    "rank": 12,
+    "globalRank": 12,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -385,18 +125,8 @@
     "slug": "what-is-the-difference-between--and--operators",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 39,
-    "globalRank": 39,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 407,
-    "title": "What is a Short circuit condition",
-    "slug": "what-is-a-short-circuit-condition",
-    "section": "JavaScript",
-    "tier": 1,
-    "rank": 40,
-    "globalRank": 40,
+    "rank": 13,
+    "globalRank": 13,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -405,8 +135,308 @@
     "slug": "what-is-the-difference-between-null-and-undefined",
     "section": "Values and Types",
     "tier": 1,
+    "rank": 14,
+    "globalRank": 14,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 42,
+    "title": "What are the differences between cookie, local storage and session storage",
+    "slug": "what-are-the-differences-between-cookie-local-storage-and-session-storage",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 15,
+    "globalRank": 15,
+    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
+  },
+  {
+    "id": 43,
+    "title": "What is the main difference between localStorage and sessionStorage",
+    "slug": "what-is-the-main-difference-between-localstorage-and-sessionstorage",
+    "section": "Browser and DOM",
+    "tier": 1,
+    "rank": 16,
+    "globalRank": 16,
+    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
+  },
+  {
+    "id": 10,
+    "title": "What are lambda expressions or arrow functions",
+    "slug": "what-are-lambda-expressions-or-arrow-functions",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 17,
+    "globalRank": 17,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 13,
+    "title": "What is a higher order function",
+    "slug": "what-is-a-higher-order-function",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 18,
+    "globalRank": 18,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 11,
+    "title": "What is a first class function",
+    "slug": "what-is-a-first-class-function",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 19,
+    "globalRank": 19,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 476,
+    "title": "What are shadowing and illegal shadowing?",
+    "slug": "what-are-shadowing-and-illegal-shadowing",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 20,
+    "globalRank": 20,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 15,
+    "title": "What is the currying function",
+    "slug": "what-is-the-currying-function",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 21,
+    "globalRank": 21,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 25,
+    "title": "What is memoization",
+    "slug": "what-is-memoization",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 22,
+    "globalRank": 22,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 16,
+    "title": "What is a pure function",
+    "slug": "what-is-a-pure-function",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 23,
+    "globalRank": 23,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 67,
+    "title": "What is the purpose of the race method in promise",
+    "slug": "what-is-the-purpose-of-the-race-method-in-promise",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 24,
+    "globalRank": 24,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 503,
+    "title": "How does Promise.allSettled() differ from Promise.all()?",
+    "slug": "how-does-promiseallsettled-differ-from-promiseall",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 25,
+    "globalRank": 25,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 480,
+    "title": "What is Promise.any and when should it be used?",
+    "slug": "what-is-promiseany-and-when-should-it-be-used",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 26,
+    "globalRank": 26,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 359,
+    "title": "What is the difference between reflow and repaint",
+    "slug": "what-is-the-difference-between-reflow-and-repaint",
+    "section": "Language Basics",
+    "tier": 1,
+    "rank": 27,
+    "globalRank": 27,
+    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
+  },
+  {
+    "id": 445,
+    "title": "How do you create your own bind method using either call or apply method?",
+    "slug": "how-do-you-create-your-own-bind-method-using-either-call-or-apply-method",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 28,
+    "globalRank": 28,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 410,
+    "title": "What is the difference between function and class declarations",
+    "slug": "what-is-the-difference-between-function-and-class-declarations",
+    "section": "Functions and Scope",
+    "tier": 1,
+    "rank": 29,
+    "globalRank": 29,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 52,
+    "title": "What is a promise",
+    "slug": "what-is-a-promise",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 30,
+    "globalRank": 30,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 54,
+    "title": "Explain the three states of promise",
+    "slug": "explain-the-three-states-of-promise",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 31,
+    "globalRank": 31,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 64,
+    "title": "What is promise chaining",
+    "slug": "what-is-promise-chaining",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 32,
+    "globalRank": 32,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 65,
+    "title": "What is promise.all",
+    "slug": "what-is-promiseall",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 33,
+    "globalRank": 33,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 411,
+    "title": "What is an async function",
+    "slug": "what-is-an-async-function",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 34,
+    "globalRank": 34,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 412,
+    "title": "How do you prevent promises swallowing errors",
+    "slug": "how-do-you-prevent-promises-swallowing-errors",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 35,
+    "globalRank": 35,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 239,
+    "title": "What is the call stack",
+    "slug": "what-is-the-call-stack",
+    "section": "Language Basics",
+    "tier": 1,
+    "rank": 36,
+    "globalRank": 36,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 240,
+    "title": "What is the event queue",
+    "slug": "what-is-the-event-queue",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 37,
+    "globalRank": 37,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 55,
+    "title": "What is a callback function",
+    "slug": "what-is-a-callback-function",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 38,
+    "globalRank": 38,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 57,
+    "title": "What is a callback hell",
+    "slug": "what-is-a-callback-hell",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 39,
+    "globalRank": 39,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 95,
+    "title": "What are the pros and cons of promises over callbacks",
+    "slug": "what-are-the-pros-and-cons-of-promises-over-callbacks",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 40,
+    "globalRank": 40,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 386,
+    "title": "What are the different ways to deal with Asynchronous Code",
+    "slug": "what-are-the-different-ways-to-deal-with-asynchronous-code",
+    "section": "Async JavaScript",
+    "tier": 1,
     "rank": 41,
     "globalRank": 41,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 438,
+    "title": "What is debouncing?",
+    "slug": "what-is-debouncing",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 42,
+    "globalRank": 42,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 439,
+    "title": "What is throttling?",
+    "slug": "what-is-throttling",
+    "section": "Async JavaScript",
+    "tier": 1,
+    "rank": 43,
+    "globalRank": 43,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 407,
+    "title": "What is a Short circuit condition",
+    "slug": "what-is-a-short-circuit-condition",
+    "section": "Language Basics",
+    "tier": 1,
+    "rank": 44,
+    "globalRank": 44,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -415,8 +445,8 @@
     "slug": "what-is-typeof-operator",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 42,
-    "globalRank": 42,
+    "rank": 45,
+    "globalRank": 45,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -425,8 +455,8 @@
     "slug": "what-is-isnan",
     "section": "Values and Types",
     "tier": 1,
-    "rank": 43,
-    "globalRank": 43,
+    "rank": 46,
+    "globalRank": 46,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -435,8 +465,8 @@
     "slug": "what-is-the-difference-between-isnan-and-numberisnan",
     "section": "Values and Types",
     "tier": 1,
-    "rank": 44,
-    "globalRank": 44,
+    "rank": 47,
+    "globalRank": 47,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -445,8 +475,8 @@
     "slug": "what-are-primitive-data-types",
     "section": "Values and Types",
     "tier": 1,
-    "rank": 45,
-    "globalRank": 45,
+    "rank": 48,
+    "globalRank": 48,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -455,8 +485,8 @@
     "slug": "what-is-pass-by-value-and-pass-by-reference",
     "section": "Values and Types",
     "tier": 1,
-    "rank": 46,
-    "globalRank": 46,
+    "rank": 49,
+    "globalRank": 49,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -465,8 +495,8 @@
     "slug": "what-are-the-differences-between-primitives-and-non-primitives",
     "section": "Values and Types",
     "tier": 1,
-    "rank": 47,
-    "globalRank": 47,
+    "rank": 50,
+    "globalRank": 50,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -475,18 +505,18 @@
     "slug": "how-do-you-assign-default-values-to-variables",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 48,
-    "globalRank": 48,
+    "rank": 51,
+    "globalRank": 51,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
     "id": 310,
     "title": "What are default parameters",
     "slug": "what-are-default-parameters",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 1,
-    "rank": 49,
-    "globalRank": 49,
+    "rank": 52,
+    "globalRank": 52,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -495,8 +525,8 @@
     "slug": "what-is-destructuring-assignment",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 50,
-    "globalRank": 50,
+    "rank": 53,
+    "globalRank": 53,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -505,8 +535,8 @@
     "slug": "what-is-a-rest-parameter",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 51,
-    "globalRank": 51,
+    "rank": 54,
+    "globalRank": 54,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -515,8 +545,8 @@
     "slug": "what-is-a-spread-operator",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 52,
-    "globalRank": 52,
+    "rank": 55,
+    "globalRank": 55,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -525,8 +555,8 @@
     "slug": "what-are-the-differences-between-spread-operator-and-rest-parameter",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 53,
-    "globalRank": 53,
+    "rank": 56,
+    "globalRank": 56,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -535,8 +565,8 @@
     "slug": "what-is-nullish-coalescing-operator-",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 54,
-    "globalRank": 54,
+    "rank": 57,
+    "globalRank": 57,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -545,8 +575,8 @@
     "slug": "what-is-optional-chaining",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 55,
-    "globalRank": 55,
+    "rank": 58,
+    "globalRank": 58,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -555,8 +585,8 @@
     "slug": "what-are-the-possible-ways-to-create-objects-in-javascript",
     "section": "Objects and Prototypes",
     "tier": 1,
-    "rank": 56,
-    "globalRank": 56,
+    "rank": 59,
+    "globalRank": 59,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -565,8 +595,8 @@
     "slug": "what-is-a-prototype-chain",
     "section": "Objects and Prototypes",
     "tier": 1,
-    "rank": 57,
-    "globalRank": 57,
+    "rank": 60,
+    "globalRank": 60,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -575,8 +605,8 @@
     "slug": "what-is-the-difference-between-proto-and-prototype",
     "section": "Objects and Prototypes",
     "tier": 1,
-    "rank": 58,
-    "globalRank": 58,
+    "rank": 61,
+    "globalRank": 61,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -585,8 +615,8 @@
     "slug": "how-do-you-get-the-prototype-of-an-object",
     "section": "Objects and Prototypes",
     "tier": 1,
-    "rank": 59,
-    "globalRank": 59,
+    "rank": 62,
+    "globalRank": 62,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -595,8 +625,8 @@
     "slug": "what-is-the-difference-between-objectcreate-and-objectassign",
     "section": "Objects and Prototypes",
     "tier": 1,
-    "rank": 60,
-    "globalRank": 60,
+    "rank": 63,
+    "globalRank": 63,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -605,8 +635,8 @@
     "slug": "what-are-the-differences-between-map-and-object-for-storing-key-value-pairs",
     "section": "Objects and Prototypes",
     "tier": 1,
-    "rank": 61,
-    "globalRank": 61,
+    "rank": 64,
+    "globalRank": 64,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -615,8 +645,8 @@
     "slug": "what-is-the-difference-between-objectkeys-objectvalues-and-objectentries",
     "section": "Objects and Prototypes",
     "tier": 1,
-    "rank": 62,
-    "globalRank": 62,
+    "rank": 65,
+    "globalRank": 65,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -625,8 +655,8 @@
     "slug": "how-do-you-check-if-a-key-exists-in-an-object",
     "section": "Objects and Prototypes",
     "tier": 1,
-    "rank": 63,
-    "globalRank": 63,
+    "rank": 66,
+    "globalRank": 66,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -635,28 +665,18 @@
     "slug": "how-do-you-copy-properties-from-one-object-to-other",
     "section": "Objects and Prototypes",
     "tier": 1,
-    "rank": 64,
-    "globalRank": 64,
+    "rank": 67,
+    "globalRank": 67,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
     "id": 347,
     "title": "What is the difference between Shallow and Deep copy",
     "slug": "what-is-the-difference-between-shallow-and-deep-copy",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 1,
-    "rank": 65,
-    "globalRank": 65,
-    "priorityBasis": "broad recurring fundamentals or common coding pattern"
-  },
-  {
-    "id": 478,
-    "title": "What is structuredClone and how is it used for deep copying objects?",
-    "slug": "what-is-structuredclone-and-how-is-it-used-for-deep-copying-objects",
-    "section": "Objects and Prototypes",
-    "tier": 1,
-    "rank": 66,
-    "globalRank": 66,
+    "rank": 68,
+    "globalRank": 68,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -665,8 +685,8 @@
     "slug": "how-do-you-create-polyfills-for-map-filter-and-reduce-methods",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 67,
-    "globalRank": 67,
+    "rank": 69,
+    "globalRank": 69,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -675,8 +695,8 @@
     "slug": "what-is-the-purpose-of-some-method-in-arrays",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 68,
-    "globalRank": 68,
+    "rank": 70,
+    "globalRank": 70,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -685,8 +705,8 @@
     "slug": "how-do-you-remove-falsy-values-from-an-array",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 69,
-    "globalRank": 69,
+    "rank": 71,
+    "globalRank": 71,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -695,8 +715,8 @@
     "slug": "what-are-the-differences-between-forof-and-forin-statements",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 70,
-    "globalRank": 70,
+    "rank": 72,
+    "globalRank": 72,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -705,8 +725,8 @@
     "slug": "how-do-you-reverse-an-array-without-modifying-original-array",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 71,
-    "globalRank": 71,
+    "rank": 73,
+    "globalRank": 73,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -715,8 +735,8 @@
     "slug": "what-is-the-difference-between-map-and-foreach-functions",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 72,
-    "globalRank": 72,
+    "rank": 74,
+    "globalRank": 74,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -725,8 +745,8 @@
     "slug": "what-is-the-difference-between-for-loop-and-foreach",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 73,
-    "globalRank": 73,
+    "rank": 75,
+    "globalRank": 75,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -735,8 +755,8 @@
     "slug": "what-are-the-array-mutation-methods",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 74,
-    "globalRank": 74,
+    "rank": 76,
+    "globalRank": 76,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -745,8 +765,8 @@
     "slug": "how-do-you-get-unique-values-of-an-array",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 75,
-    "globalRank": 75,
+    "rank": 77,
+    "globalRank": 77,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -755,8 +775,8 @@
     "slug": "how-do-you-flattening-multi-dimensional-arrays",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 76,
-    "globalRank": 76,
+    "rank": 78,
+    "globalRank": 78,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -765,8 +785,8 @@
     "slug": "how-do-you-combine-two-or-more-arrays",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 77,
-    "globalRank": 77,
+    "rank": 79,
+    "globalRank": 79,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -775,8 +795,8 @@
     "slug": "how-do-you-sort-elements-in-an-array",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 78,
-    "globalRank": 78,
+    "rank": 80,
+    "globalRank": 80,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -785,8 +805,8 @@
     "slug": "how-do-you-check-whether-or-not-an-array-includes-a-particular-value",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 79,
-    "globalRank": 79,
+    "rank": 81,
+    "globalRank": 81,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -795,8 +815,8 @@
     "slug": "what-are-modules",
     "section": "Modules and Tooling",
     "tier": 1,
-    "rank": 80,
-    "globalRank": 80,
+    "rank": 82,
+    "globalRank": 82,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -805,8 +825,8 @@
     "slug": "why-do-you-need-modules",
     "section": "Modules and Tooling",
     "tier": 1,
-    "rank": 81,
-    "globalRank": 81,
+    "rank": 83,
+    "globalRank": 83,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -815,8 +835,8 @@
     "slug": "what-are-dynamic-imports",
     "section": "Modules and Tooling",
     "tier": 1,
-    "rank": 82,
-    "globalRank": 82,
+    "rank": 84,
+    "globalRank": 84,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -825,8 +845,8 @@
     "slug": "what-is-tree-shaking",
     "section": "Modules and Tooling",
     "tier": 1,
-    "rank": 83,
-    "globalRank": 83,
+    "rank": 85,
+    "globalRank": 85,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -835,8 +855,8 @@
     "slug": "what-are-the-best-practices-for-optimizing-javascript-bundle-size",
     "section": "Modules and Tooling",
     "tier": 1,
-    "rank": 84,
-    "globalRank": 84,
+    "rank": 86,
+    "globalRank": 86,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -845,8 +865,8 @@
     "slug": "what-are-events",
     "section": "Browser and DOM",
     "tier": 1,
-    "rank": 85,
-    "globalRank": 85,
+    "rank": 87,
+    "globalRank": 87,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -855,8 +875,8 @@
     "slug": "what-is-an-event-flow",
     "section": "Browser and DOM",
     "tier": 1,
-    "rank": 86,
-    "globalRank": 86,
+    "rank": 88,
+    "globalRank": 88,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -865,8 +885,8 @@
     "slug": "what-is-event-capturing",
     "section": "Browser and DOM",
     "tier": 1,
-    "rank": 87,
-    "globalRank": 87,
+    "rank": 89,
+    "globalRank": 89,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -875,8 +895,8 @@
     "slug": "what-is-event-bubbling",
     "section": "Browser and DOM",
     "tier": 1,
-    "rank": 88,
-    "globalRank": 88,
+    "rank": 90,
+    "globalRank": 90,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -885,8 +905,8 @@
     "slug": "what-is-an-event-delegation",
     "section": "Browser and DOM",
     "tier": 1,
-    "rank": 89,
-    "globalRank": 89,
+    "rank": 91,
+    "globalRank": 91,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -895,18 +915,18 @@
     "slug": "what-is-the-use-of-preventdefault-method",
     "section": "Browser and DOM",
     "tier": 1,
-    "rank": 90,
-    "globalRank": 90,
+    "rank": 92,
+    "globalRank": 92,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
     "id": 105,
     "title": "What is the use of stopPropagation method",
     "slug": "what-is-the-use-of-stoppropagation-method",
-    "section": "JavaScript",
+    "section": "Browser and DOM",
     "tier": 1,
-    "rank": 91,
-    "globalRank": 91,
+    "rank": 93,
+    "globalRank": 93,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -915,8 +935,8 @@
     "slug": "why-is-it-important-to-remove-event-listeners-after-use",
     "section": "Browser and DOM",
     "tier": 1,
-    "rank": 92,
-    "globalRank": 92,
+    "rank": 94,
+    "globalRank": 94,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -925,8 +945,8 @@
     "slug": "how-to-cancel-a-fetch-request",
     "section": "Browser and DOM",
     "tier": 1,
-    "rank": 93,
-    "globalRank": 93,
+    "rank": 95,
+    "globalRank": 95,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -935,18 +955,18 @@
     "slug": "what-is-the-abortcontroller-api-and-how-is-it-used",
     "section": "Async JavaScript",
     "tier": 1,
-    "rank": 94,
-    "globalRank": 94,
+    "rank": 96,
+    "globalRank": 96,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
     "id": 456,
     "title": "What are the possible reasons for memory leaks?",
     "slug": "what-are-the-possible-reasons-for-memory-leaks",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 1,
-    "rank": 95,
-    "globalRank": 95,
+    "rank": 97,
+    "globalRank": 97,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -955,8 +975,8 @@
     "slug": "what-are-template-literals",
     "section": "Modern JavaScript",
     "tier": 1,
-    "rank": 96,
-    "globalRank": 96,
+    "rank": 98,
+    "globalRank": 98,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -965,18 +985,18 @@
     "slug": "how-to-verify-if-a-variable-is-an-array",
     "section": "Arrays and Iteration",
     "tier": 1,
-    "rank": 97,
-    "globalRank": 97,
+    "rank": 99,
+    "globalRank": 99,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
     "id": 108,
     "title": "What is the use of setTimeout",
     "slug": "what-is-the-use-of-settimeout",
-    "section": "JavaScript",
+    "section": "Async JavaScript",
     "tier": 1,
-    "rank": 98,
-    "globalRank": 98,
+    "rank": 100,
+    "globalRank": 100,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -985,8 +1005,8 @@
     "slug": "what-is-the-purpose-json-stringify",
     "section": "Values and Types",
     "tier": 1,
-    "rank": 99,
-    "globalRank": 99,
+    "rank": 101,
+    "globalRank": 101,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -995,8 +1015,198 @@
     "slug": "how-do-you-parse-json-string",
     "section": "Values and Types",
     "tier": 1,
-    "rank": 100,
-    "globalRank": 100,
+    "rank": 102,
+    "globalRank": 102,
+    "priorityBasis": "broad recurring fundamentals or common coding pattern"
+  },
+  {
+    "id": 39,
+    "title": "Why do you need a Cookie",
+    "slug": "why-do-you-need-a-cookie",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": 1,
+    "globalRank": 103,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 40,
+    "title": "What are the options in a cookie",
+    "slug": "what-are-the-options-in-a-cookie",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": 2,
+    "globalRank": 104,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 41,
+    "title": "How do you delete a cookie",
+    "slug": "how-do-you-delete-a-cookie",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": 3,
+    "globalRank": 105,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 45,
+    "title": "What are the methods available on session storage",
+    "slug": "what-are-the-methods-available-on-session-storage",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": 4,
+    "globalRank": 106,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 46,
+    "title": "What is a storage event and its event handler",
+    "slug": "what-is-a-storage-event-and-its-event-handler",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": 5,
+    "globalRank": 107,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 48,
+    "title": "How do you check web storage browser support",
+    "slug": "how-do-you-check-web-storage-browser-support",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": 6,
+    "globalRank": 108,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 385,
+    "title": "What is AJAX",
+    "slug": "what-is-ajax",
+    "section": "Language Basics",
+    "tier": 2,
+    "rank": 7,
+    "globalRank": 109,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 78,
+    "title": "What is the difference between window and document",
+    "slug": "what-is-the-difference-between-window-and-document",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": 8,
+    "globalRank": 110,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 241,
+    "title": "What is a decorator",
+    "slug": "what-is-a-decorator",
+    "section": "Language Basics",
+    "tier": 2,
+    "rank": 9,
+    "globalRank": 111,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 405,
+    "title": "What is RxJS",
+    "slug": "what-is-rxjs",
+    "section": "Language Basics",
+    "tier": 2,
+    "rank": 10,
+    "globalRank": 112,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 404,
+    "title": "What are the common use cases of observables",
+    "slug": "what-are-the-common-use-cases-of-observables",
+    "section": "Async JavaScript",
+    "tier": 2,
+    "rank": 11,
+    "globalRank": 113,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 487,
+    "title": "What is the Temporal API and why is it proposed as a replacement for Date?",
+    "slug": "what-is-the-temporal-api-and-why-is-it-proposed-as-a-replacement-for-date",
+    "section": "Modern JavaScript",
+    "tier": 2,
+    "rank": 12,
+    "globalRank": 114,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 35,
+    "title": "What is IndexedDB",
+    "slug": "what-is-indexeddb",
+    "section": "Language Basics",
+    "tier": 2,
+    "rank": 13,
+    "globalRank": 115,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 118,
+    "title": "What are PWAs",
+    "slug": "what-are-pwas",
+    "section": "Language Basics",
+    "tier": 2,
+    "rank": 14,
+    "globalRank": 116,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 123,
+    "title": "How do you validate an email in javascript",
+    "slug": "how-do-you-validate-an-email-in-javascript",
+    "section": "Language Basics",
+    "tier": 2,
+    "rank": 15,
+    "globalRank": 117,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 177,
+    "title": "What are the ways to execute javascript after a page load",
+    "slug": "what-are-the-ways-to-execute-javascript-after-a-page-load",
+    "section": "Language Basics",
+    "tier": 2,
+    "rank": 16,
+    "globalRank": 118,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 435,
+    "title": "How do you create custom HTML element?",
+    "slug": "how-do-you-create-custom-html-element",
+    "section": "Browser and DOM",
+    "tier": 2,
+    "rank": 17,
+    "globalRank": 119,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 433,
+    "title": "What is the difference between setTimeout, setImmediate and process.nextTick?",
+    "slug": "what-is-the-difference-between-settimeout-setimmediate-and-processnexttick",
+    "section": "Language Basics",
+    "tier": 2,
+    "rank": 18,
+    "globalRank": 120,
+    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
+  },
+  {
+    "id": 478,
+    "title": "What is structuredClone and how is it used for deep copying objects?",
+    "slug": "what-is-structuredclone-and-how-is-it-used-for-deep-copying-objects",
+    "section": "Objects and Prototypes",
+    "tier": 2,
+    "rank": 19,
+    "globalRank": 121,
     "priorityBasis": "broad recurring fundamentals or common coding pattern"
   },
   {
@@ -1005,8 +1215,8 @@
     "slug": "what-are-the-benefits-of-pure-functions",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 1,
-    "globalRank": 101,
+    "rank": 20,
+    "globalRank": 122,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1015,8 +1225,8 @@
     "slug": "what-is-an-iife-immediately-invoked-function-expression",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 2,
-    "globalRank": 102,
+    "rank": 21,
+    "globalRank": 123,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1025,8 +1235,8 @@
     "slug": "what-are-classes-in-es6",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 3,
-    "globalRank": 103,
+    "rank": 22,
+    "globalRank": 124,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1035,38 +1245,38 @@
     "slug": "what-is-a-unary-function",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 4,
-    "globalRank": 104,
+    "rank": 23,
+    "globalRank": 125,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 68,
     "title": "What is a strict mode in javascript",
     "slug": "what-is-a-strict-mode-in-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 5,
-    "globalRank": 105,
+    "rank": 24,
+    "globalRank": 126,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 69,
     "title": "Why do you need strict mode",
     "slug": "why-do-you-need-strict-mode",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 6,
-    "globalRank": 106,
+    "rank": 25,
+    "globalRank": 127,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 70,
     "title": "How do you declare strict mode",
     "slug": "how-do-you-declare-strict-mode",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 7,
-    "globalRank": 107,
+    "rank": 26,
+    "globalRank": 128,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1075,8 +1285,8 @@
     "slug": "what-is-the-purpose-of-the-array-slice-method",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 8,
-    "globalRank": 108,
+    "rank": 27,
+    "globalRank": 129,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1085,8 +1295,8 @@
     "slug": "what-is-the-purpose-of-the-array-splice-method",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 9,
-    "globalRank": 109,
+    "rank": 28,
+    "globalRank": 130,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1095,8 +1305,8 @@
     "slug": "what-is-the-difference-between-slice-and-splice",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 10,
-    "globalRank": 110,
+    "rank": 29,
+    "globalRank": 131,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1105,8 +1315,8 @@
     "slug": "what-is-the-purpose-of-the-delete-operator",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 11,
-    "globalRank": 111,
+    "rank": 30,
+    "globalRank": 132,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1115,8 +1325,8 @@
     "slug": "what-is-null-value",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 12,
-    "globalRank": 112,
+    "rank": 31,
+    "globalRank": 133,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1125,8 +1335,8 @@
     "slug": "what-are-the-differences-between-undeclared-and-undefined-variables",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 13,
-    "globalRank": 113,
+    "rank": 32,
+    "globalRank": 134,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1135,8 +1345,8 @@
     "slug": "what-are-global-variables",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 14,
-    "globalRank": 114,
+    "rank": 33,
+    "globalRank": 135,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1145,8 +1355,8 @@
     "slug": "what-are-the-problems-with-global-variables",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 15,
-    "globalRank": 115,
+    "rank": 34,
+    "globalRank": 136,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1155,28 +1365,28 @@
     "slug": "what-is-nan-property",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 16,
-    "globalRank": 116,
+    "rank": 35,
+    "globalRank": 137,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 96,
     "title": "What is the difference between an attribute and a property",
     "slug": "what-is-the-difference-between-an-attribute-and-a-property",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 17,
-    "globalRank": 117,
+    "rank": 36,
+    "globalRank": 138,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 99,
     "title": "Is JavaScript a compiled or interpreted language",
     "slug": "is-javascript-a-compiled-or-interpreted-language",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 18,
-    "globalRank": 118,
+    "rank": 37,
+    "globalRank": 139,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1185,8 +1395,8 @@
     "slug": "what-is-ecmascript",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 19,
-    "globalRank": 119,
+    "rank": 38,
+    "globalRank": 140,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1195,8 +1405,8 @@
     "slug": "what-are-the-syntax-rules-of-json",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 20,
-    "globalRank": 120,
+    "rank": 39,
+    "globalRank": 141,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1205,8 +1415,8 @@
     "slug": "why-do-you-need-json",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 21,
-    "globalRank": 121,
+    "rank": 40,
+    "globalRank": 142,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1215,8 +1425,8 @@
     "slug": "how-do-you-check-whether-a-string-contains-a-substring",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 22,
-    "globalRank": 122,
+    "rank": 41,
+    "globalRank": 143,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1225,8 +1435,8 @@
     "slug": "how-do-you-get-the-current-url-with-javascript",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 23,
-    "globalRank": 123,
+    "rank": 42,
+    "globalRank": 144,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1235,8 +1445,8 @@
     "slug": "what-are-the-various-url-properties-of-location-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 24,
-    "globalRank": 124,
+    "rank": 43,
+    "globalRank": 145,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1245,8 +1455,8 @@
     "slug": "how-do-you-get-query-string-values-in-javascript",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 25,
-    "globalRank": 125,
+    "rank": 44,
+    "globalRank": 146,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1255,8 +1465,8 @@
     "slug": "how-do-you-loop-through-or-enumerate-javascript-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 26,
-    "globalRank": 126,
+    "rank": 45,
+    "globalRank": 147,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1265,8 +1475,8 @@
     "slug": "how-do-you-test-for-an-empty-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 27,
-    "globalRank": 127,
+    "rank": 46,
+    "globalRank": 148,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1275,8 +1485,8 @@
     "slug": "what-is-an-arguments-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 28,
-    "globalRank": 128,
+    "rank": 47,
+    "globalRank": 149,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1285,8 +1495,8 @@
     "slug": "what-are-the-pros-and-cons-of-for-loops",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 29,
-    "globalRank": 129,
+    "rank": 48,
+    "globalRank": 150,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1295,8 +1505,8 @@
     "slug": "how-do-you-define-multiline-strings",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 30,
-    "globalRank": 130,
+    "rank": 49,
+    "globalRank": 151,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1305,8 +1515,8 @@
     "slug": "can-we-define-properties-for-functions",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 31,
-    "globalRank": 131,
+    "rank": 50,
+    "globalRank": 152,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1315,8 +1525,8 @@
     "slug": "what-is-the-way-to-find-the-number-of-parameters-expected-by-a-function",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 32,
-    "globalRank": 132,
+    "rank": 51,
+    "globalRank": 153,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1325,18 +1535,18 @@
     "slug": "what-is-a-polyfill",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 33,
-    "globalRank": 133,
+    "rank": 52,
+    "globalRank": 154,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 145,
     "title": "What are break and continue statements",
     "slug": "what-are-break-and-continue-statements",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 34,
-    "globalRank": 134,
+    "rank": 53,
+    "globalRank": 155,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1345,18 +1555,18 @@
     "slug": "what-are-the-recommendations-to-create-new-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 35,
-    "globalRank": 135,
+    "rank": 54,
+    "globalRank": 156,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 156,
     "title": "What is a Regular Expression",
     "slug": "what-is-a-regular-expression",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 36,
-    "globalRank": 136,
+    "rank": 55,
+    "globalRank": 157,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1365,28 +1575,28 @@
     "slug": "what-are-the-string-methods-that-accept-regular-expression",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 37,
-    "globalRank": 137,
+    "rank": 56,
+    "globalRank": 158,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 158,
     "title": "What are modifiers in regular expression",
     "slug": "what-are-modifiers-in-regular-expression",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 38,
-    "globalRank": 138,
+    "rank": 57,
+    "globalRank": 159,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 159,
     "title": "What are regular expression patterns",
     "slug": "what-are-regular-expression-patterns",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 39,
-    "globalRank": 139,
+    "rank": 58,
+    "globalRank": 160,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1395,8 +1605,8 @@
     "slug": "what-is-a-regexp-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 40,
-    "globalRank": 140,
+    "rank": 59,
+    "globalRank": 161,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1405,18 +1615,18 @@
     "slug": "how-do-you-search-a-string-for-a-pattern",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 41,
-    "globalRank": 141,
+    "rank": 60,
+    "globalRank": 162,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 162,
     "title": "What is the purpose of exec method",
     "slug": "what-is-the-purpose-of-exec-method",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 42,
-    "globalRank": 142,
+    "rank": 61,
+    "globalRank": 163,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1425,8 +1635,8 @@
     "slug": "how-do-you-make-asynchronous-http-request",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 43,
-    "globalRank": 143,
+    "rank": 62,
+    "globalRank": 164,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1435,8 +1645,8 @@
     "slug": "what-is-a-conditional-operator-in-javascript",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 44,
-    "globalRank": 144,
+    "rank": 63,
+    "globalRank": 165,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1445,8 +1655,8 @@
     "slug": "can-you-apply-chaining-on-conditional-operator",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 45,
-    "globalRank": 145,
+    "rank": 64,
+    "globalRank": 166,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1455,8 +1665,8 @@
     "slug": "what-is-the-freeze-method",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 46,
-    "globalRank": 146,
+    "rank": 65,
+    "globalRank": 167,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1465,8 +1675,8 @@
     "slug": "what-are-various-operators-supported-by-javascript",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 47,
-    "globalRank": 147,
+    "rank": 66,
+    "globalRank": 168,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1475,18 +1685,18 @@
     "slug": "what-is-the-purpose-of-using-object-is-method",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 48,
-    "globalRank": 148,
+    "rank": 67,
+    "globalRank": 169,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 195,
     "title": "What are the applications of the assign method",
     "slug": "what-are-the-applications-of-the-assign-method",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 49,
-    "globalRank": 149,
+    "rank": 68,
+    "globalRank": 170,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1495,8 +1705,8 @@
     "slug": "what-is-a-proxy-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 50,
-    "globalRank": 150,
+    "rank": 69,
+    "globalRank": 171,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1505,8 +1715,8 @@
     "slug": "what-is-the-purpose-of-the-seal-method",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 51,
-    "globalRank": 151,
+    "rank": 70,
+    "globalRank": 172,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1515,8 +1725,8 @@
     "slug": "what-are-the-differences-between-the-freeze-and-seal-methods",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 52,
-    "globalRank": 152,
+    "rank": 71,
+    "globalRank": 173,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1525,8 +1735,8 @@
     "slug": "how-do-you-get-enumerable-key-and-value-pairs",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 53,
-    "globalRank": 153,
+    "rank": 72,
+    "globalRank": 174,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1535,8 +1745,8 @@
     "slug": "what-is-the-main-difference-between-objectvalues-and-objectentries-method",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 54,
-    "globalRank": 154,
+    "rank": 73,
+    "globalRank": 175,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1545,8 +1755,8 @@
     "slug": "how-can-you-get-the-list-of-keys-of-any-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 55,
-    "globalRank": 155,
+    "rank": 74,
+    "globalRank": 176,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1555,8 +1765,8 @@
     "slug": "how-do-you-create-an-object-with-a-prototype",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 56,
-    "globalRank": 156,
+    "rank": 75,
+    "globalRank": 177,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1565,8 +1775,8 @@
     "slug": "what-are-the-differences-between-weakset-and-set",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 57,
-    "globalRank": 157,
+    "rank": 76,
+    "globalRank": 178,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1575,8 +1785,8 @@
     "slug": "what-is-a-weakmap",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 58,
-    "globalRank": 158,
+    "rank": 77,
+    "globalRank": 179,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1585,18 +1795,18 @@
     "slug": "what-are-the-differences-between-weakmap-and-map",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 59,
-    "globalRank": 159,
+    "rank": 78,
+    "globalRank": 180,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 218,
     "title": "What are javascript accessors",
     "slug": "what-are-javascript-accessors",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 60,
-    "globalRank": 160,
+    "rank": 79,
+    "globalRank": 181,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1605,18 +1815,18 @@
     "slug": "how-do-you-define-property-on-object-constructor",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 61,
-    "globalRank": 161,
+    "rank": 80,
+    "globalRank": 182,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 220,
     "title": "What is the difference between get and defineProperty",
     "slug": "what-is-the-difference-between-get-and-defineproperty",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 62,
-    "globalRank": 162,
+    "rank": 81,
+    "globalRank": 183,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1625,8 +1835,8 @@
     "slug": "what-are-the-advantages-of-getters-and-setters",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 63,
-    "globalRank": 163,
+    "rank": 82,
+    "globalRank": 184,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1635,28 +1845,28 @@
     "slug": "can-i-add-getters-and-setters-using-defineproperty-method",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 64,
-    "globalRank": 164,
+    "rank": 83,
+    "globalRank": 185,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 223,
     "title": "What is the purpose of switch-case",
     "slug": "what-is-the-purpose-of-switch-case",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 65,
-    "globalRank": 165,
+    "rank": 84,
+    "globalRank": 186,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 224,
     "title": "What are the conventions to be followed for the usage of switch case",
     "slug": "what-are-the-conventions-to-be-followed-for-the-usage-of-switch-case",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 66,
-    "globalRank": 166,
+    "rank": 85,
+    "globalRank": 187,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1665,8 +1875,8 @@
     "slug": "what-are-the-different-ways-to-access-object-properties",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 67,
-    "globalRank": 167,
+    "rank": 86,
+    "globalRank": 188,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1675,8 +1885,8 @@
     "slug": "what-are-the-function-parameter-rules",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 68,
-    "globalRank": 168,
+    "rank": 87,
+    "globalRank": 189,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1685,18 +1895,18 @@
     "slug": "what-is-an-error-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 69,
-    "globalRank": 169,
+    "rank": 88,
+    "globalRank": 190,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 229,
     "title": "When do you get a syntax error",
     "slug": "when-do-you-get-a-syntax-error",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 70,
-    "globalRank": 170,
+    "rank": 89,
+    "globalRank": 191,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1705,8 +1915,8 @@
     "slug": "what-are-the-different-error-names-from-error-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 71,
-    "globalRank": 171,
+    "rank": 90,
+    "globalRank": 192,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1715,8 +1925,8 @@
     "slug": "what-are-the-various-statements-in-error-handling",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 72,
-    "globalRank": 172,
+    "rank": 91,
+    "globalRank": 193,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1725,8 +1935,8 @@
     "slug": "what-are-the-two-types-of-loops-in-javascript",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 73,
-    "globalRank": 173,
+    "rank": 92,
+    "globalRank": 194,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1735,8 +1945,8 @@
     "slug": "what-is-nodejs",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 74,
-    "globalRank": 174,
+    "rank": 93,
+    "globalRank": 195,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1745,8 +1955,8 @@
     "slug": "what-is-the-intl-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 75,
-    "globalRank": 175,
+    "rank": 94,
+    "globalRank": 196,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1755,8 +1965,8 @@
     "slug": "how-do-you-perform-language-specific-date-and-time-formatting",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 76,
-    "globalRank": 176,
+    "rank": 95,
+    "globalRank": 197,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1765,8 +1975,8 @@
     "slug": "what-is-an-iterator",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 77,
-    "globalRank": 177,
+    "rank": 96,
+    "globalRank": 198,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1775,8 +1985,8 @@
     "slug": "how-does-synchronous-iteration-works",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 78,
-    "globalRank": 178,
+    "rank": 97,
+    "globalRank": 199,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1785,8 +1995,8 @@
     "slug": "what-are-the-properties-of-the-intl-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 79,
-    "globalRank": 179,
+    "rank": 98,
+    "globalRank": 200,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1795,8 +2005,8 @@
     "slug": "what-is-the-purpose-of-comparefunction-while-sorting-arrays",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 80,
-    "globalRank": 180,
+    "rank": 99,
+    "globalRank": 201,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1805,8 +2015,8 @@
     "slug": "how-do-you-reverse-an-array",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 81,
-    "globalRank": 181,
+    "rank": 100,
+    "globalRank": 202,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1815,8 +2025,8 @@
     "slug": "how-do-you-find-the-min-and-max-values-in-an-array",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 82,
-    "globalRank": 182,
+    "rank": 101,
+    "globalRank": 203,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1825,8 +2035,8 @@
     "slug": "how-do-you-find-the-min-and-max-values-without-math-functions",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 83,
-    "globalRank": 183,
+    "rank": 102,
+    "globalRank": 204,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1835,8 +2045,8 @@
     "slug": "what-is-typescript",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 84,
-    "globalRank": 184,
+    "rank": 103,
+    "globalRank": 205,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1845,8 +2055,8 @@
     "slug": "what-are-the-differences-between-javascript-and-typescript",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 85,
-    "globalRank": 185,
+    "rank": 104,
+    "globalRank": 206,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1855,8 +2065,8 @@
     "slug": "what-are-the-advantages-of-typescript-over-javascript",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 86,
-    "globalRank": 186,
+    "rank": 105,
+    "globalRank": 207,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1865,8 +2075,8 @@
     "slug": "what-is-an-object-initializer",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 87,
-    "globalRank": 187,
+    "rank": 106,
+    "globalRank": 208,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1875,8 +2085,8 @@
     "slug": "what-is-a-constructor-method",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 88,
-    "globalRank": 188,
+    "rank": 107,
+    "globalRank": 209,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1885,8 +2095,8 @@
     "slug": "what-happens-if-you-write-constructor-more-than-once-in-a-class",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 89,
-    "globalRank": 189,
+    "rank": 108,
+    "globalRank": 210,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1895,8 +2105,8 @@
     "slug": "how-do-you-call-the-constructor-of-a-parent-class",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 90,
-    "globalRank": 190,
+    "rank": 109,
+    "globalRank": 211,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1905,8 +2115,8 @@
     "slug": "what-happens-if-i-pass-string-type-for-getprototype-method",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 91,
-    "globalRank": 191,
+    "rank": 110,
+    "globalRank": 212,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1915,8 +2125,8 @@
     "slug": "how-do-you-set-the-prototype-of-one-object-to-another",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 92,
-    "globalRank": 192,
+    "rank": 111,
+    "globalRank": 213,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1925,8 +2135,8 @@
     "slug": "how-do-you-check-whether-an-object-can-be-extended-or-not",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 93,
-    "globalRank": 193,
+    "rank": 112,
+    "globalRank": 214,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1935,8 +2145,8 @@
     "slug": "how-do-you-prevent-an-object-from-being-extend",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 94,
-    "globalRank": 194,
+    "rank": 113,
+    "globalRank": 215,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1945,8 +2155,8 @@
     "slug": "what-are-the-different-ways-to-make-an-object-non-extensible",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 95,
-    "globalRank": 195,
+    "rank": 114,
+    "globalRank": 216,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1955,8 +2165,8 @@
     "slug": "how-do-you-define-multiple-properties-on-an-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 96,
-    "globalRank": 196,
+    "rank": 115,
+    "globalRank": 217,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1965,8 +2175,8 @@
     "slug": "how-do-you-perform-form-validation-using-javascript",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 97,
-    "globalRank": 197,
+    "rank": 116,
+    "globalRank": 218,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1975,8 +2185,8 @@
     "slug": "how-do-you-perform-form-validation-without-javascript",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 98,
-    "globalRank": 198,
+    "rank": 117,
+    "globalRank": 219,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1985,8 +2195,8 @@
     "slug": "what-are-the-dom-methods-available-for-constraint-validation",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 99,
-    "globalRank": 199,
+    "rank": 118,
+    "globalRank": 220,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -1995,18 +2205,18 @@
     "slug": "what-are-the-available-constraint-validation-dom-properties",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 100,
-    "globalRank": 200,
+    "rank": 119,
+    "globalRank": 221,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 278,
     "title": "What are the validity properties",
     "slug": "what-are-the-validity-properties",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 101,
-    "globalRank": 201,
+    "rank": 120,
+    "globalRank": 222,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2015,8 +2225,8 @@
     "slug": "how-do-you-list-all-properties-of-an-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 102,
-    "globalRank": 202,
+    "rank": 121,
+    "globalRank": 223,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2025,8 +2235,8 @@
     "slug": "how-do-you-get-property-descriptors-of-an-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 103,
-    "globalRank": 203,
+    "rank": 122,
+    "globalRank": 224,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2035,8 +2245,8 @@
     "slug": "what-are-the-attributes-provided-by-a-property-descriptor",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 104,
-    "globalRank": 204,
+    "rank": 123,
+    "globalRank": 225,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2045,8 +2255,8 @@
     "slug": "how-do-you-extend-classes",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 105,
-    "globalRank": 205,
+    "rank": 124,
+    "globalRank": 226,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2055,8 +2265,8 @@
     "slug": "how-do-i-modify-the-url-without-reloading-the-page",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 106,
-    "globalRank": 206,
+    "rank": 125,
+    "globalRank": 227,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2065,18 +2275,18 @@
     "slug": "how-do-you-compare-scalar-arrays",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 107,
-    "globalRank": 207,
+    "rank": 126,
+    "globalRank": 228,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 289,
     "title": "How to get the value from get parameters",
     "slug": "how-to-get-the-value-from-get-parameters",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 108,
-    "globalRank": 208,
+    "rank": 127,
+    "globalRank": 229,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2085,8 +2295,8 @@
     "slug": "how-do-you-print-numbers-with-commas-as-thousand-separators",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 109,
-    "globalRank": 209,
+    "rank": 128,
+    "globalRank": 230,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2095,8 +2305,8 @@
     "slug": "how-do-you-get-the-timezone-offset-of-a-date-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 110,
-    "globalRank": 210,
+    "rank": 129,
+    "globalRank": 231,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2105,8 +2315,8 @@
     "slug": "how-do-you-load-css-and-js-files-dynamically",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 111,
-    "globalRank": 211,
+    "rank": 130,
+    "globalRank": 232,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2115,28 +2325,28 @@
     "slug": "what-are-the-different-methods-to-find-html-elements-in-dom",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 112,
-    "globalRank": 212,
+    "rank": 131,
+    "globalRank": 233,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 299,
     "title": "What is V8 JavaScript engine",
     "slug": "what-is-v8-javascript-engine",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 113,
-    "globalRank": 213,
+    "rank": 132,
+    "globalRank": 234,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 300,
     "title": "Why do we call javascript as dynamic language",
     "slug": "why-do-we-call-javascript-as-dynamic-language",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 114,
-    "globalRank": 214,
+    "rank": 133,
+    "globalRank": 235,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2145,8 +2355,8 @@
     "slug": "how-do-you-write-multi-line-strings-in-template-literals",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 115,
-    "globalRank": 215,
+    "rank": 134,
+    "globalRank": 236,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2155,8 +2365,8 @@
     "slug": "what-are-tagged-templates",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 116,
-    "globalRank": 216,
+    "rank": 135,
+    "globalRank": 237,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2165,8 +2375,8 @@
     "slug": "what-are-default-values-in-destructuring-assignment",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 117,
-    "globalRank": 217,
+    "rank": 136,
+    "globalRank": 238,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2175,8 +2385,8 @@
     "slug": "how-do-you-swap-variables-in-destructuring-assignment",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 118,
-    "globalRank": 218,
+    "rank": 137,
+    "globalRank": 239,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2185,8 +2395,8 @@
     "slug": "what-are-enhanced-object-literals",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 119,
-    "globalRank": 219,
+    "rank": 138,
+    "globalRank": 240,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2195,8 +2405,8 @@
     "slug": "what-are-the-use-cases-for-dynamic-imports",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 120,
-    "globalRank": 220,
+    "rank": 139,
+    "globalRank": 241,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2205,8 +2415,8 @@
     "slug": "what-are-typed-arrays",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 121,
-    "globalRank": 221,
+    "rank": 140,
+    "globalRank": 242,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2215,18 +2425,18 @@
     "slug": "what-is-forof-statement",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 122,
-    "globalRank": 222,
+    "rank": 141,
+    "globalRank": 243,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 335,
     "title": "How do you get the status of a checkbox",
     "slug": "how-do-you-get-the-status-of-a-checkbox",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 123,
-    "globalRank": 223,
+    "rank": 142,
+    "globalRank": 244,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2235,8 +2445,8 @@
     "slug": "what-is-arraybuffer",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 124,
-    "globalRank": 224,
+    "rank": 143,
+    "globalRank": 245,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2245,8 +2455,8 @@
     "slug": "what-is-the-purpose-of-error-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 125,
-    "globalRank": 225,
+    "rank": 144,
+    "globalRank": 246,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2255,18 +2465,18 @@
     "slug": "do-all-objects-have-prototypes",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 126,
-    "globalRank": 226,
+    "rank": 145,
+    "globalRank": 247,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 344,
     "title": "What is the difference between a parameter and an argument",
     "slug": "what-is-the-difference-between-a-parameter-and-an-argument",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 127,
-    "globalRank": 227,
+    "rank": 146,
+    "globalRank": 248,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2275,8 +2485,8 @@
     "slug": "how-do-you-create-specific-number-of-copies-of-a-string",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 128,
-    "globalRank": 228,
+    "rank": 147,
+    "globalRank": 249,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2285,8 +2495,8 @@
     "slug": "how-do-you-return-all-matching-strings-against-a-regular-expression",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 129,
-    "globalRank": 229,
+    "rank": 148,
+    "globalRank": 250,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2295,8 +2505,8 @@
     "slug": "how-do-you-trim-a-string-at-the-beginning-or-ending",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 130,
-    "globalRank": 230,
+    "rank": 149,
+    "globalRank": 251,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2305,18 +2515,8 @@
     "slug": "how-to-remove-all-line-breaks-from-a-string",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 131,
-    "globalRank": 231,
-    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
-  },
-  {
-    "id": 359,
-    "title": "What is the difference between reflow and repaint",
-    "slug": "what-is-the-difference-between-reflow-and-repaint",
-    "section": "JavaScript",
-    "tier": 2,
-    "rank": 132,
-    "globalRank": 232,
+    "rank": 150,
+    "globalRank": 252,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2325,8 +2525,8 @@
     "slug": "what-is-destructuring-aliases",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 133,
-    "globalRank": 233,
+    "rank": 151,
+    "globalRank": 253,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2335,8 +2535,8 @@
     "slug": "how-do-you-round-numbers-to-certain-decimals",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 134,
-    "globalRank": 234,
+    "rank": 152,
+    "globalRank": 254,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2345,8 +2545,8 @@
     "slug": "what-is-the-easiest-way-to-convert-an-array-to-an-object",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 135,
-    "globalRank": 235,
+    "rank": 153,
+    "globalRank": 255,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2355,18 +2555,18 @@
     "slug": "how-do-you-verify-that-an-argument-is-a-number-or-not",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 136,
-    "globalRank": 236,
+    "rank": 154,
+    "globalRank": 256,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 378,
     "title": "How do you create copy to clipboard button",
     "slug": "how-do-you-create-copy-to-clipboard-button",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 137,
-    "globalRank": 237,
+    "rank": 155,
+    "globalRank": 257,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2375,8 +2575,8 @@
     "slug": "what-is-the-purpose-of-queuemicrotask",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 138,
-    "globalRank": 238,
+    "rank": 156,
+    "globalRank": 258,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2385,8 +2585,8 @@
     "slug": "what-are-the-differences-between-promises-and-observables",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 139,
-    "globalRank": 239,
+    "rank": 157,
+    "globalRank": 259,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2395,8 +2595,8 @@
     "slug": "what-is-a-microtask-queue",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 140,
-    "globalRank": 240,
+    "rank": 158,
+    "globalRank": 260,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2405,8 +2605,8 @@
     "slug": "what-is-the-difference-between-shim-and-polyfill",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 141,
-    "globalRank": 241,
+    "rank": 159,
+    "globalRank": 261,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2415,8 +2615,8 @@
     "slug": "how-do-you-detect-primitive-or-non-primitive-value-type",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 142,
-    "globalRank": 242,
+    "rank": 160,
+    "globalRank": 262,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2425,8 +2625,8 @@
     "slug": "is-nodejs-completely-single-threaded",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 143,
-    "globalRank": 243,
+    "rank": 161,
+    "globalRank": 263,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2435,8 +2635,8 @@
     "slug": "what-is-the-difference-between-function-constructor-and-function-declaration",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 144,
-    "globalRank": 244,
+    "rank": 162,
+    "globalRank": 264,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2445,8 +2645,8 @@
     "slug": "what-is-the-easiest-way-to-resize-an-array",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 145,
-    "globalRank": 245,
+    "rank": 163,
+    "globalRank": 265,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2455,8 +2655,8 @@
     "slug": "what-is-an-observable",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 146,
-    "globalRank": 246,
+    "rank": 164,
+    "globalRank": 266,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2465,8 +2665,8 @@
     "slug": "how-do-you-make-an-object-iterable-in-javascript",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 147,
-    "globalRank": 247,
+    "rank": 165,
+    "globalRank": 267,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2475,18 +2675,18 @@
     "slug": "what-are-the-differences-between-arguments-object-and-rest-parameter",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 148,
-    "globalRank": 248,
+    "rank": 166,
+    "globalRank": 268,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 421,
     "title": "What are the built-in iterables",
     "slug": "what-are-the-built-in-iterables",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 149,
-    "globalRank": 249,
+    "rank": 167,
+    "globalRank": 269,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2495,8 +2695,8 @@
     "slug": "what-is-the-difference-between-dense-and-sparse-arrays",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 150,
-    "globalRank": 250,
+    "rank": 168,
+    "globalRank": 270,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2505,8 +2705,8 @@
     "slug": "what-is-global-execution-context",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 151,
-    "globalRank": 251,
+    "rank": 169,
+    "globalRank": 271,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2515,18 +2715,18 @@
     "slug": "what-is-function-execution-context",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 152,
-    "globalRank": 252,
+    "rank": 170,
+    "globalRank": 272,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 441,
     "title": "What is an environment record?",
     "slug": "what-is-an-environment-record",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 153,
-    "globalRank": 253,
+    "rank": 171,
+    "globalRank": 273,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2535,18 +2735,18 @@
     "slug": "what-are-the-differences-between-pure-and-impure-functions",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 154,
-    "globalRank": 254,
+    "rank": 172,
+    "globalRank": 274,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 448,
     "title": "What are the possible side-effects in javascript?",
     "slug": "what-are-the-possible-side-effects-in-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 155,
-    "globalRank": 255,
+    "rank": 173,
+    "globalRank": 275,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2555,8 +2755,8 @@
     "slug": "what-are-compose-and-pipe-functions",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 156,
-    "globalRank": 256,
+    "rank": 174,
+    "globalRank": 276,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2565,8 +2765,8 @@
     "slug": "what-is-function-composition",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 157,
-    "globalRank": 257,
+    "rank": 175,
+    "globalRank": 277,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2575,8 +2775,8 @@
     "slug": "what-are-the-uses-of-closures",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 158,
-    "globalRank": 258,
+    "rank": 176,
+    "globalRank": 278,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2585,8 +2785,8 @@
     "slug": "what-are-the-phases-of-execution-context",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 159,
-    "globalRank": 259,
+    "rank": 177,
+    "globalRank": 279,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2595,8 +2795,8 @@
     "slug": "what-are-the-examples-of-built-in-higher-order-functions",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 160,
-    "globalRank": 260,
+    "rank": 178,
+    "globalRank": 280,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2605,18 +2805,18 @@
     "slug": "what-are-the-benefits-higher-order-functions",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 161,
-    "globalRank": 261,
+    "rank": 179,
+    "globalRank": 281,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 462,
     "title": "Give an example of statements affected by automatic semicolon insertion?",
     "slug": "give-an-example-of-statements-affected-by-automatic-semicolon-insertion",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 162,
-    "globalRank": 262,
+    "rank": 180,
+    "globalRank": 282,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2625,8 +2825,8 @@
     "slug": "what-are-the-event-phases-of-a-browser",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 163,
-    "globalRank": 263,
+    "rank": 181,
+    "globalRank": 283,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2635,28 +2835,28 @@
     "slug": "what-are-the-real-world-use-cases-of-proxy",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 164,
-    "globalRank": 264,
+    "rank": 182,
+    "globalRank": 284,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 467,
     "title": "What are the different ways to execute external scripts?",
     "slug": "what-are-the-different-ways-to-execute-external-scripts",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 165,
-    "globalRank": 265,
+    "rank": 183,
+    "globalRank": 285,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 469,
     "title": "How to detect system dark mode in javascript?",
     "slug": "how-to-detect-system-dark-mode-in-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 166,
-    "globalRank": 266,
+    "rank": 184,
+    "globalRank": 286,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2665,18 +2865,8 @@
     "slug": "what-is-the-purpose-of-requestanimationframe-method",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 167,
-    "globalRank": 267,
-    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
-  },
-  {
-    "id": 472,
-    "title": "How to find the number of parameters expected by a function?",
-    "slug": "how-to-find-the-number-of-parameters-expected-by-a-function",
-    "section": "Functions and Scope",
-    "tier": 2,
-    "rank": 168,
-    "globalRank": 268,
+    "rank": 185,
+    "globalRank": 287,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2685,8 +2875,8 @@
     "slug": "what-is-globalthis-and-what-is-the-importance-of-it",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 169,
-    "globalRank": 269,
+    "rank": 186,
+    "globalRank": 288,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2695,8 +2885,8 @@
     "slug": "what-is-the-difference-between-const-and-objectfreeze",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 170,
-    "globalRank": 270,
+    "rank": 187,
+    "globalRank": 289,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2705,8 +2895,8 @@
     "slug": "what-is-bigint-and-how-is-it-different-from-number",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 171,
-    "globalRank": 271,
+    "rank": 188,
+    "globalRank": 290,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2715,8 +2905,8 @@
     "slug": "what-are-private-class-fields-in-javascript",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 172,
-    "globalRank": 272,
+    "rank": 189,
+    "globalRank": 291,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2725,8 +2915,8 @@
     "slug": "what-is-the-arrayprototypeat-method-and-why-is-it-useful",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 173,
-    "globalRank": 273,
+    "rank": 190,
+    "globalRank": 292,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2735,8 +2925,8 @@
     "slug": "what-is-top-level-await-in-javascript-modules",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 174,
-    "globalRank": 274,
+    "rank": 191,
+    "globalRank": 293,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2745,8 +2935,8 @@
     "slug": "what-are-logical-assignment-operators",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 175,
-    "globalRank": 275,
+    "rank": 192,
+    "globalRank": 294,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2755,8 +2945,8 @@
     "slug": "what-are-symbols-and-what-are-their-use-cases",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 176,
-    "globalRank": 276,
+    "rank": 193,
+    "globalRank": 295,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2765,8 +2955,8 @@
     "slug": "what-are-generator-functions-and-how-do-they-work",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 177,
-    "globalRank": 277,
+    "rank": 194,
+    "globalRank": 296,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2775,18 +2965,18 @@
     "slug": "what-is-the-reflect-api-and-when-should-you-use-it",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 178,
-    "globalRank": 278,
+    "rank": 195,
+    "globalRank": 297,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 493,
     "title": "How does JavaScript handle floating point precision issues?",
     "slug": "how-does-javascript-handle-floating-point-precision-issues",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 179,
-    "globalRank": 279,
+    "rank": 196,
+    "globalRank": 298,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2795,8 +2985,8 @@
     "slug": "what-are-tagged-template-literals-and-their-practical-uses",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 180,
-    "globalRank": 280,
+    "rank": 197,
+    "globalRank": 299,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2805,18 +2995,18 @@
     "slug": "what-is-the-intlnumberformat-api-and-how-is-it-used",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 181,
-    "globalRank": 281,
+    "rank": 198,
+    "globalRank": 300,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 497,
     "title": "How do you implement method chaining in JavaScript?",
     "slug": "how-do-you-implement-method-chaining-in-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 182,
-    "globalRank": 282,
+    "rank": 199,
+    "globalRank": 301,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2825,8 +3015,8 @@
     "slug": "what-is-the-purpose-of-symboliterator-and-how-do-you-use-it",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 183,
-    "globalRank": 283,
+    "rank": 200,
+    "globalRank": 302,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2835,8 +3025,8 @@
     "slug": "how-does-the-intersection-observer-api-work",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 184,
-    "globalRank": 284,
+    "rank": 201,
+    "globalRank": 303,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2845,8 +3035,8 @@
     "slug": "what-are-async-iterators-and-how-are-they-different-from-regular-iterators",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 185,
-    "globalRank": 285,
+    "rank": 202,
+    "globalRank": 304,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2855,8 +3045,8 @@
     "slug": "what-is-the-purpose-of-objectgetownpropertydescriptors",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 186,
-    "globalRank": 286,
+    "rank": 203,
+    "globalRank": 305,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2865,8 +3055,8 @@
     "slug": "how-do-you-implement-a-custom-error-class-in-javascript",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 187,
-    "globalRank": 287,
+    "rank": 204,
+    "globalRank": 306,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2875,8 +3065,8 @@
     "slug": "what-are-proxy-traps-and-what-operations-can-they-intercept",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 188,
-    "globalRank": 288,
+    "rank": 205,
+    "globalRank": 307,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2885,8 +3075,8 @@
     "slug": "how-does-the-mutation-observer-api-work",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 189,
-    "globalRank": 289,
+    "rank": 206,
+    "globalRank": 308,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2895,18 +3085,18 @@
     "slug": "what-are-the-different-ways-to-handle-circular-references-in-json",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 190,
-    "globalRank": 290,
+    "rank": 207,
+    "globalRank": 309,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 512,
     "title": "How do you implement a singleton pattern in JavaScript?",
     "slug": "how-do-you-implement-a-singleton-pattern-in-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 191,
-    "globalRank": 291,
+    "rank": 208,
+    "globalRank": 310,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2915,8 +3105,8 @@
     "slug": "what-is-the-performance-api-and-how-is-it-used-for-measuring-performance",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 192,
-    "globalRank": 292,
+    "rank": 209,
+    "globalRank": 311,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2925,8 +3115,8 @@
     "slug": "how-do-you-implement-a-lazy-loading-pattern-for-modules",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 193,
-    "globalRank": 293,
+    "rank": 210,
+    "globalRank": 312,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2935,8 +3125,8 @@
     "slug": "what-is-a-first-order-function",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 194,
-    "globalRank": 294,
+    "rank": 211,
+    "globalRank": 313,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2945,8 +3135,8 @@
     "slug": "what-is-the-purpose-of-isfinite-function",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 195,
-    "globalRank": 295,
+    "rank": 212,
+    "globalRank": 314,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2955,8 +3145,8 @@
     "slug": "can-you-write-a-random-integers-function-to-print-integers-within-a-range",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 196,
-    "globalRank": 296,
+    "rank": 213,
+    "globalRank": 315,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2965,8 +3155,8 @@
     "slug": "what-is-an-anonymous-function",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 197,
-    "globalRank": 297,
+    "rank": 214,
+    "globalRank": 316,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2975,8 +3165,8 @@
     "slug": "what-is-module-scope-in-javascript",
     "section": "Functions and Scope",
     "tier": 2,
-    "rank": 198,
-    "globalRank": 298,
+    "rank": 215,
+    "globalRank": 317,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2985,8 +3175,8 @@
     "slug": "why-do-you-need-a-promise",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 199,
-    "globalRank": 299,
+    "rank": 216,
+    "globalRank": 318,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -2995,8 +3185,8 @@
     "slug": "why-do-we-need-callbacks",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 200,
-    "globalRank": 300,
+    "rank": 217,
+    "globalRank": 319,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3005,8 +3195,8 @@
     "slug": "what-are-the-main-rules-of-promise",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 201,
-    "globalRank": 301,
+    "rank": 218,
+    "globalRank": 320,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3015,8 +3205,8 @@
     "slug": "what-is-callback-in-callback",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 202,
-    "globalRank": 302,
+    "rank": 219,
+    "globalRank": 321,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3025,8 +3215,8 @@
     "slug": "does-promiseall-cancel-the-other-promises",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 203,
-    "globalRank": 303,
+    "rank": 220,
+    "globalRank": 322,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3035,8 +3225,8 @@
     "slug": "why-is-javascript-treated-as-single-threaded",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 204,
-    "globalRank": 304,
+    "rank": 221,
+    "globalRank": 323,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3045,8 +3235,8 @@
     "slug": "is-postmessages-synchronous",
     "section": "Async JavaScript",
     "tier": 2,
-    "rank": 205,
-    "globalRank": 305,
+    "rank": 222,
+    "globalRank": 324,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3055,8 +3245,8 @@
     "slug": "how-do-you-define-json-arrays",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 206,
-    "globalRank": 306,
+    "rank": 223,
+    "globalRank": 325,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3065,8 +3255,8 @@
     "slug": "how-do-you-map-the-array-values-without-using-map-method",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 207,
-    "globalRank": 307,
+    "rank": 224,
+    "globalRank": 326,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3075,8 +3265,8 @@
     "slug": "how-do-you-empty-an-array",
     "section": "Arrays and Iteration",
     "tier": 2,
-    "rank": 208,
-    "globalRank": 308,
+    "rank": 225,
+    "globalRank": 327,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3085,8 +3275,8 @@
     "slug": "how-do-you-compare-object-and-map",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 209,
-    "globalRank": 309,
+    "rank": 226,
+    "globalRank": 328,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3095,28 +3285,8 @@
     "slug": "how-do-you-compare-two-date-objects",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 210,
-    "globalRank": 310,
-    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
-  },
-  {
-    "id": 181,
-    "title": "What is the purpose of the freeze method",
-    "slug": "what-is-the-purpose-of-the-freeze-method",
-    "section": "Objects and Prototypes",
-    "tier": 2,
-    "rank": 211,
-    "globalRank": 311,
-    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
-  },
-  {
-    "id": 182,
-    "title": "Why do I need to use the freeze method",
-    "slug": "why-do-i-need-to-use-the-freeze-method",
-    "section": "Objects and Prototypes",
-    "tier": 2,
-    "rank": 212,
-    "globalRank": 312,
+    "rank": 227,
+    "globalRank": 329,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3125,8 +3295,8 @@
     "slug": "how-do-you-determine-whether-object-is-frozen-or-not",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 213,
-    "globalRank": 313,
+    "rank": 228,
+    "globalRank": 330,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3135,18 +3305,8 @@
     "slug": "how-do-you-determine-two-values-same-or-not-using-object",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 214,
-    "globalRank": 314,
-    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
-  },
-  {
-    "id": 198,
-    "title": "What are the applications of the seal method",
-    "slug": "what-are-the-applications-of-the-seal-method",
-    "section": "Objects and Prototypes",
-    "tier": 2,
-    "rank": 215,
-    "globalRank": 315,
+    "rank": 229,
+    "globalRank": 331,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3155,8 +3315,8 @@
     "slug": "how-do-you-determine-if-an-object-is-sealed-or-not",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 216,
-    "globalRank": 316,
+    "rank": 230,
+    "globalRank": 332,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3165,8 +3325,8 @@
     "slug": "what-is-a-weakset",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 217,
-    "globalRank": 317,
+    "rank": 231,
+    "globalRank": 333,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3175,8 +3335,8 @@
     "slug": "list-down-the-collection-of-methods-available-on-weakset",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 218,
-    "globalRank": 318,
+    "rank": 232,
+    "globalRank": 334,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3185,8 +3345,8 @@
     "slug": "list-down-the-collection-of-methods-available-on-weakmap",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 219,
-    "globalRank": 319,
+    "rank": 233,
+    "globalRank": 335,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3195,8 +3355,8 @@
     "slug": "how-do-you-prevent-prototype-pollution-attacks-in-javascript",
     "section": "Objects and Prototypes",
     "tier": 2,
-    "rank": 220,
-    "globalRank": 320,
+    "rank": 234,
+    "globalRank": 336,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3205,8 +3365,8 @@
     "slug": "what-is-json-and-its-common-operations",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 221,
-    "globalRank": 321,
+    "rank": 235,
+    "globalRank": 337,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3215,18 +3375,8 @@
     "slug": "what-is-undefined-property",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 222,
-    "globalRank": 322,
-    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
-  },
-  {
-    "id": 113,
-    "title": "What is JSON",
-    "slug": "what-is-json",
-    "section": "Values and Types",
-    "tier": 2,
-    "rank": 223,
-    "globalRank": 323,
+    "rank": 236,
+    "globalRank": 338,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3235,8 +3385,8 @@
     "slug": "how-do-you-make-first-letter-of-the-string-in-an-uppercase",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 224,
-    "globalRank": 324,
+    "rank": 237,
+    "globalRank": 339,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3245,8 +3395,8 @@
     "slug": "how-do-you-check-if-a-string-starts-with-another-string",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 225,
-    "globalRank": 325,
+    "rank": 238,
+    "globalRank": 340,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3255,8 +3405,8 @@
     "slug": "how-do-you-trim-a-string-in-javascript",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 226,
-    "globalRank": 326,
+    "rank": 239,
+    "globalRank": 341,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3265,8 +3415,8 @@
     "slug": "how-to-convert-a-string-to-title-case-with-javascript",
     "section": "Values and Types",
     "tier": 2,
-    "rank": 227,
-    "globalRank": 327,
+    "rank": 240,
+    "globalRank": 342,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3275,8 +3425,8 @@
     "slug": "what-is-the-purpose-of-the-let-keyword",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 228,
-    "globalRank": 328,
+    "rank": 241,
+    "globalRank": 343,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3285,8 +3435,8 @@
     "slug": "what-are-the-benefits-of-initializing-variables",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 229,
-    "globalRank": 329,
+    "rank": 242,
+    "globalRank": 344,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3295,8 +3445,8 @@
     "slug": "what-happens-if-you-do-not-use-rest-parameter-as-a-last-argument",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 230,
-    "globalRank": 330,
+    "rank": 243,
+    "globalRank": 345,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3305,8 +3455,8 @@
     "slug": "what-is-the-precedence-order-between-local-and-global-variables",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 231,
-    "globalRank": 331,
+    "rank": 244,
+    "globalRank": 346,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3315,8 +3465,8 @@
     "slug": "list-down-some-of-the-features-of-es6",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 232,
-    "globalRank": 332,
+    "rank": 245,
+    "globalRank": 347,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3325,8 +3475,8 @@
     "slug": "can-i-redeclare-let-and-const-variables",
     "section": "Modern JavaScript",
     "tier": 2,
-    "rank": 233,
-    "globalRank": 333,
+    "rank": 246,
+    "globalRank": 348,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3335,8 +3485,8 @@
     "slug": "what-is-the-need-of-tree-shaking",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 234,
-    "globalRank": 334,
+    "rank": 247,
+    "globalRank": 349,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3345,8 +3495,8 @@
     "slug": "how-do-you-get-the-metadata-of-a-module",
     "section": "Modules and Tooling",
     "tier": 2,
-    "rank": 235,
-    "globalRank": 335,
+    "rank": 248,
+    "globalRank": 350,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3355,8 +3505,8 @@
     "slug": "how-do-you-decode-or-encode-a-url-in-javascript",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 236,
-    "globalRank": 336,
+    "rank": 249,
+    "globalRank": 351,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3365,8 +3515,8 @@
     "slug": "what-is-web-storage",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 237,
-    "globalRank": 337,
+    "rank": 250,
+    "globalRank": 352,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3375,28 +3525,8 @@
     "slug": "what-is-a-cookie",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 238,
-    "globalRank": 338,
-    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
-  },
-  {
-    "id": 42,
-    "title": "What are the differences between cookie, local storage and session storage",
-    "slug": "what-are-the-differences-between-cookie-local-storage-and-session-storage",
-    "section": "Browser and DOM",
-    "tier": 2,
-    "rank": 239,
-    "globalRank": 339,
-    "priorityBasis": "useful supporting depth or practical role-specific knowledge"
-  },
-  {
-    "id": 43,
-    "title": "What is the main difference between localStorage and sessionStorage",
-    "slug": "what-is-the-main-difference-between-localstorage-and-sessionstorage",
-    "section": "Browser and DOM",
-    "tier": 2,
-    "rank": 240,
-    "globalRank": 340,
+    "rank": 251,
+    "globalRank": 353,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3405,8 +3535,8 @@
     "slug": "how-do-you-access-web-storage",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 241,
-    "globalRank": 341,
+    "rank": 252,
+    "globalRank": 354,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3415,8 +3545,8 @@
     "slug": "why-do-you-need-web-storage",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 242,
-    "globalRank": 342,
+    "rank": 253,
+    "globalRank": 355,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3425,8 +3555,8 @@
     "slug": "what-is-the-difference-between-document-load-and-domcontentloaded-events",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 243,
-    "globalRank": 343,
+    "rank": 254,
+    "globalRank": 356,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3435,8 +3565,8 @@
     "slug": "what-is-same-origin-policy",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 244,
-    "globalRank": 344,
+    "rank": 255,
+    "globalRank": 357,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3445,8 +3575,8 @@
     "slug": "how-do-you-generate-random-integers",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 245,
-    "globalRank": 345,
+    "rank": 256,
+    "globalRank": 358,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3455,8 +3585,8 @@
     "slug": "how-do-you-change-the-style-of-a-html-element",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 246,
-    "globalRank": 346,
+    "rank": 257,
+    "globalRank": 359,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3465,8 +3595,8 @@
     "slug": "what-are-the-properties-used-to-get-size-of-window",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 247,
-    "globalRank": 347,
+    "rank": 258,
+    "globalRank": 360,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3475,8 +3605,8 @@
     "slug": "how-do-you-encode-an-url",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 248,
-    "globalRank": 348,
+    "rank": 259,
+    "globalRank": 361,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3485,8 +3615,8 @@
     "slug": "how-do-you-decode-an-url",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 249,
-    "globalRank": 349,
+    "rank": 260,
+    "globalRank": 362,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3495,8 +3625,8 @@
     "slug": "is-postmessage-secure",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 250,
-    "globalRank": 350,
+    "rank": 261,
+    "globalRank": 363,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3505,8 +3635,8 @@
     "slug": "what-are-the-problems-with-postmessage-target-origin-as-wildcard",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 251,
-    "globalRank": 351,
+    "rank": 262,
+    "globalRank": 364,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3515,8 +3645,8 @@
     "slug": "how-do-you-avoid-receiving-postmessages-from-attackers",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 252,
-    "globalRank": 352,
+    "rank": 263,
+    "globalRank": 365,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3525,148 +3655,148 @@
     "slug": "can-i-avoid-using-postmessages-completely",
     "section": "Browser and DOM",
     "tier": 2,
-    "rank": 253,
-    "globalRank": 353,
+    "rank": 264,
+    "globalRank": 366,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 71,
     "title": "What is the purpose of double exclamation",
     "slug": "what-is-the-purpose-of-double-exclamation",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 254,
-    "globalRank": 354,
+    "rank": 265,
+    "globalRank": 367,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 94,
     "title": "What are the tools or techniques used for debugging JavaScript code",
     "slug": "what-are-the-tools-or-techniques-used-for-debugging-javascript-code",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 255,
-    "globalRank": 355,
+    "rank": 266,
+    "globalRank": 368,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 100,
     "title": "Is JavaScript a case-sensitive language",
     "slug": "is-javascript-a-case-sensitive-language",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 256,
-    "globalRank": 356,
+    "rank": 267,
+    "globalRank": 369,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 109,
     "title": "What is the use of setInterval",
     "slug": "what-is-the-use-of-setinterval",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 257,
-    "globalRank": 357,
+    "rank": 268,
+    "globalRank": 370,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 119,
     "title": "What is the purpose of clearTimeout method",
     "slug": "what-is-the-purpose-of-cleartimeout-method",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 258,
-    "globalRank": 358,
+    "rank": 269,
+    "globalRank": 371,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 120,
     "title": "What is the purpose of clearInterval method",
     "slug": "what-is-the-purpose-of-clearinterval-method",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 259,
-    "globalRank": 359,
+    "rank": 270,
+    "globalRank": 372,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 133,
     "title": "How do you display the current date in javascript",
     "slug": "how-do-you-display-the-current-date-in-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 260,
-    "globalRank": 360,
+    "rank": 271,
+    "globalRank": 373,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 137,
     "title": "How do you add a key value pair in javascript",
     "slug": "how-do-you-add-a-key-value-pair-in-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 261,
-    "globalRank": 361,
+    "rank": 272,
+    "globalRank": 374,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 165,
     "title": "What is a debugger statement",
     "slug": "what-is-a-debugger-statement",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 262,
-    "globalRank": 362,
+    "rank": 273,
+    "globalRank": 375,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 166,
     "title": "What is the purpose of breakpoints in debugging",
     "slug": "what-is-the-purpose-of-breakpoints-in-debugging",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 263,
-    "globalRank": 363,
+    "rank": 274,
+    "globalRank": 376,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 167,
     "title": "Can I use reserved words as identifiers",
     "slug": "can-i-use-reserved-words-as-identifiers",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 264,
-    "globalRank": 364,
+    "rank": 275,
+    "globalRank": 377,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 173,
     "title": "How do you convert date to another timezone in javascript",
     "slug": "how-do-you-convert-date-to-another-timezone-in-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 265,
-    "globalRank": 365,
+    "rank": 276,
+    "globalRank": 378,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 179,
     "title": "Can you give an example of when you really need a semicolon",
     "slug": "can-you-give-an-example-of-when-you-really-need-a-semicolon",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 266,
-    "globalRank": 366,
+    "rank": 277,
+    "globalRank": 379,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
     "id": 291,
     "title": "What is the difference between java and javascript",
     "slug": "what-is-the-difference-between-java-and-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 2,
-    "rank": 267,
-    "globalRank": 367,
+    "rank": 278,
+    "globalRank": 380,
     "priorityBasis": "useful supporting depth or practical role-specific knowledge"
   },
   {
@@ -3676,7 +3806,7 @@
     "section": "Browser and DOM",
     "tier": 3,
     "rank": 1,
-    "globalRank": 368,
+    "globalRank": 381,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3686,7 +3816,7 @@
     "section": "Browser and DOM",
     "tier": 3,
     "rank": 2,
-    "globalRank": 369,
+    "globalRank": 382,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3696,7 +3826,7 @@
     "section": "Browser and DOM",
     "tier": 3,
     "rank": 3,
-    "globalRank": 370,
+    "globalRank": 383,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3706,7 +3836,7 @@
     "section": "Browser and DOM",
     "tier": 3,
     "rank": 4,
-    "globalRank": 371,
+    "globalRank": 384,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3716,7 +3846,7 @@
     "section": "Browser and DOM",
     "tier": 3,
     "rank": 5,
-    "globalRank": 372,
+    "globalRank": 385,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3726,7 +3856,7 @@
     "section": "Browser and DOM",
     "tier": 3,
     "rank": 6,
-    "globalRank": 373,
+    "globalRank": 386,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3736,7 +3866,7 @@
     "section": "Browser and DOM",
     "tier": 3,
     "rank": 7,
-    "globalRank": 374,
+    "globalRank": 387,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3746,7 +3876,7 @@
     "section": "Browser and DOM",
     "tier": 3,
     "rank": 8,
-    "globalRank": 375,
+    "globalRank": 388,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3756,7 +3886,7 @@
     "section": "Browser and DOM",
     "tier": 3,
     "rank": 9,
-    "globalRank": 376,
+    "globalRank": 389,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3766,17 +3896,7 @@
     "section": "Browser and DOM",
     "tier": 3,
     "rank": 10,
-    "globalRank": 377,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 35,
-    "title": "What is IndexedDB",
-    "slug": "what-is-indexeddb",
-    "section": "JavaScript",
-    "tier": 3,
-    "rank": 11,
-    "globalRank": 378,
+    "globalRank": 390,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3785,8 +3905,8 @@
     "slug": "what-is-a-post-message",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 12,
-    "globalRank": 379,
+    "rank": 11,
+    "globalRank": 391,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3795,38 +3915,18 @@
     "slug": "what-is-web-speech-api",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 13,
-    "globalRank": 380,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 405,
-    "title": "What is RxJS",
-    "slug": "what-is-rxjs",
-    "section": "JavaScript",
-    "tier": 3,
-    "rank": 14,
-    "globalRank": 381,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 404,
-    "title": "What are the common use cases of observables",
-    "slug": "what-are-the-common-use-cases-of-observables",
-    "section": "Async JavaScript",
-    "tier": 3,
-    "rank": 15,
-    "globalRank": 382,
+    "rank": 12,
+    "globalRank": 392,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 397,
     "title": "What is heap",
     "slug": "what-is-heap",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 16,
-    "globalRank": 383,
+    "rank": 13,
+    "globalRank": 393,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3835,18 +3935,18 @@
     "slug": "what-is-babel",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 17,
-    "globalRank": 384,
+    "rank": 14,
+    "globalRank": 394,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 457,
     "title": "What are the optimization techniques of V8 engine?",
     "slug": "what-are-the-optimization-techniques-of-v8-engine",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 18,
-    "globalRank": 385,
+    "rank": 15,
+    "globalRank": 395,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3855,18 +3955,18 @@
     "slug": "what-are-hidden-classes",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 19,
-    "globalRank": 386,
+    "rank": 16,
+    "globalRank": 396,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 466,
     "title": "What is inline caching?",
     "slug": "what-is-inline-caching",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 20,
-    "globalRank": 387,
+    "rank": 17,
+    "globalRank": 397,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3875,38 +3975,28 @@
     "slug": "what-are-the-differences-between-sharedarraybuffer-and-arraybuffer",
     "section": "Arrays and Iteration",
     "tier": 3,
-    "rank": 21,
-    "globalRank": 388,
+    "rank": 18,
+    "globalRank": 398,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 516,
     "title": "What is the Atomics API and when should it be used?",
     "slug": "what-is-the-atomics-api-and-when-should-it-be-used",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 22,
-    "globalRank": 389,
+    "rank": 19,
+    "globalRank": 399,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 485,
     "title": "What are WeakRef and FinalizationRegistry used for?",
     "slug": "what-are-weakref-and-finalizationregistry-used-for",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 23,
-    "globalRank": 390,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 487,
-    "title": "What is the Temporal API and why is it proposed as a replacement for Date?",
-    "slug": "what-is-the-temporal-api-and-why-is-it-proposed-as-a-replacement-for-date",
-    "section": "Modern JavaScript",
-    "tier": 3,
-    "rank": 24,
-    "globalRank": 391,
+    "rank": 20,
+    "globalRank": 400,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3915,18 +4005,18 @@
     "slug": "what-are-the-performance-implications-of-using-try-catch-in-javascript",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 25,
-    "globalRank": 392,
+    "rank": 21,
+    "globalRank": 401,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 510,
     "title": "What is tail call optimization and does JavaScript support it?",
     "slug": "what-is-tail-call-optimization-and-does-javascript-support-it",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 26,
-    "globalRank": 393,
+    "rank": 22,
+    "globalRank": 402,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3935,8 +4025,8 @@
     "slug": "how-to-use-await-outside-of-async-function-prior-to-es2022",
     "section": "Async JavaScript",
     "tier": 3,
-    "rank": 27,
-    "globalRank": 394,
+    "rank": 23,
+    "globalRank": 403,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3945,18 +4035,18 @@
     "slug": "what-is-the-difference-between-substring-and-substr-methods",
     "section": "Values and Types",
     "tier": 3,
-    "rank": 28,
-    "globalRank": 395,
+    "rank": 24,
+    "globalRank": 404,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 298,
     "title": "What is jQuery",
     "slug": "what-is-jquery",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 29,
-    "globalRank": 396,
+    "rank": 25,
+    "globalRank": 405,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3965,28 +4055,18 @@
     "slug": "what-is-the-mean-stack",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 30,
-    "globalRank": 397,
+    "rank": 26,
+    "globalRank": 406,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 77,
     "title": "What is eval",
     "slug": "what-is-eval",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 31,
-    "globalRank": 398,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 78,
-    "title": "What is the difference between window and document",
-    "slug": "what-is-the-difference-between-window-and-document",
-    "section": "Browser and DOM",
-    "tier": 3,
-    "rank": 32,
-    "globalRank": 399,
+    "rank": 27,
+    "globalRank": 407,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -3995,18 +4075,18 @@
     "slug": "how-do-you-access-history-in-javascript",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 33,
-    "globalRank": 400,
+    "rank": 28,
+    "globalRank": 408,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 80,
     "title": "How do you detect caps lock key turned on or not",
     "slug": "how-do-you-detect-caps-lock-key-turned-on-or-not",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 34,
-    "globalRank": 401,
+    "rank": 29,
+    "globalRank": 409,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4015,18 +4095,18 @@
     "slug": "how-do-you-submit-a-form-using-javascript",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 35,
-    "globalRank": 402,
+    "rank": 30,
+    "globalRank": 410,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 91,
     "title": "How do you find operating system details",
     "slug": "how-do-you-find-operating-system-details",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 36,
-    "globalRank": 403,
+    "rank": 31,
+    "globalRank": 411,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4035,48 +4115,48 @@
     "slug": "what-is-the-difference-between-native-host-and-user-objects",
     "section": "Objects and Prototypes",
     "tier": 3,
-    "rank": 37,
-    "globalRank": 404,
+    "rank": 32,
+    "globalRank": 412,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 98,
     "title": "What is the purpose of void 0",
     "slug": "what-is-the-purpose-of-void-0",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 38,
-    "globalRank": 405,
+    "rank": 33,
+    "globalRank": 413,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 101,
     "title": "Is there any relation between Java and JavaScript",
     "slug": "is-there-any-relation-between-java-and-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 39,
-    "globalRank": 406,
+    "rank": 34,
+    "globalRank": 414,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 103,
     "title": "Who created javascript",
     "slug": "who-created-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 40,
-    "globalRank": 407,
+    "rank": 35,
+    "globalRank": 415,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 106,
     "title": "What are the steps involved in return false usage",
     "slug": "what-are-the-steps-involved-in-return-false-usage",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 41,
-    "globalRank": 408,
+    "rank": 36,
+    "globalRank": 416,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4085,38 +4165,18 @@
     "slug": "what-is-bom",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 42,
-    "globalRank": 409,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 118,
-    "title": "What are PWAs",
-    "slug": "what-are-pwas",
-    "section": "JavaScript",
-    "tier": 3,
-    "rank": 43,
-    "globalRank": 410,
+    "rank": 37,
+    "globalRank": 417,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 121,
     "title": "How do you redirect new page in javascript",
     "slug": "how-do-you-redirect-new-page-in-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 44,
-    "globalRank": 411,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 123,
-    "title": "How do you validate an email in javascript",
-    "slug": "how-do-you-validate-an-email-in-javascript",
-    "section": "JavaScript",
-    "tier": 3,
-    "rank": 45,
-    "globalRank": 412,
+    "rank": 38,
+    "globalRank": 418,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4125,48 +4185,48 @@
     "slug": "is-the----notation-represents-a-special-operator",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 46,
-    "globalRank": 413,
+    "rank": 39,
+    "globalRank": 419,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 141,
     "title": "What is an app shell model",
     "slug": "what-is-an-app-shell-model",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 47,
-    "globalRank": 414,
+    "rank": 40,
+    "globalRank": 420,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 146,
     "title": "What are js labels",
     "slug": "what-are-js-labels",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 48,
-    "globalRank": 415,
+    "rank": 41,
+    "globalRank": 421,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 147,
     "title": "What are the benefits of keeping declarations at the top",
     "slug": "what-are-the-benefits-of-keeping-declarations-at-the-top",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 49,
-    "globalRank": 416,
+    "rank": 42,
+    "globalRank": 422,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 155,
     "title": "Is it recommended to use eval",
     "slug": "is-it-recommended-to-use-eval",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 50,
-    "globalRank": 417,
+    "rank": 43,
+    "globalRank": 423,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4175,8 +4235,8 @@
     "slug": "how-do-you-detect-a-mobile-browser",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 51,
-    "globalRank": 418,
+    "rank": 44,
+    "globalRank": 424,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4185,18 +4245,18 @@
     "slug": "how-do-you-detect-a-mobile-browser-without-regexp",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 52,
-    "globalRank": 419,
+    "rank": 45,
+    "globalRank": 425,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 170,
     "title": "How do you get the image width and height using JS",
     "slug": "how-do-you-get-the-image-width-and-height-using-js",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 53,
-    "globalRank": 420,
+    "rank": 46,
+    "globalRank": 426,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4205,18 +4265,8 @@
     "slug": "how-do-you-make-synchronous-http-request",
     "section": "Async JavaScript",
     "tier": 3,
-    "rank": 54,
-    "globalRank": 421,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 177,
-    "title": "What are the ways to execute javascript after a page load",
-    "slug": "what-are-the-ways-to-execute-javascript-after-a-page-load",
-    "section": "JavaScript",
-    "tier": 3,
-    "rank": 55,
-    "globalRank": 422,
+    "rank": 47,
+    "globalRank": 427,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4225,18 +4275,18 @@
     "slug": "how-do-you-detect-a-browser-language-preference",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 56,
-    "globalRank": 423,
+    "rank": 48,
+    "globalRank": 428,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 185,
     "title": "How do you detect if javascript is disabled on the page",
     "slug": "how-do-you-detect-if-javascript-is-disabled-on-the-page",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 57,
-    "globalRank": 424,
+    "rank": 49,
+    "globalRank": 429,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4245,48 +4295,38 @@
     "slug": "what-are-the-bitwise-operators-available-in-javascript",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 58,
-    "globalRank": 425,
+    "rank": 50,
+    "globalRank": 430,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 211,
     "title": "What is the purpose of uneval",
     "slug": "what-is-the-purpose-of-uneval",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 59,
-    "globalRank": 426,
+    "rank": 51,
+    "globalRank": 431,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 214,
     "title": "How do you print the contents of web page",
     "slug": "how-do-you-print-the-contents-of-web-page",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 60,
-    "globalRank": 427,
+    "rank": 52,
+    "globalRank": 432,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 215,
     "title": "What is the difference between uneval and eval",
     "slug": "what-is-the-difference-between-uneval-and-eval",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 61,
-    "globalRank": 428,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 241,
-    "title": "What is a decorator",
-    "slug": "what-is-a-decorator",
-    "section": "JavaScript",
-    "tier": 3,
-    "rank": 62,
-    "globalRank": 429,
+    "rank": 53,
+    "globalRank": 433,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4295,18 +4335,18 @@
     "slug": "what-is-an-unary-operator",
     "section": "Functions and Scope",
     "tier": 3,
-    "rank": 63,
-    "globalRank": 430,
+    "rank": 54,
+    "globalRank": 434,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 249,
     "title": "What is an empty statement and purpose of it",
     "slug": "what-is-an-empty-statement-and-purpose-of-it",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 64,
-    "globalRank": 431,
+    "rank": 55,
+    "globalRank": 435,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4315,8 +4355,8 @@
     "slug": "what-is-the-comma-operator",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 65,
-    "globalRank": 432,
+    "rank": 56,
+    "globalRank": 436,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4325,8 +4365,8 @@
     "slug": "what-is-the-advantage-of-the-comma-operator",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 66,
-    "globalRank": 433,
+    "rank": 57,
+    "globalRank": 437,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4335,8 +4375,8 @@
     "slug": "what-is-obfuscation-in-javascript",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 67,
-    "globalRank": 434,
+    "rank": 58,
+    "globalRank": 438,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4345,8 +4385,8 @@
     "slug": "why-do-you-need-obfuscation",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 68,
-    "globalRank": 435,
+    "rank": 59,
+    "globalRank": 439,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4355,8 +4395,8 @@
     "slug": "what-is-minification",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 69,
-    "globalRank": 436,
+    "rank": 60,
+    "globalRank": 440,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4365,8 +4405,8 @@
     "slug": "what-are-the-advantages-of-minification",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 70,
-    "globalRank": 437,
+    "rank": 61,
+    "globalRank": 441,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4375,8 +4415,8 @@
     "slug": "what-are-the-differences-between-obfuscation-and-encryption",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 71,
-    "globalRank": 438,
+    "rank": 62,
+    "globalRank": 442,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4385,68 +4425,68 @@
     "slug": "what-are-the-common-tools-used-for-minification",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 72,
-    "globalRank": 439,
+    "rank": 63,
+    "globalRank": 443,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 279,
     "title": "Give an example usage of the rangeOverflow property",
     "slug": "give-an-example-usage-of-the-rangeoverflow-property",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 73,
-    "globalRank": 440,
+    "rank": 64,
+    "globalRank": 444,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 280,
     "title": "Are enums available in javascript",
     "slug": "are-enums-available-in-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 74,
-    "globalRank": 441,
+    "rank": 65,
+    "globalRank": 445,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 281,
     "title": "What is an enum",
     "slug": "what-is-an-enum",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 75,
-    "globalRank": 442,
+    "rank": 66,
+    "globalRank": 446,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 292,
     "title": "Does JavaScript support namespaces",
     "slug": "does-javascript-support-namespaces",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 76,
-    "globalRank": 443,
+    "rank": 67,
+    "globalRank": 447,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 293,
     "title": "How do you declare a namespace",
     "slug": "how-do-you-declare-a-namespace",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 77,
-    "globalRank": 444,
+    "rank": 68,
+    "globalRank": 448,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 294,
     "title": "How do you invoke javascript code in an iframe from the parent page",
     "slug": "how-do-you-invoke-javascript-code-in-an-iframe-from-the-parent-page",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 78,
-    "globalRank": 445,
+    "rank": 69,
+    "globalRank": 449,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4455,38 +4495,38 @@
     "slug": "what-is-a-void-operator",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 79,
-    "globalRank": 446,
+    "rank": 70,
+    "globalRank": 450,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 302,
     "title": "How to set the cursor to wait",
     "slug": "how-to-set-the-cursor-to-wait",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 80,
-    "globalRank": 447,
+    "rank": 71,
+    "globalRank": 451,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 303,
     "title": "How do you create an infinite loop",
     "slug": "how-do-you-create-an-infinite-loop",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 81,
-    "globalRank": 448,
+    "rank": 72,
+    "globalRank": 452,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 304,
     "title": "Why do you need to avoid with statement",
     "slug": "why-do-you-need-to-avoid-with-statement",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 82,
-    "globalRank": 449,
+    "rank": 73,
+    "globalRank": 453,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4495,8 +4535,8 @@
     "slug": "what-is-the-output-of-the-following-for-loops",
     "section": "Arrays and Iteration",
     "tier": 3,
-    "rank": 83,
-    "globalRank": 450,
+    "rank": 74,
+    "globalRank": 454,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4505,18 +4545,18 @@
     "slug": "what-is-es6",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 84,
-    "globalRank": 451,
+    "rank": 75,
+    "globalRank": 455,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 313,
     "title": "What are nesting templates",
     "slug": "what-are-nesting-templates",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 85,
-    "globalRank": 452,
+    "rank": 76,
+    "globalRank": 456,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4525,8 +4565,8 @@
     "slug": "what-are-raw-strings",
     "section": "Values and Types",
     "tier": 3,
-    "rank": 86,
-    "globalRank": 453,
+    "rank": 77,
+    "globalRank": 457,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4535,18 +4575,18 @@
     "slug": "what-are-the-advantages-of-module-loaders",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 87,
-    "globalRank": 454,
+    "rank": 78,
+    "globalRank": 458,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 324,
     "title": "What is collation",
     "slug": "what-is-collation",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 88,
-    "globalRank": 455,
+    "rank": 79,
+    "globalRank": 459,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4555,38 +4595,38 @@
     "slug": "what-is-the-output-of-below-spread-operator-array",
     "section": "Arrays and Iteration",
     "tier": 3,
-    "rank": 89,
-    "globalRank": 456,
+    "rank": 80,
+    "globalRank": 460,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 332,
     "title": "What paradigm is Javascript",
     "slug": "what-paradigm-is-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 90,
-    "globalRank": 457,
+    "rank": 81,
+    "globalRank": 461,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 333,
     "title": "What is the difference between internal and external javascript",
     "slug": "what-is-the-difference-between-internal-and-external-javascript",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 91,
-    "globalRank": 458,
+    "rank": 82,
+    "globalRank": 462,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 334,
     "title": "Is JavaScript faster than server side script",
     "slug": "is-javascript-faster-than-server-side-script",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 92,
-    "globalRank": 459,
+    "rank": 83,
+    "globalRank": 463,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4595,18 +4635,18 @@
     "slug": "what-is-the-purpose-of-double-tilde-operator",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 93,
-    "globalRank": 460,
+    "rank": 84,
+    "globalRank": 464,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 337,
     "title": "How do you convert character to ASCII code",
     "slug": "how-do-you-convert-character-to-ascii-code",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 94,
-    "globalRank": 461,
+    "rank": 85,
+    "globalRank": 465,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4615,8 +4655,8 @@
     "slug": "what-is-the-output-of-below-string-expression",
     "section": "Values and Types",
     "tier": 3,
-    "rank": 95,
-    "globalRank": 462,
+    "rank": 86,
+    "globalRank": 466,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4625,28 +4665,18 @@
     "slug": "what-is-the-purpose-of-evalerror-object",
     "section": "Objects and Prototypes",
     "tier": 3,
-    "rank": 96,
-    "globalRank": 463,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 342,
-    "title": "What are the list of cases error thrown from non-strict mode to strict mode",
-    "slug": "what-are-the-list-of-cases-error-thrown-from-non-strict-mode-to-strict-mode",
-    "section": "JavaScript",
-    "tier": 3,
-    "rank": 97,
-    "globalRank": 464,
+    "rank": 87,
+    "globalRank": 467,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 352,
     "title": "Does javascript uses mixins",
     "slug": "does-javascript-uses-mixins",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 98,
-    "globalRank": 465,
+    "rank": 88,
+    "globalRank": 468,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4655,18 +4685,18 @@
     "slug": "mixin-example-using-object-composition",
     "section": "Objects and Prototypes",
     "tier": 3,
-    "rank": 99,
-    "globalRank": 466,
+    "rank": 89,
+    "globalRank": 469,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 354,
     "title": "Benefits",
     "slug": "benefits",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 100,
-    "globalRank": 467,
+    "rank": 90,
+    "globalRank": 470,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4675,8 +4705,8 @@
     "slug": "what-is-a-thunk-function",
     "section": "Async JavaScript",
     "tier": 3,
-    "rank": 101,
-    "globalRank": 468,
+    "rank": 91,
+    "globalRank": 471,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4685,8 +4715,8 @@
     "slug": "what-are-asynchronous-thunks",
     "section": "Async JavaScript",
     "tier": 3,
-    "rank": 102,
-    "globalRank": 469,
+    "rank": 92,
+    "globalRank": 472,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4695,8 +4725,8 @@
     "slug": "what-is-the-output-of-below-function-calls",
     "section": "Functions and Scope",
     "tier": 3,
-    "rank": 103,
-    "globalRank": 470,
+    "rank": 93,
+    "globalRank": 473,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4705,8 +4735,8 @@
     "slug": "what-happens-with-negating-an-array",
     "section": "Arrays and Iteration",
     "tier": 3,
-    "rank": 104,
-    "globalRank": 471,
+    "rank": 94,
+    "globalRank": 474,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4715,8 +4745,8 @@
     "slug": "what-happens-if-we-add-two-arrays",
     "section": "Arrays and Iteration",
     "tier": 3,
-    "rank": 105,
-    "globalRank": 472,
+    "rank": 95,
+    "globalRank": 475,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4725,8 +4755,8 @@
     "slug": "what-is-the-output-of-prepend-additive-operator-on-falsy-values",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 106,
-    "globalRank": 473,
+    "rank": 96,
+    "globalRank": 476,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4735,8 +4765,8 @@
     "slug": "how-do-you-create-self-string-using-special-characters",
     "section": "Values and Types",
     "tier": 3,
-    "rank": 107,
-    "globalRank": 474,
+    "rank": 97,
+    "globalRank": 477,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4745,8 +4775,8 @@
     "slug": "how-do-you-create-an-array-with-some-data",
     "section": "Arrays and Iteration",
     "tier": 3,
-    "rank": 108,
-    "globalRank": 475,
+    "rank": 98,
+    "globalRank": 478,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4755,8 +4785,8 @@
     "slug": "what-are-the-placeholders-from-console-object",
     "section": "Objects and Prototypes",
     "tier": 3,
-    "rank": 109,
-    "globalRank": 476,
+    "rank": 99,
+    "globalRank": 479,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4765,8 +4795,8 @@
     "slug": "is-it-possible-to-add-css-to-console-messages",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 110,
-    "globalRank": 477,
+    "rank": 100,
+    "globalRank": 480,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4775,8 +4805,8 @@
     "slug": "what-is-the-purpose-of-dir-method-of-console-object",
     "section": "Objects and Prototypes",
     "tier": 3,
-    "rank": 111,
-    "globalRank": 478,
+    "rank": 101,
+    "globalRank": 481,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4785,8 +4815,8 @@
     "slug": "is-it-possible-to-debug-html-elements-in-console",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 112,
-    "globalRank": 479,
+    "rank": 102,
+    "globalRank": 482,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4795,28 +4825,28 @@
     "slug": "how-do-you-display-data-in-a-tabular-format-using-console-object",
     "section": "Objects and Prototypes",
     "tier": 3,
-    "rank": 113,
-    "globalRank": 480,
+    "rank": 103,
+    "globalRank": 483,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 379,
     "title": "What is the shortcut to get timestamp",
     "slug": "what-is-the-shortcut-to-get-timestamp",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 114,
-    "globalRank": 481,
+    "rank": 104,
+    "globalRank": 484,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 381,
     "title": "What is the easiest multi condition checking",
     "slug": "what-is-the-easiest-multi-condition-checking",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 115,
-    "globalRank": 482,
+    "rank": 105,
+    "globalRank": 485,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4825,18 +4855,18 @@
     "slug": "how-do-you-capture-browser-back-button",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 116,
-    "globalRank": 483,
+    "rank": 106,
+    "globalRank": 486,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 383,
     "title": "How do you disable right click in the web page",
     "slug": "how-do-you-disable-right-click-in-the-web-page",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 117,
-    "globalRank": 484,
+    "rank": 107,
+    "globalRank": 487,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4845,18 +4875,8 @@
     "slug": "what-are-wrapper-objects",
     "section": "Objects and Prototypes",
     "tier": 3,
-    "rank": 118,
-    "globalRank": 485,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 385,
-    "title": "What is AJAX",
-    "slug": "what-is-ajax",
-    "section": "JavaScript",
-    "tier": 3,
-    "rank": 119,
-    "globalRank": 486,
+    "rank": 108,
+    "globalRank": 488,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4865,8 +4885,8 @@
     "slug": "what-is-minimum-timeout-throttling",
     "section": "Async JavaScript",
     "tier": 3,
-    "rank": 120,
-    "globalRank": 487,
+    "rank": 109,
+    "globalRank": 489,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4875,8 +4895,8 @@
     "slug": "how-do-you-implement-zero-timeout-in-modern-browsers",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 121,
-    "globalRank": 488,
+    "rank": 110,
+    "globalRank": 490,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4885,8 +4905,8 @@
     "slug": "what-are-different-event-loops",
     "section": "Async JavaScript",
     "tier": 3,
-    "rank": 122,
-    "globalRank": 489,
+    "rank": 111,
+    "globalRank": 491,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4895,8 +4915,8 @@
     "slug": "how-do-you-use-javascript-libraries-in-typescript-file",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 123,
-    "globalRank": 490,
+    "rank": 112,
+    "globalRank": 492,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4905,8 +4925,8 @@
     "slug": "what-is-an-event-table",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 124,
-    "globalRank": 491,
+    "rank": 113,
+    "globalRank": 493,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4915,18 +4935,18 @@
     "slug": "what-is-deno",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 125,
-    "globalRank": 492,
+    "rank": 114,
+    "globalRank": 494,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 415,
     "title": "What is a Proper Tail Call",
     "slug": "what-is-a-proper-tail-call",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 126,
-    "globalRank": 493,
+    "rank": 115,
+    "globalRank": 495,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4935,8 +4955,8 @@
     "slug": "how-do-you-check-an-object-is-a-promise-or-not",
     "section": "Async JavaScript",
     "tier": 3,
-    "rank": 127,
-    "globalRank": 494,
+    "rank": 116,
+    "globalRank": 496,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4945,8 +4965,8 @@
     "slug": "how-to-detect-if-a-function-is-called-as-constructor",
     "section": "Functions and Scope",
     "tier": 3,
-    "rank": 128,
-    "globalRank": 495,
+    "rank": 117,
+    "globalRank": 497,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4955,18 +4975,18 @@
     "slug": "what-are-the-different-kinds-of-generators",
     "section": "Async JavaScript",
     "tier": 3,
-    "rank": 129,
-    "globalRank": 496,
+    "rank": 118,
+    "globalRank": 498,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 423,
     "title": "How do you define instance and non-instance properties",
     "slug": "how-do-you-define-instance-and-non-instance-properties",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 130,
-    "globalRank": 497,
+    "rank": 119,
+    "globalRank": 499,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4975,18 +4995,18 @@
     "slug": "how-to-invoke-an-iife-without-any-extra-brackets",
     "section": "Functions and Scope",
     "tier": 3,
-    "rank": 131,
-    "globalRank": 498,
+    "rank": 120,
+    "globalRank": 500,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 426,
     "title": "Is that possible to use expressions in switch cases?",
     "slug": "is-that-possible-to-use-expressions-in-switch-cases",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 132,
-    "globalRank": 499,
+    "rank": 121,
+    "globalRank": 501,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -4995,8 +5015,8 @@
     "slug": "what-is-the-easiest-way-to-ignore-promise-errors",
     "section": "Async JavaScript",
     "tier": 3,
-    "rank": 133,
-    "globalRank": 500,
+    "rank": 122,
+    "globalRank": 502,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -5005,8 +5025,8 @@
     "slug": "how-do-style-the-console-output-using-css",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 134,
-    "globalRank": 501,
+    "rank": 123,
+    "globalRank": 503,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -5015,8 +5035,8 @@
     "slug": "how-do-you-group-and-nest-console-output",
     "section": "Browser and DOM",
     "tier": 3,
-    "rank": 135,
-    "globalRank": 502,
+    "rank": 124,
+    "globalRank": 504,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
@@ -5025,27 +5045,7 @@
     "slug": "what-are-the-different-ways-to-create-sparse-arrays",
     "section": "Arrays and Iteration",
     "tier": 3,
-    "rank": 136,
-    "globalRank": 503,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 433,
-    "title": "What is the difference between setTimeout, setImmediate and process.nextTick?",
-    "slug": "what-is-the-difference-between-settimeout-setimmediate-and-processnexttick",
-    "section": "JavaScript",
-    "tier": 3,
-    "rank": 137,
-    "globalRank": 504,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 435,
-    "title": "How do you create custom HTML element?",
-    "slug": "how-do-you-create-custom-html-element",
-    "section": "Browser and DOM",
-    "tier": 3,
-    "rank": 138,
+    "rank": 125,
     "globalRank": 505,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
@@ -5053,9 +5053,9 @@
     "id": 447,
     "title": "What is referential transparency?",
     "slug": "what-is-referential-transparency",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 139,
+    "rank": 126,
     "globalRank": 506,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
@@ -5065,7 +5065,7 @@
     "slug": "what-is-module-pattern",
     "section": "Modules and Tooling",
     "tier": 3,
-    "rank": 140,
+    "rank": 127,
     "globalRank": 507,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
@@ -5075,7 +5075,7 @@
     "slug": "what-is-the-difference-between-synchronous-and-asynchronous-generators",
     "section": "Async JavaScript",
     "tier": 3,
-    "rank": 141,
+    "rank": 128,
     "globalRank": 508,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
@@ -5085,7 +5085,7 @@
     "slug": "what-is-the-output-of-below-console-statement-with-unary-operator",
     "section": "Functions and Scope",
     "tier": 3,
-    "rank": 142,
+    "rank": 129,
     "globalRank": 509,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
@@ -5095,7 +5095,7 @@
     "slug": "what-is-the-reason-to-choose-the-name-let-as-a-keyword",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 143,
+    "rank": 130,
     "globalRank": 510,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
@@ -5105,78 +5105,18 @@
     "slug": "how-do-you-redeclare-variables-in-a-switch-block-without-an-error",
     "section": "Modern JavaScript",
     "tier": 3,
-    "rank": 144,
+    "rank": 131,
     "globalRank": 511,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 39,
-    "title": "Why do you need a Cookie",
-    "slug": "why-do-you-need-a-cookie",
-    "section": "Browser and DOM",
-    "tier": 3,
-    "rank": 145,
-    "globalRank": 512,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 40,
-    "title": "What are the options in a cookie",
-    "slug": "what-are-the-options-in-a-cookie",
-    "section": "Browser and DOM",
-    "tier": 3,
-    "rank": 146,
-    "globalRank": 513,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 41,
-    "title": "How do you delete a cookie",
-    "slug": "how-do-you-delete-a-cookie",
-    "section": "Browser and DOM",
-    "tier": 3,
-    "rank": 147,
-    "globalRank": 514,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 45,
-    "title": "What are the methods available on session storage",
-    "slug": "what-are-the-methods-available-on-session-storage",
-    "section": "Browser and DOM",
-    "tier": 3,
-    "rank": 148,
-    "globalRank": 515,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 46,
-    "title": "What is a storage event and its event handler",
-    "slug": "what-is-a-storage-event-and-its-event-handler",
-    "section": "Browser and DOM",
-    "tier": 3,
-    "rank": 149,
-    "globalRank": 516,
-    "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
-  },
-  {
-    "id": 48,
-    "title": "How do you check web storage browser support",
-    "slug": "how-do-you-check-web-storage-browser-support",
-    "section": "Browser and DOM",
-    "tier": 3,
-    "rank": 150,
-    "globalRank": 517,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   },
   {
     "id": 164,
     "title": "What would be the result of 1+2+'3'",
     "slug": "what-would-be-the-result-of-123",
-    "section": "JavaScript",
+    "section": "Language Basics",
     "tier": 3,
-    "rank": 151,
-    "globalRank": 518,
+    "rank": 132,
+    "globalRank": 512,
     "priorityBasis": "narrow, legacy, puzzle-oriented, or less transferable detail"
   }
 ]

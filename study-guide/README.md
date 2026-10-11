@@ -1,6 +1,6 @@
 # JavaScript Interview Study Guide
 
-A static study checklist for the 518 numbered questions and answers in the repository README. It expands answer content in place, searches by question or topic, and syncs checked items through Cloud Firestore.
+A static study checklist built from the repository's 518 numbered questions and answers. Six overlapping prompts are combined into representative study cards, leaving 512 items. Answers expand in place, questions can be searched by topic, and checked items sync through Cloud Firestore.
 
 ## Progress sync
 
@@ -16,7 +16,7 @@ I reviewed the full question list and assigned every item a position and tier us
 
 “Core” starts with closures and scope, `this` and function behavior, promises and event-loop ordering, data types, objects and arrays, common coding patterns, and browser event handling. “Next” contains useful supporting concepts and deeper or role-specific topics. “Optional” contains narrower APIs, legacy details, highly specialized runtime topics, and isolated output puzzles. Repeated questions on the same concept are lower than the clearest representative where possible.
 
-The current cut is **100 Core**, **267 Next**, and **151 Optional**. The displayed numbers put Core first, followed by Next and Optional; within each tier, related topics are grouped and the order reflects broad usefulness before narrower detail. Treat nearby positions as a study sequence, not as a meaningful difference in measured odds.
+The current cut is **102 Core**, **278 Next**, and **132 Optional**. Recent review moved browser storage, classic browser questions, decorators, reactive programming, and other realistic topics into Next; it also promoted cookie/storage comparisons and reflow/repaint into Core. The displayed numbers put Core first, followed by Next and Optional; within each tier, related topics are grouped and the order reflects broad usefulness before narrower detail. Treat nearby positions as a study sequence, not as a meaningful difference in measured odds.
 
 The order draws on overlap between current frontend interview prep material such as [GreatFrontEnd’s JavaScript interview checklist](https://www.greatfrontend.com/front-end-interview-playbook/javascript) and [BFE.dev’s JavaScript interview task list](https://bigfrontend.dev/list/rzit2j8m6s7g3z6bnus). Those sources are preparation guides, not a representative dataset of actual interviews. The ranking is therefore a reasoned study order, not a claim of measured interview frequency; role, seniority, and company can change what matters.
 

@@ -11,6 +11,7 @@ const empty = document.querySelector('#empty-state');
 const syncStatus = document.querySelector('#sync-status');
 let questions = [];
 let answers = {};
+let availableQuestionIds = null;
 let activeTier = 'all';
 let completed = readProgress();
 let syncReady = !configured;
@@ -29,7 +30,7 @@ function setSyncStatus(message, state = '') {
   syncStatus.dataset.state = state;
 }
 function validIds(value) {
-  return Array.isArray(value) ? value.filter(id => Number.isInteger(id) && id > 0 && id <= 518) : [];
+  return Array.isArray(value) ? value.filter(id => Number.isInteger(id) && id > 0 && id <= 518 && (!availableQuestionIds || availableQuestionIds.has(id))) : [];
 }
 function syncSharedProgress() {
   if (!configured) {
@@ -192,6 +193,9 @@ Promise.all([fetch('./questions.json'), fetch('./answers.json')]).then(async ([q
   return Promise.all([questionResponse.json(), answerResponse.json()]);
 }).then(([questionData, answerData]) => {
   questions = questionData.sort((a,b) => a.globalRank - b.globalRank);
+  availableQuestionIds = new Set(questions.map(question => question.id));
+  completed = new Set(validIds([...completed]));
+  saveProgress();
   answers = answerData;
   updateProgress(); render();
   syncSharedProgress();

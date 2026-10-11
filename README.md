@@ -2,7 +2,7 @@
 
 ## Interactive JavaScript Interview Study Guide
 
-**[Open the study guide](https://amansachdev.github.io/javascript-interview-questions/)** — work through all 518 JavaScript interview questions in a reviewed study order, search by topic, expand answers on the page, and check off what you have studied. It includes the answers from this README, so you can prepare without jumping between pages.
+**[Open the study guide](https://amansachdev.github.io/javascript-interview-questions/)** — study the 518 JavaScript questions from this README in a reviewed order, with repeated prompts combined into 512 study cards. Search by topic, expand answers on the page, and check off what you have studied without jumping between pages.
 
 Your checklist syncs through the shared Firebase project used by [personal-notes](https://amansachdev.github.io/personal-notes/), so it follows you across devices. Everyone using the public study-guide link shares and can change the same checklist. The priorities are based on topic breadth, practical coding relevance, transferability, and currency, checked against current frontend interview-prep guides. They are editorial guidance, not measured interview-frequency data; role and seniority can change what matters.
 
